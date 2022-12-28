@@ -1,0 +1,1477 @@
+	
+uuid	"47da3fc7-4c0a-44d0-885d-c55b9ca2854d"
+title	"Estancia media según países de residencia. Canarias y periodos."
+uriPx	"urn:uuid:f529996d-167c-453a-aa06-17752b6a1203"
+stub	
+0	"Países de residencia"
+heading	
+0	"Periodos"
+categories	
+0	
+variable	"Países de residencia"
+codes	
+0	"0"
+1	"DEU276"
+2	"BEL056"
+3	"ESP724"
+4	"FRA250"
+5	"NLD528"
+6	"IRL372"
+7	"ITA380"
+8	"DNK208_FIN246_NOR578_SWE752"
+9	"GBR826"
+10	"CHE756"
+11	"ZZZ900"
+labels	
+0	"TOTAL"
+1	"Alemania"
+2	"Bélgica"
+3	"España"
+4	"Francia"
+5	"Holanda"
+6	"Irlanda"
+7	"Italia"
+8	"Países Nórdicos"
+9	"Reino Unido"
+10	"Suiza"
+11	"Otros países"
+1	
+variable	"Periodos"
+codes	
+0	"2022Q3"
+1	"2022Q2"
+2	"2022Q1"
+3	"2021"
+4	"2021Q4"
+5	"2021Q3"
+6	"2021Q2"
+7	"2021Q1"
+8	"2020"
+9	"2020Q4"
+10	"2020Q3"
+11	"2020Q2"
+12	"2020Q1"
+13	"2019"
+14	"2019Q4"
+15	"2019Q3"
+16	"2019Q2"
+17	"2019Q1"
+18	"2018"
+19	"2018Q4"
+20	"2018Q3"
+21	"2018Q2"
+22	"2018Q1"
+labels	
+0	"2022 Tercer trimestre"
+1	"2022 Segundo trimestre"
+2	"2022 Primer trimestre"
+3	"2021"
+4	"2021 Cuarto trimestre"
+5	"2021 Tercer trimestre"
+6	"2021 Segundo trimestre"
+7	"2021 Primer trimestre"
+8	"2020"
+9	"2020 Cuarto trimestre"
+10	"2020 Tercer trimestre"
+11	"2020 Segundo trimestre"
+12	"2020 Primer trimestre"
+13	"2019"
+14	"2019 Cuarto trimestre"
+15	"2019 Tercer trimestre"
+16	"2019 Segundo trimestre"
+17	"2019 Primer trimestre"
+18	"2018"
+19	"2018 Cuarto trimestre"
+20	"2018 Tercer trimestre"
+21	"2018 Segundo trimestre"
+22	"2018 Primer trimestre"
+temporals	
+0	"Periodos"
+spatials	
+0	"Países de residencia"
+source	"Instituto Canario de Estadística (ISTAC)."
+surveyCode	"C00028A"
+surveyTitle	"Encuesta sobre el Gasto Turístico"
+publishers	
+0	"Instituto Canario de Estadística (ISTAC)"
+data	
+0	
+Valor	"9.43"
+dimCodes	
+0	"0"
+1	"2022Q3"
+1	
+Valor	"8.91"
+dimCodes	
+0	"0"
+1	"2022Q2"
+2	
+Valor	"9.71"
+dimCodes	
+0	"0"
+1	"2022Q1"
+3	
+Valor	"9.54"
+dimCodes	
+0	"0"
+1	"2021"
+4	
+Valor	"8.85"
+dimCodes	
+0	"0"
+1	"2021Q4"
+5	
+Valor	"9.32"
+dimCodes	
+0	"0"
+1	"2021Q3"
+6	
+Valor	"11.22"
+dimCodes	
+0	"0"
+1	"2021Q2"
+7	
+Valor	"13.27"
+dimCodes	
+0	"0"
+1	"2021Q1"
+8	
+Valor	"10.14"
+dimCodes	
+0	"0"
+1	"2020"
+9	
+Valor	"9.94"
+dimCodes	
+0	"0"
+1	"2020Q4"
+10	
+Valor	"10.15"
+dimCodes	
+0	"0"
+1	"2020Q3"
+11	
+Valor	".."
+dimCodes	
+0	"0"
+1	"2020Q2"
+12	
+Valor	"10.19"
+dimCodes	
+0	"0"
+1	"2020Q1"
+13	
+Valor	"9.13"
+dimCodes	
+0	"0"
+1	"2019"
+14	
+Valor	"8.98"
+dimCodes	
+0	"0"
+1	"2019Q4"
+15	
+Valor	"9.46"
+dimCodes	
+0	"0"
+1	"2019Q3"
+16	
+Valor	"8.75"
+dimCodes	
+0	"0"
+1	"2019Q2"
+17	
+Valor	"9.32"
+dimCodes	
+0	"0"
+1	"2019Q1"
+18	
+Valor	"9.34"
+dimCodes	
+0	"0"
+1	"2018"
+19	
+Valor	"8.78"
+dimCodes	
+0	"0"
+1	"2018Q4"
+20	
+Valor	"9.59"
+dimCodes	
+0	"0"
+1	"2018Q3"
+21	
+Valor	"8.93"
+dimCodes	
+0	"0"
+1	"2018Q2"
+22	
+Valor	"10.03"
+dimCodes	
+0	"0"
+1	"2018Q1"
+23	
+Valor	"10.52"
+dimCodes	
+0	"DEU276"
+1	"2022Q3"
+24	
+Valor	"11.48"
+dimCodes	
+0	"DEU276"
+1	"2022Q2"
+25	
+Valor	"11.86"
+dimCodes	
+0	"DEU276"
+1	"2022Q1"
+26	
+Valor	"11.30"
+dimCodes	
+0	"DEU276"
+1	"2021"
+27	
+Valor	"10.29"
+dimCodes	
+0	"DEU276"
+1	"2021Q4"
+28	
+Valor	"10.22"
+dimCodes	
+0	"DEU276"
+1	"2021Q3"
+29	
+Valor	"14.85"
+dimCodes	
+0	"DEU276"
+1	"2021Q2"
+30	
+Valor	"16.68"
+dimCodes	
+0	"DEU276"
+1	"2021Q1"
+31	
+Valor	"11.67"
+dimCodes	
+0	"DEU276"
+1	"2020"
+32	
+Valor	"11.00"
+dimCodes	
+0	"DEU276"
+1	"2020Q4"
+33	
+Valor	"11.10"
+dimCodes	
+0	"DEU276"
+1	"2020Q3"
+34	
+Valor	".."
+dimCodes	
+0	"DEU276"
+1	"2020Q2"
+35	
+Valor	"11.96"
+dimCodes	
+0	"DEU276"
+1	"2020Q1"
+36	
+Valor	"10.72"
+dimCodes	
+0	"DEU276"
+1	"2019"
+37	
+Valor	"10.42"
+dimCodes	
+0	"DEU276"
+1	"2019Q4"
+38	
+Valor	"10.39"
+dimCodes	
+0	"DEU276"
+1	"2019Q3"
+39	
+Valor	"10.74"
+dimCodes	
+0	"DEU276"
+1	"2019Q2"
+40	
+Valor	"11.22"
+dimCodes	
+0	"DEU276"
+1	"2019Q1"
+41	
+Valor	"10.70"
+dimCodes	
+0	"DEU276"
+1	"2018"
+42	
+Valor	"10.00"
+dimCodes	
+0	"DEU276"
+1	"2018Q4"
+43	
+Valor	"10.41"
+dimCodes	
+0	"DEU276"
+1	"2018Q3"
+44	
+Valor	"10.26"
+dimCodes	
+0	"DEU276"
+1	"2018Q2"
+45	
+Valor	"12.05"
+dimCodes	
+0	"DEU276"
+1	"2018Q1"
+46	
+Valor	"9.60"
+dimCodes	
+0	"BEL056"
+1	"2022Q3"
+47	
+Valor	"9.02"
+dimCodes	
+0	"BEL056"
+1	"2022Q2"
+48	
+Valor	"10.85"
+dimCodes	
+0	"BEL056"
+1	"2022Q1"
+49	
+Valor	"10.38"
+dimCodes	
+0	"BEL056"
+1	"2021"
+50	
+Valor	"8.63"
+dimCodes	
+0	"BEL056"
+1	"2021Q4"
+51	
+Valor	"9.83"
+dimCodes	
+0	"BEL056"
+1	"2021Q3"
+52	
+Valor	"16.18"
+dimCodes	
+0	"BEL056"
+1	"2021Q2"
+53	
+Valor	"17.11"
+dimCodes	
+0	"BEL056"
+1	"2021Q1"
+54	
+Valor	"11.38"
+dimCodes	
+0	"BEL056"
+1	"2020"
+55	
+Valor	"10.97"
+dimCodes	
+0	"BEL056"
+1	"2020Q4"
+56	
+Valor	"9.69"
+dimCodes	
+0	"BEL056"
+1	"2020Q3"
+57	
+Valor	".."
+dimCodes	
+0	"BEL056"
+1	"2020Q2"
+58	
+Valor	"12.57"
+dimCodes	
+0	"BEL056"
+1	"2020Q1"
+59	
+Valor	"10.26"
+dimCodes	
+0	"BEL056"
+1	"2019"
+60	
+Valor	"9.98"
+dimCodes	
+0	"BEL056"
+1	"2019Q4"
+61	
+Valor	"9.70"
+dimCodes	
+0	"BEL056"
+1	"2019Q3"
+62	
+Valor	"10.45"
+dimCodes	
+0	"BEL056"
+1	"2019Q2"
+63	
+Valor	"10.99"
+dimCodes	
+0	"BEL056"
+1	"2019Q1"
+64	
+Valor	"10.13"
+dimCodes	
+0	"BEL056"
+1	"2018"
+65	
+Valor	"9.66"
+dimCodes	
+0	"BEL056"
+1	"2018Q4"
+66	
+Valor	"9.74"
+dimCodes	
+0	"BEL056"
+1	"2018Q3"
+67	
+Valor	"10.10"
+dimCodes	
+0	"BEL056"
+1	"2018Q2"
+68	
+Valor	"11.11"
+dimCodes	
+0	"BEL056"
+1	"2018Q1"
+69	
+Valor	"8.13"
+dimCodes	
+0	"ESP724"
+1	"2022Q3"
+70	
+Valor	"6.06"
+dimCodes	
+0	"ESP724"
+1	"2022Q2"
+71	
+Valor	"6.92"
+dimCodes	
+0	"ESP724"
+1	"2022Q1"
+72	
+Valor	"7.57"
+dimCodes	
+0	"ESP724"
+1	"2021"
+73	
+Valor	"6.51"
+dimCodes	
+0	"ESP724"
+1	"2021Q4"
+74	
+Valor	"8.23"
+dimCodes	
+0	"ESP724"
+1	"2021Q3"
+75	
+Valor	"7.04"
+dimCodes	
+0	"ESP724"
+1	"2021Q2"
+76	
+Valor	"8.86"
+dimCodes	
+0	"ESP724"
+1	"2021Q1"
+77	
+Valor	"7.73"
+dimCodes	
+0	"ESP724"
+1	"2020"
+78	
+Valor	"7.53"
+dimCodes	
+0	"ESP724"
+1	"2020Q4"
+79	
+Valor	"8.41"
+dimCodes	
+0	"ESP724"
+1	"2020Q3"
+80	
+Valor	".."
+dimCodes	
+0	"ESP724"
+1	"2020Q2"
+81	
+Valor	"7.06"
+dimCodes	
+0	"ESP724"
+1	"2020Q1"
+82	
+Valor	"6.99"
+dimCodes	
+0	"ESP724"
+1	"2019"
+83	
+Valor	"6.47"
+dimCodes	
+0	"ESP724"
+1	"2019Q4"
+84	
+Valor	"8.27"
+dimCodes	
+0	"ESP724"
+1	"2019Q3"
+85	
+Valor	"6.66"
+dimCodes	
+0	"ESP724"
+1	"2019Q2"
+86	
+Valor	"5.99"
+dimCodes	
+0	"ESP724"
+1	"2019Q1"
+87	
+Valor	"7.39"
+dimCodes	
+0	"ESP724"
+1	"2018"
+88	
+Valor	"6.89"
+dimCodes	
+0	"ESP724"
+1	"2018Q4"
+89	
+Valor	"8.64"
+dimCodes	
+0	"ESP724"
+1	"2018Q3"
+90	
+Valor	"6.54"
+dimCodes	
+0	"ESP724"
+1	"2018Q2"
+91	
+Valor	"6.99"
+dimCodes	
+0	"ESP724"
+1	"2018Q1"
+92	
+Valor	"9.87"
+dimCodes	
+0	"FRA250"
+1	"2022Q3"
+93	
+Valor	"8.12"
+dimCodes	
+0	"FRA250"
+1	"2022Q2"
+94	
+Valor	"9.15"
+dimCodes	
+0	"FRA250"
+1	"2022Q1"
+95	
+Valor	"9.11"
+dimCodes	
+0	"FRA250"
+1	"2021"
+96	
+Valor	"7.86"
+dimCodes	
+0	"FRA250"
+1	"2021Q4"
+97	
+Valor	"9.77"
+dimCodes	
+0	"FRA250"
+1	"2021Q3"
+98	
+Valor	"9.88"
+dimCodes	
+0	"FRA250"
+1	"2021Q2"
+99	
+Valor	"10.44"
+dimCodes	
+0	"FRA250"
+1	"2021Q1"
+100	
+Valor	"9.41"
+dimCodes	
+0	"FRA250"
+1	"2020"
+101	
+Valor	"8.88"
+dimCodes	
+0	"FRA250"
+1	"2020Q4"
+102	
+Valor	"12.74"
+dimCodes	
+0	"FRA250"
+1	"2020Q3"
+103	
+Valor	".."
+dimCodes	
+0	"FRA250"
+1	"2020Q2"
+104	
+Valor	"8.68"
+dimCodes	
+0	"FRA250"
+1	"2020Q1"
+105	
+Valor	"8.53"
+dimCodes	
+0	"FRA250"
+1	"2019"
+106	
+Valor	"8.04"
+dimCodes	
+0	"FRA250"
+1	"2019Q4"
+107	
+Valor	"9.22"
+dimCodes	
+0	"FRA250"
+1	"2019Q3"
+108	
+Valor	"8.15"
+dimCodes	
+0	"FRA250"
+1	"2019Q2"
+109	
+Valor	"8.70"
+dimCodes	
+0	"FRA250"
+1	"2019Q1"
+110	
+Valor	"9.16"
+dimCodes	
+0	"FRA250"
+1	"2018"
+111	
+Valor	"8.36"
+dimCodes	
+0	"FRA250"
+1	"2018Q4"
+112	
+Valor	"9.87"
+dimCodes	
+0	"FRA250"
+1	"2018Q3"
+113	
+Valor	"8.77"
+dimCodes	
+0	"FRA250"
+1	"2018Q2"
+114	
+Valor	"9.51"
+dimCodes	
+0	"FRA250"
+1	"2018Q1"
+115	
+Valor	"9.40"
+dimCodes	
+0	"NLD528"
+1	"2022Q3"
+116	
+Valor	"9.30"
+dimCodes	
+0	"NLD528"
+1	"2022Q2"
+117	
+Valor	"9.45"
+dimCodes	
+0	"NLD528"
+1	"2022Q1"
+118	
+Valor	"8.97"
+dimCodes	
+0	"NLD528"
+1	"2021"
+119	
+Valor	"8.49"
+dimCodes	
+0	"NLD528"
+1	"2021Q4"
+120	
+Valor	"9.08"
+dimCodes	
+0	"NLD528"
+1	"2021Q3"
+121	
+Valor	"10.43"
+dimCodes	
+0	"NLD528"
+1	"2021Q2"
+122	
+Valor	"16.16"
+dimCodes	
+0	"NLD528"
+1	"2021Q1"
+123	
+Valor	"8.99"
+dimCodes	
+0	"NLD528"
+1	"2020"
+124	
+Valor	"10.20"
+dimCodes	
+0	"NLD528"
+1	"2020Q4"
+125	
+Valor	"9.74"
+dimCodes	
+0	"NLD528"
+1	"2020Q3"
+126	
+Valor	".."
+dimCodes	
+0	"NLD528"
+1	"2020Q2"
+127	
+Valor	"8.67"
+dimCodes	
+0	"NLD528"
+1	"2020Q1"
+128	
+Valor	"9.31"
+dimCodes	
+0	"NLD528"
+1	"2019"
+129	
+Valor	"8.61"
+dimCodes	
+0	"NLD528"
+1	"2019Q4"
+130	
+Valor	"10.27"
+dimCodes	
+0	"NLD528"
+1	"2019Q3"
+131	
+Valor	"9.63"
+dimCodes	
+0	"NLD528"
+1	"2019Q2"
+132	
+Valor	"8.88"
+dimCodes	
+0	"NLD528"
+1	"2019Q1"
+133	
+Valor	"8.91"
+dimCodes	
+0	"NLD528"
+1	"2018"
+134	
+Valor	"8.22"
+dimCodes	
+0	"NLD528"
+1	"2018Q4"
+135	
+Valor	"9.08"
+dimCodes	
+0	"NLD528"
+1	"2018Q3"
+136	
+Valor	"9.12"
+dimCodes	
+0	"NLD528"
+1	"2018Q2"
+137	
+Valor	"9.19"
+dimCodes	
+0	"NLD528"
+1	"2018Q1"
+138	
+Valor	"9.98"
+dimCodes	
+0	"IRL372"
+1	"2022Q3"
+139	
+Valor	"8.73"
+dimCodes	
+0	"IRL372"
+1	"2022Q2"
+140	
+Valor	"8.46"
+dimCodes	
+0	"IRL372"
+1	"2022Q1"
+141	
+Valor	"9.44"
+dimCodes	
+0	"IRL372"
+1	"2021"
+142	
+Valor	"8.59"
+dimCodes	
+0	"IRL372"
+1	"2021Q4"
+143	
+Valor	"8.91"
+dimCodes	
+0	"IRL372"
+1	"2021Q3"
+144	
+Valor	"29.36"
+dimCodes	
+0	"IRL372"
+1	"2021Q2"
+145	
+Valor	"16.25"
+dimCodes	
+0	"IRL372"
+1	"2021Q1"
+146	
+Valor	"9.96"
+dimCodes	
+0	"IRL372"
+1	"2020"
+147	
+Valor	"12.18"
+dimCodes	
+0	"IRL372"
+1	"2020Q4"
+148	
+Valor	"12.20"
+dimCodes	
+0	"IRL372"
+1	"2020Q3"
+149	
+Valor	".."
+dimCodes	
+0	"IRL372"
+1	"2020Q2"
+150	
+Valor	"9.20"
+dimCodes	
+0	"IRL372"
+1	"2020Q1"
+151	
+Valor	"9.01"
+dimCodes	
+0	"IRL372"
+1	"2019"
+152	
+Valor	"9.14"
+dimCodes	
+0	"IRL372"
+1	"2019Q4"
+153	
+Valor	"9.65"
+dimCodes	
+0	"IRL372"
+1	"2019Q3"
+154	
+Valor	"8.55"
+dimCodes	
+0	"IRL372"
+1	"2019Q2"
+155	
+Valor	"8.59"
+dimCodes	
+0	"IRL372"
+1	"2019Q1"
+156	
+Valor	"8.37"
+dimCodes	
+0	"IRL372"
+1	"2018"
+157	
+Valor	"8.03"
+dimCodes	
+0	"IRL372"
+1	"2018Q4"
+158	
+Valor	"8.76"
+dimCodes	
+0	"IRL372"
+1	"2018Q3"
+159	
+Valor	"8.55"
+dimCodes	
+0	"IRL372"
+1	"2018Q2"
+160	
+Valor	"8.07"
+dimCodes	
+0	"IRL372"
+1	"2018Q1"
+161	
+Valor	"11.75"
+dimCodes	
+0	"ITA380"
+1	"2022Q3"
+162	
+Valor	"11.57"
+dimCodes	
+0	"ITA380"
+1	"2022Q2"
+163	
+Valor	"10.86"
+dimCodes	
+0	"ITA380"
+1	"2022Q1"
+164	
+Valor	"11.23"
+dimCodes	
+0	"ITA380"
+1	"2021"
+165	
+Valor	"10.11"
+dimCodes	
+0	"ITA380"
+1	"2021Q4"
+166	
+Valor	"11.10"
+dimCodes	
+0	"ITA380"
+1	"2021Q3"
+167	
+Valor	"12.73"
+dimCodes	
+0	"ITA380"
+1	"2021Q2"
+168	
+Valor	"15.75"
+dimCodes	
+0	"ITA380"
+1	"2021Q1"
+169	
+Valor	"12.98"
+dimCodes	
+0	"ITA380"
+1	"2020"
+170	
+Valor	"13.05"
+dimCodes	
+0	"ITA380"
+1	"2020Q4"
+171	
+Valor	"11.83"
+dimCodes	
+0	"ITA380"
+1	"2020Q3"
+172	
+Valor	".."
+dimCodes	
+0	"ITA380"
+1	"2020Q2"
+173	
+Valor	"13.46"
+dimCodes	
+0	"ITA380"
+1	"2020Q1"
+174	
+Valor	"9.84"
+dimCodes	
+0	"ITA380"
+1	"2019"
+175	
+Valor	"8.79"
+dimCodes	
+0	"ITA380"
+1	"2019Q4"
+176	
+Valor	"10.90"
+dimCodes	
+0	"ITA380"
+1	"2019Q3"
+177	
+Valor	"8.62"
+dimCodes	
+0	"ITA380"
+1	"2019Q2"
+178	
+Valor	"10.68"
+dimCodes	
+0	"ITA380"
+1	"2019Q1"
+179	
+Valor	"10.18"
+dimCodes	
+0	"ITA380"
+1	"2018"
+180	
+Valor	"9.13"
+dimCodes	
+0	"ITA380"
+1	"2018Q4"
+181	
+Valor	"11.49"
+dimCodes	
+0	"ITA380"
+1	"2018Q3"
+182	
+Valor	"8.97"
+dimCodes	
+0	"ITA380"
+1	"2018Q2"
+183	
+Valor	"10.94"
+dimCodes	
+0	"ITA380"
+1	"2018Q1"
+184	
+Valor	"10.37"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2022Q3"
+185	
+Valor	"10.71"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2022Q2"
+186	
+Valor	"10.51"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2022Q1"
+187	
+Valor	"10.36"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2021"
+188	
+Valor	"9.72"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2021Q4"
+189	
+Valor	"9.70"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2021Q3"
+190	
+Valor	"18.45"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2021Q2"
+191	
+Valor	"18.38"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2021Q1"
+192	
+Valor	"10.97"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2020"
+193	
+Valor	"10.99"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2020Q4"
+194	
+Valor	"15.76"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2020Q3"
+195	
+Valor	".."
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2020Q2"
+196	
+Valor	"10.93"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2020Q1"
+197	
+Valor	"9.80"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2019"
+198	
+Valor	"9.67"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2019Q4"
+199	
+Valor	"9.75"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2019Q3"
+200	
+Valor	"9.58"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2019Q2"
+201	
+Valor	"9.97"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2019Q1"
+202	
+Valor	"10.21"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2018"
+203	
+Valor	"9.20"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2018Q4"
+204	
+Valor	"10.20"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2018Q3"
+205	
+Valor	"9.94"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2018Q2"
+206	
+Valor	"11.05"
+dimCodes	
+0	"DNK208_FIN246_NOR578_SWE752"
+1	"2018Q1"
+207	
+Valor	"9.13"
+dimCodes	
+0	"GBR826"
+1	"2022Q3"
+208	
+Valor	"8.30"
+dimCodes	
+0	"GBR826"
+1	"2022Q2"
+209	
+Valor	"8.74"
+dimCodes	
+0	"GBR826"
+1	"2022Q1"
+210	
+Valor	"9.00"
+dimCodes	
+0	"GBR826"
+1	"2021"
+211	
+Valor	"8.40"
+dimCodes	
+0	"GBR826"
+1	"2021Q4"
+212	
+Valor	"9.40"
+dimCodes	
+0	"GBR826"
+1	"2021Q3"
+213	
+Valor	"20.45"
+dimCodes	
+0	"GBR826"
+1	"2021Q2"
+214	
+Valor	"28.98"
+dimCodes	
+0	"GBR826"
+1	"2021Q1"
+215	
+Valor	"9.64"
+dimCodes	
+0	"GBR826"
+1	"2020"
+216	
+Valor	"10.28"
+dimCodes	
+0	"GBR826"
+1	"2020Q4"
+217	
+Valor	"12.42"
+dimCodes	
+0	"GBR826"
+1	"2020Q3"
+218	
+Valor	".."
+dimCodes	
+0	"GBR826"
+1	"2020Q2"
+219	
+Valor	"9.15"
+dimCodes	
+0	"GBR826"
+1	"2020Q1"
+220	
+Valor	"8.52"
+dimCodes	
+0	"GBR826"
+1	"2019"
+221	
+Valor	"8.28"
+dimCodes	
+0	"GBR826"
+1	"2019Q4"
+222	
+Valor	"9.19"
+dimCodes	
+0	"GBR826"
+1	"2019Q3"
+223	
+Valor	"8.24"
+dimCodes	
+0	"GBR826"
+1	"2019Q2"
+224	
+Valor	"8.35"
+dimCodes	
+0	"GBR826"
+1	"2019Q1"
+225	
+Valor	"8.64"
+dimCodes	
+0	"GBR826"
+1	"2018"
+226	
+Valor	"8.08"
+dimCodes	
+0	"GBR826"
+1	"2018Q4"
+227	
+Valor	"9.21"
+dimCodes	
+0	"GBR826"
+1	"2018Q3"
+228	
+Valor	"8.53"
+dimCodes	
+0	"GBR826"
+1	"2018Q2"
+229	
+Valor	"8.81"
+dimCodes	
+0	"GBR826"
+1	"2018Q1"
+230	
+Valor	"9.90"
+dimCodes	
+0	"CHE756"
+1	"2022Q3"
+231	
+Valor	"8.75"
+dimCodes	
+0	"CHE756"
+1	"2022Q2"
+232	
+Valor	"10.85"
+dimCodes	
+0	"CHE756"
+1	"2022Q1"
+233	
+Valor	"9.90"
+dimCodes	
+0	"CHE756"
+1	"2021"
+234	
+Valor	"9.18"
+dimCodes	
+0	"CHE756"
+1	"2021Q4"
+235	
+Valor	"9.80"
+dimCodes	
+0	"CHE756"
+1	"2021Q3"
+236	
+Valor	"10.50"
+dimCodes	
+0	"CHE756"
+1	"2021Q2"
+237	
+Valor	"13.96"
+dimCodes	
+0	"CHE756"
+1	"2021Q1"
+238	
+Valor	"10.91"
+dimCodes	
+0	"CHE756"
+1	"2020"
+239	
+Valor	"10.95"
+dimCodes	
+0	"CHE756"
+1	"2020Q4"
+240	
+Valor	"9.82"
+dimCodes	
+0	"CHE756"
+1	"2020Q3"
+241	
+Valor	".."
+dimCodes	
+0	"CHE756"
+1	"2020Q2"
+242	
+Valor	"11.20"
+dimCodes	
+0	"CHE756"
+1	"2020Q1"
+243	
+Valor	"10.02"
+dimCodes	
+0	"CHE756"
+1	"2019"
+244	
+Valor	"9.91"
+dimCodes	
+0	"CHE756"
+1	"2019Q4"
+245	
+Valor	"9.40"
+dimCodes	
+0	"CHE756"
+1	"2019Q3"
+246	
+Valor	"10.38"
+dimCodes	
+0	"CHE756"
+1	"2019Q2"
+247	
+Valor	"10.35"
+dimCodes	
+0	"CHE756"
+1	"2019Q1"
+248	
+Valor	"9.07"
+dimCodes	
+0	"CHE756"
+1	"2018"
+249	
+Valor	"8.62"
+dimCodes	
+0	"CHE756"
+1	"2018Q4"
+250	
+Valor	"9.38"
+dimCodes	
+0	"CHE756"
+1	"2018Q3"
+251	
+Valor	"8.88"
+dimCodes	
+0	"CHE756"
+1	"2018Q2"
+252	
+Valor	"9.56"
+dimCodes	
+0	"CHE756"
+1	"2018Q1"
+253	
+Valor	"9.51"
+dimCodes	
+0	"ZZZ900"
+1	"2022Q3"
+254	
+Valor	"9.67"
+dimCodes	
+0	"ZZZ900"
+1	"2022Q2"
+255	
+Valor	"11.10"
+dimCodes	
+0	"ZZZ900"
+1	"2022Q1"
+256	
+Valor	"10.32"
+dimCodes	
+0	"ZZZ900"
+1	"2021"
+257	
+Valor	"9.45"
+dimCodes	
+0	"ZZZ900"
+1	"2021Q4"
+258	
+Valor	"9.68"
+dimCodes	
+0	"ZZZ900"
+1	"2021Q3"
+259	
+Valor	"11.72"
+dimCodes	
+0	"ZZZ900"
+1	"2021Q2"
+260	
+Valor	"13.21"
+dimCodes	
+0	"ZZZ900"
+1	"2021Q1"
+261	
+Valor	"11.50"
+dimCodes	
+0	"ZZZ900"
+1	"2020"
+262	
+Valor	"11.19"
+dimCodes	
+0	"ZZZ900"
+1	"2020Q4"
+263	
+Valor	"10.40"
+dimCodes	
+0	"ZZZ900"
+1	"2020Q3"
+264	
+Valor	".."
+dimCodes	
+0	"ZZZ900"
+1	"2020Q2"
+265	
+Valor	"11.90"
+dimCodes	
+0	"ZZZ900"
+1	"2020Q1"
+266	
+Valor	"10.29"
+dimCodes	
+0	"ZZZ900"
+1	"2019"
+267	
+Valor	"10.43"
+dimCodes	
+0	"ZZZ900"
+1	"2019Q4"
+268	
+Valor	"10.34"
+dimCodes	
+0	"ZZZ900"
+1	"2019Q3"
+269	
+Valor	"9.31"
+dimCodes	
+0	"ZZZ900"
+1	"2019Q2"
+270	
+Valor	"10.92"
+dimCodes	
+0	"ZZZ900"
+1	"2019Q1"
+271	
+Valor	"10.68"
+dimCodes	
+0	"ZZZ900"
+1	"2018"
+272	
+Valor	"10.33"
+dimCodes	
+0	"ZZZ900"
+1	"2018Q4"
+273	
+Valor	"10.50"
+dimCodes	
+0	"ZZZ900"
+1	"2018Q3"
+274	
+Valor	"10.56"
+dimCodes	
+0	"ZZZ900"
+1	"2018Q2"
+275	
+Valor	"11.34"
+dimCodes	
+0	"ZZZ900"
+1	"2018Q1"

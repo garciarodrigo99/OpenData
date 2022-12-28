@@ -1,0 +1,2533 @@
+	
+uuid	"e7b9259b-9775-4b0b-8719-db4e17230381"
+title	"Estancia media según países de residencia. Canarias y periodos."
+uriPx	"urn:uuid:842c0b4f-4583-4e50-b074-97b777a46b20"
+stub	
+0	"Países de residencia"
+heading	
+0	"Periodos"
+categories	
+0	
+variable	"Países de residencia"
+codes	
+0	"T"
+1	"DE"
+2	"BE"
+3	"ES"
+4	"FR"
+5	"NL"
+6	"IE"
+7	"IT"
+8	"DK_FI_NO_SE"
+9	"UK"
+10	"CH"
+11	"ZZ"
+labels	
+0	"TOTAL PAÍSES"
+1	"Alemania"
+2	"Bélgica"
+3	"España"
+4	"Francia"
+5	"Holanda"
+6	"Irlanda"
+7	"Italia"
+8	"Países Nórdicos"
+9	"Reino Unido"
+10	"Suiza"
+11	"Otros países"
+1	
+variable	"Periodos"
+codes	
+0	"2017"
+1	"2017Q4"
+2	"2017Q3"
+3	"2017Q2"
+4	"2017Q1"
+5	"2016"
+6	"2016Q4"
+7	"2016Q3"
+8	"2016Q2"
+9	"2016Q1"
+10	"2015"
+11	"2015Q4"
+12	"2015Q3"
+13	"2015Q2"
+14	"2015Q1"
+15	"2014"
+16	"2014Q4"
+17	"2014Q3"
+18	"2014Q2"
+19	"2014Q1"
+20	"2013"
+21	"2013Q4"
+22	"2013Q3"
+23	"2013Q2"
+24	"2013Q1"
+25	"2012"
+26	"2012Q4"
+27	"2012Q3"
+28	"2012Q2"
+29	"2012Q1"
+30	"2011"
+31	"2011Q4"
+32	"2011Q3"
+33	"2011Q2"
+34	"2011Q1"
+35	"2010"
+36	"2010Q4"
+37	"2010Q3"
+38	"2010Q2"
+39	"2010Q1"
+labels	
+0	"2017"
+1	"2017 Cuarto trimestre"
+2	"2017 Tercer trimestre"
+3	"2017 Segundo trimestre"
+4	"2017 Primer trimestre"
+5	"2016"
+6	"2016 Cuarto trimestre"
+7	"2016 Tercer trimestre"
+8	"2016 Segundo trimestre"
+9	"2016 Primer trimestre"
+10	"2015"
+11	"2015 Cuarto trimestre"
+12	"2015 Tercer trimestre"
+13	"2015 Segundo trimestre"
+14	"2015 Primer trimestre"
+15	"2014"
+16	"2014 Cuarto trimestre"
+17	"2014 Tercer trimestre"
+18	"2014 Segundo trimestre"
+19	"2014 Primer trimestre"
+20	"2013"
+21	"2013 Cuarto trimestre"
+22	"2013 Tercer trimestre"
+23	"2013 Segundo trimestre"
+24	"2013 Primer trimestre"
+25	"2012"
+26	"2012 Cuarto trimestre"
+27	"2012 Tercer trimestre"
+28	"2012 Segundo trimestre"
+29	"2012 Primer trimestre"
+30	"2011"
+31	"2011 Cuarto trimestre"
+32	"2011 Tercer trimestre"
+33	"2011 Segundo trimestre"
+34	"2011 Primer trimestre"
+35	"2010"
+36	"2010 Cuarto trimestre"
+37	"2010 Tercer trimestre"
+38	"2010 Segundo trimestre"
+39	"2010 Primer trimestre"
+temporals	
+0	"Periodos"
+spatials	
+0	"Países de residencia"
+notes	
+0	"(p) Dato provisional"
+source	"Instituto Canario de Estadística (ISTAC)."
+surveyCode	"C00028A"
+surveyTitle	"Encuesta sobre el Gasto Turístico"
+publishers	
+0	"Instituto Canario de Estadística (ISTAC)"
+data	
+0	
+Valor	"9.17"
+dimCodes	
+0	"T"
+1	"2017"
+1	
+Valor	"8.91"
+dimCodes	
+0	"T"
+1	"2017Q4"
+2	
+Valor	"9.46"
+dimCodes	
+0	"T"
+1	"2017Q3"
+3	
+Valor	"8.68"
+dimCodes	
+0	"T"
+1	"2017Q2"
+4	
+Valor	"9.61"
+dimCodes	
+0	"T"
+1	"2017Q1"
+5	
+Valor	"9.36"
+dimCodes	
+0	"T"
+1	"2016"
+6	
+Valor	"8.78"
+dimCodes	
+0	"T"
+1	"2016Q4"
+7	
+Valor	"9.71"
+dimCodes	
+0	"T"
+1	"2016Q3"
+8	
+Valor	"8.88"
+dimCodes	
+0	"T"
+1	"2016Q2"
+9	
+Valor	"10.04"
+dimCodes	
+0	"T"
+1	"2016Q1"
+10	
+Valor	"9.55"
+dimCodes	
+0	"T"
+1	"2015"
+11	
+Valor	"9.19"
+dimCodes	
+0	"T"
+1	"2015Q4"
+12	
+Valor	"9.77"
+dimCodes	
+0	"T"
+1	"2015Q3"
+13	
+Valor	"8.88"
+dimCodes	
+0	"T"
+1	"2015Q2"
+14	
+Valor	"10.28"
+dimCodes	
+0	"T"
+1	"2015Q1"
+15	
+Valor	"9.57"
+dimCodes	
+0	"T"
+1	"2014"
+16	
+Valor	"9.18"
+dimCodes	
+0	"T"
+1	"2014Q4"
+17	
+Valor	"9.74"
+dimCodes	
+0	"T"
+1	"2014Q3"
+18	
+Valor	"9.02"
+dimCodes	
+0	"T"
+1	"2014Q2"
+19	
+Valor	"10.25"
+dimCodes	
+0	"T"
+1	"2014Q1"
+20	
+Valor	"9.56"
+dimCodes	
+0	"T"
+1	"2013"
+21	
+Valor	"8.92"
+dimCodes	
+0	"T"
+1	"2013Q4"
+22	
+Valor	"9.86"
+dimCodes	
+0	"T"
+1	"2013Q3"
+23	
+Valor	"9.39"
+dimCodes	
+0	"T"
+1	"2013Q2"
+24	
+Valor	"10.10"
+dimCodes	
+0	"T"
+1	"2013Q1"
+25	
+Valor	"9.62"
+dimCodes	
+0	"T"
+1	"2012"
+26	
+Valor	"9.13"
+dimCodes	
+0	"T"
+1	"2012Q4"
+27	
+Valor	"10.10"
+dimCodes	
+0	"T"
+1	"2012Q3"
+28	
+Valor	"9.16"
+dimCodes	
+0	"T"
+1	"2012Q2"
+29	
+Valor	"10.02"
+dimCodes	
+0	"T"
+1	"2012Q1"
+30	
+Valor	"9.50"
+dimCodes	
+0	"T"
+1	"2011"
+31	
+Valor	"9.13"
+dimCodes	
+0	"T"
+1	"2011Q4"
+32	
+Valor	"9.59"
+dimCodes	
+0	"T"
+1	"2011Q3"
+33	
+Valor	"9.27"
+dimCodes	
+0	"T"
+1	"2011Q2"
+34	
+Valor	"9.99"
+dimCodes	
+0	"T"
+1	"2011Q1"
+35	
+Valor	"9.41"
+dimCodes	
+0	"T"
+1	"2010"
+36	
+Valor	"8.88"
+dimCodes	
+0	"T"
+1	"2010Q4"
+37	
+Valor	"9.82"
+dimCodes	
+0	"T"
+1	"2010Q3"
+38	
+Valor	"9.19"
+dimCodes	
+0	"T"
+1	"2010Q2"
+39	
+Valor	"9.76"
+dimCodes	
+0	"T"
+1	"2010Q1"
+40	
+Valor	"10.45"
+dimCodes	
+0	"DE"
+1	"2017"
+41	
+Valor	"10.09"
+dimCodes	
+0	"DE"
+1	"2017Q4"
+42	
+Valor	"10.32"
+dimCodes	
+0	"DE"
+1	"2017Q3"
+43	
+Valor	"10.51"
+dimCodes	
+0	"DE"
+1	"2017Q2"
+44	
+Valor	"10.92"
+dimCodes	
+0	"DE"
+1	"2017Q1"
+45	
+Valor	"10.67"
+dimCodes	
+0	"DE"
+1	"2016"
+46	
+Valor	"9.79"
+dimCodes	
+0	"DE"
+1	"2016Q4"
+47	
+Valor	"10.50"
+dimCodes	
+0	"DE"
+1	"2016Q3"
+48	
+Valor	"10.92"
+dimCodes	
+0	"DE"
+1	"2016Q2"
+49	
+Valor	"11.53"
+dimCodes	
+0	"DE"
+1	"2016Q1"
+50	
+Valor	"10.89"
+dimCodes	
+0	"DE"
+1	"2015"
+51	
+Valor	"10.55"
+dimCodes	
+0	"DE"
+1	"2015Q4"
+52	
+Valor	"10.49"
+dimCodes	
+0	"DE"
+1	"2015Q3"
+53	
+Valor	"10.38"
+dimCodes	
+0	"DE"
+1	"2015Q2"
+54	
+Valor	"11.89"
+dimCodes	
+0	"DE"
+1	"2015Q1"
+55	
+Valor	"10.82"
+dimCodes	
+0	"DE"
+1	"2014"
+56	
+Valor	"10.32"
+dimCodes	
+0	"DE"
+1	"2014Q4"
+57	
+Valor	"10.43"
+dimCodes	
+0	"DE"
+1	"2014Q3"
+58	
+Valor	"10.18"
+dimCodes	
+0	"DE"
+1	"2014Q2"
+59	
+Valor	"12.10"
+dimCodes	
+0	"DE"
+1	"2014Q1"
+60	
+Valor	"10.91"
+dimCodes	
+0	"DE"
+1	"2013"
+61	
+Valor	"9.90"
+dimCodes	
+0	"DE"
+1	"2013Q4"
+62	
+Valor	"10.58"
+dimCodes	
+0	"DE"
+1	"2013Q3"
+63	
+Valor	"11.85"
+dimCodes	
+0	"DE"
+1	"2013Q2"
+64	
+Valor	"11.67"
+dimCodes	
+0	"DE"
+1	"2013Q1"
+65	
+Valor	"10.99"
+dimCodes	
+0	"DE"
+1	"2012"
+66	
+Valor	"10.45"
+dimCodes	
+0	"DE"
+1	"2012Q4"
+67	
+Valor	"10.95"
+dimCodes	
+0	"DE"
+1	"2012Q3"
+68	
+Valor	"10.45"
+dimCodes	
+0	"DE"
+1	"2012Q2"
+69	
+Valor	"11.89"
+dimCodes	
+0	"DE"
+1	"2012Q1"
+70	
+Valor	"11.13"
+dimCodes	
+0	"DE"
+1	"2011"
+71	
+Valor	"10.23"
+dimCodes	
+0	"DE"
+1	"2011Q4"
+72	
+Valor	"10.52"
+dimCodes	
+0	"DE"
+1	"2011Q3"
+73	
+Valor	"11.47"
+dimCodes	
+0	"DE"
+1	"2011Q2"
+74	
+Valor	"12.27"
+dimCodes	
+0	"DE"
+1	"2011Q1"
+75	
+Valor	"11.16"
+dimCodes	
+0	"DE"
+1	"2010"
+76	
+Valor	"10.49"
+dimCodes	
+0	"DE"
+1	"2010Q4"
+77	
+Valor	"10.94"
+dimCodes	
+0	"DE"
+1	"2010Q3"
+78	
+Valor	"11.47"
+dimCodes	
+0	"DE"
+1	"2010Q2"
+79	
+Valor	"11.80"
+dimCodes	
+0	"DE"
+1	"2010Q1"
+80	
+Valor	"9.61"
+dimCodes	
+0	"BE"
+1	"2017"
+81	
+Valor	"9.00"
+dimCodes	
+0	"BE"
+1	"2017Q4"
+82	
+Valor	"9.74"
+dimCodes	
+0	"BE"
+1	"2017Q3"
+83	
+Valor	"8.83"
+dimCodes	
+0	"BE"
+1	"2017Q2"
+84	
+Valor	"10.83"
+dimCodes	
+0	"BE"
+1	"2017Q1"
+85	
+Valor	"10.00"
+dimCodes	
+0	"BE"
+1	"2016"
+86	
+Valor	"9.42"
+dimCodes	
+0	"BE"
+1	"2016Q4"
+87	
+Valor	"10.32"
+dimCodes	
+0	"BE"
+1	"2016Q3"
+88	
+Valor	"9.43"
+dimCodes	
+0	"BE"
+1	"2016Q2"
+89	
+Valor	"10.86"
+dimCodes	
+0	"BE"
+1	"2016Q1"
+90	
+Valor	"10.31"
+dimCodes	
+0	"BE"
+1	"2015"
+91	
+Valor	"8.83"
+dimCodes	
+0	"BE"
+1	"2015Q4"
+92	
+Valor	"11.12"
+dimCodes	
+0	"BE"
+1	"2015Q3"
+93	
+Valor	"9.99"
+dimCodes	
+0	"BE"
+1	"2015Q2"
+94	
+Valor	"11.45"
+dimCodes	
+0	"BE"
+1	"2015Q1"
+95	
+Valor	"9.70"
+dimCodes	
+0	"BE"
+1	"2014"
+96	
+Valor	"9.74"
+dimCodes	
+0	"BE"
+1	"2014Q4"
+97	
+Valor	"9.92"
+dimCodes	
+0	"BE"
+1	"2014Q3"
+98	
+Valor	"9.44"
+dimCodes	
+0	"BE"
+1	"2014Q2"
+99	
+Valor	"9.67"
+dimCodes	
+0	"BE"
+1	"2014Q1"
+100	
+Valor	"10.25"
+dimCodes	
+0	"BE"
+1	"2013"
+101	
+Valor	"10.24"
+dimCodes	
+0	"BE"
+1	"2013Q4"
+102	
+Valor	"9.94"
+dimCodes	
+0	"BE"
+1	"2013Q3"
+103	
+Valor	"9.27"
+dimCodes	
+0	"BE"
+1	"2013Q2"
+104	
+Valor	"11.29"
+dimCodes	
+0	"BE"
+1	"2013Q1"
+105	
+Valor	"9.86"
+dimCodes	
+0	"BE"
+1	"2012"
+106	
+Valor	"10.14"
+dimCodes	
+0	"BE"
+1	"2012Q4"
+107	
+Valor	"10.26"
+dimCodes	
+0	"BE"
+1	"2012Q3"
+108	
+Valor	"8.62"
+dimCodes	
+0	"BE"
+1	"2012Q2"
+109	
+Valor	"10.20"
+dimCodes	
+0	"BE"
+1	"2012Q1"
+110	
+Valor	"10.09"
+dimCodes	
+0	"BE"
+1	"2011"
+111	
+Valor	"11.04"
+dimCodes	
+0	"BE"
+1	"2011Q4"
+112	
+Valor	"9.86"
+dimCodes	
+0	"BE"
+1	"2011Q3"
+113	
+Valor	"9.96"
+dimCodes	
+0	"BE"
+1	"2011Q2"
+114	
+Valor	"9.50"
+dimCodes	
+0	"BE"
+1	"2011Q1"
+115	
+Valor	"9.26"
+dimCodes	
+0	"BE"
+1	"2010"
+116	
+Valor	"9.62"
+dimCodes	
+0	"BE"
+1	"2010Q4"
+117	
+Valor	"9.89"
+dimCodes	
+0	"BE"
+1	"2010Q3"
+118	
+Valor	"7.55"
+dimCodes	
+0	"BE"
+1	"2010Q2"
+119	
+Valor	"9.70"
+dimCodes	
+0	"BE"
+1	"2010Q1"
+120	
+Valor	"7.17"
+dimCodes	
+0	"ES"
+1	"2017"
+121	
+Valor	"6.52"
+dimCodes	
+0	"ES"
+1	"2017Q4"
+122	
+Valor	"8.47"
+dimCodes	
+0	"ES"
+1	"2017Q3"
+123	
+Valor	"6.43"
+dimCodes	
+0	"ES"
+1	"2017Q2"
+124	
+Valor	"6.69"
+dimCodes	
+0	"ES"
+1	"2017Q1"
+125	
+Valor	"7.48"
+dimCodes	
+0	"ES"
+1	"2016"
+126	
+Valor	"6.93"
+dimCodes	
+0	"ES"
+1	"2016Q4"
+127	
+Valor	"8.86"
+dimCodes	
+0	"ES"
+1	"2016Q3"
+128	
+Valor	"6.49"
+dimCodes	
+0	"ES"
+1	"2016Q2"
+129	
+Valor	"6.97"
+dimCodes	
+0	"ES"
+1	"2016Q1"
+130	
+Valor	"7.41"
+dimCodes	
+0	"ES"
+1	"2015"
+131	
+Valor	"7.09"
+dimCodes	
+0	"ES"
+1	"2015Q4"
+132	
+Valor	"8.48"
+dimCodes	
+0	"ES"
+1	"2015Q3"
+133	
+Valor	"6.31"
+dimCodes	
+0	"ES"
+1	"2015Q2"
+134	
+Valor	"7.16"
+dimCodes	
+0	"ES"
+1	"2015Q1"
+135	
+Valor	"7.49"
+dimCodes	
+0	"ES"
+1	"2014"
+136	
+Valor	"7.13"
+dimCodes	
+0	"ES"
+1	"2014Q4"
+137	
+Valor	"8.37"
+dimCodes	
+0	"ES"
+1	"2014Q3"
+138	
+Valor	"7.03"
+dimCodes	
+0	"ES"
+1	"2014Q2"
+139	
+Valor	"6.86"
+dimCodes	
+0	"ES"
+1	"2014Q1"
+140	
+Valor	"7.43"
+dimCodes	
+0	"ES"
+1	"2013"
+141	
+Valor	"6.87"
+dimCodes	
+0	"ES"
+1	"2013Q4"
+142	
+Valor	"8.20"
+dimCodes	
+0	"ES"
+1	"2013Q3"
+143	
+Valor	"7.06"
+dimCodes	
+0	"ES"
+1	"2013Q2"
+144	
+Valor	"7.18"
+dimCodes	
+0	"ES"
+1	"2013Q1"
+145	
+Valor	"7.30"
+dimCodes	
+0	"ES"
+1	"2012"
+146	
+Valor	"6.65"
+dimCodes	
+0	"ES"
+1	"2012Q4"
+147	
+Valor	"8.40"
+dimCodes	
+0	"ES"
+1	"2012Q3"
+148	
+Valor	"6.78"
+dimCodes	
+0	"ES"
+1	"2012Q2"
+149	
+Valor	"6.67"
+dimCodes	
+0	"ES"
+1	"2012Q1"
+150	
+Valor	"7.41"
+dimCodes	
+0	"ES"
+1	"2011"
+151	
+Valor	"7.13"
+dimCodes	
+0	"ES"
+1	"2011Q4"
+152	
+Valor	"8.20"
+dimCodes	
+0	"ES"
+1	"2011Q3"
+153	
+Valor	"6.71"
+dimCodes	
+0	"ES"
+1	"2011Q2"
+154	
+Valor	"7.20"
+dimCodes	
+0	"ES"
+1	"2011Q1"
+155	
+Valor	"7.13"
+dimCodes	
+0	"ES"
+1	"2010"
+156	
+Valor	"6.44"
+dimCodes	
+0	"ES"
+1	"2010Q4"
+157	
+Valor	"8.22"
+dimCodes	
+0	"ES"
+1	"2010Q3"
+158	
+Valor	"6.80"
+dimCodes	
+0	"ES"
+1	"2010Q2"
+159	
+Valor	"6.50"
+dimCodes	
+0	"ES"
+1	"2010Q1"
+160	
+Valor	"8.60"
+dimCodes	
+0	"FR"
+1	"2017"
+161	
+Valor	"7.92"
+dimCodes	
+0	"FR"
+1	"2017Q4"
+162	
+Valor	"9.67"
+dimCodes	
+0	"FR"
+1	"2017Q3"
+163	
+Valor	"8.04"
+dimCodes	
+0	"FR"
+1	"2017Q2"
+164	
+Valor	"8.59"
+dimCodes	
+0	"FR"
+1	"2017Q1"
+165	
+Valor	"8.86"
+dimCodes	
+0	"FR"
+1	"2016"
+166	
+Valor	"7.98"
+dimCodes	
+0	"FR"
+1	"2016Q4"
+167	
+Valor	"9.82"
+dimCodes	
+0	"FR"
+1	"2016Q3"
+168	
+Valor	"8.16"
+dimCodes	
+0	"FR"
+1	"2016Q2"
+169	
+Valor	"9.28"
+dimCodes	
+0	"FR"
+1	"2016Q1"
+170	
+Valor	"8.87"
+dimCodes	
+0	"FR"
+1	"2015"
+171	
+Valor	"9.06"
+dimCodes	
+0	"FR"
+1	"2015Q4"
+172	
+Valor	"9.62"
+dimCodes	
+0	"FR"
+1	"2015Q3"
+173	
+Valor	"8.48"
+dimCodes	
+0	"FR"
+1	"2015Q2"
+174	
+Valor	"8.26"
+dimCodes	
+0	"FR"
+1	"2015Q1"
+175	
+Valor	"8.94"
+dimCodes	
+0	"FR"
+1	"2014"
+176	
+Valor	"8.57"
+dimCodes	
+0	"FR"
+1	"2014Q4"
+177	
+Valor	"9.76"
+dimCodes	
+0	"FR"
+1	"2014Q3"
+178	
+Valor	"8.42"
+dimCodes	
+0	"FR"
+1	"2014Q2"
+179	
+Valor	"8.90"
+dimCodes	
+0	"FR"
+1	"2014Q1"
+180	
+Valor	"10.13"
+dimCodes	
+0	"FR"
+1	"2013"
+181	
+Valor	"9.85"
+dimCodes	
+0	"FR"
+1	"2013Q4"
+182	
+Valor	"11.78"
+dimCodes	
+0	"FR"
+1	"2013Q3"
+183	
+Valor	"9.08"
+dimCodes	
+0	"FR"
+1	"2013Q2"
+184	
+Valor	"9.57"
+dimCodes	
+0	"FR"
+1	"2013Q1"
+185	
+Valor	"9.31"
+dimCodes	
+0	"FR"
+1	"2012"
+186	
+Valor	"9.27"
+dimCodes	
+0	"FR"
+1	"2012Q4"
+187	
+Valor	"10.23"
+dimCodes	
+0	"FR"
+1	"2012Q3"
+188	
+Valor	"8.98"
+dimCodes	
+0	"FR"
+1	"2012Q2"
+189	
+Valor	"8.65"
+dimCodes	
+0	"FR"
+1	"2012Q1"
+190	
+Valor	"9.60"
+dimCodes	
+0	"FR"
+1	"2011"
+191	
+Valor	"8.55"
+dimCodes	
+0	"FR"
+1	"2011Q4"
+192	
+Valor	"11.30"
+dimCodes	
+0	"FR"
+1	"2011Q3"
+193	
+Valor	"9.30"
+dimCodes	
+0	"FR"
+1	"2011Q2"
+194	
+Valor	"9.04"
+dimCodes	
+0	"FR"
+1	"2011Q1"
+195	
+Valor	"9.48"
+dimCodes	
+0	"FR"
+1	"2010"
+196	
+Valor	"8.67"
+dimCodes	
+0	"FR"
+1	"2010Q4"
+197	
+Valor	"9.50"
+dimCodes	
+0	"FR"
+1	"2010Q3"
+198	
+Valor	"9.96"
+dimCodes	
+0	"FR"
+1	"2010Q2"
+199	
+Valor	"9.68"
+dimCodes	
+0	"FR"
+1	"2010Q1"
+200	
+Valor	"9.14"
+dimCodes	
+0	"NL"
+1	"2017"
+201	
+Valor	"9.19"
+dimCodes	
+0	"NL"
+1	"2017Q4"
+202	
+Valor	"9.67"
+dimCodes	
+0	"NL"
+1	"2017Q3"
+203	
+Valor	"8.76"
+dimCodes	
+0	"NL"
+1	"2017Q2"
+204	
+Valor	"8.85"
+dimCodes	
+0	"NL"
+1	"2017Q1"
+205	
+Valor	"9.01"
+dimCodes	
+0	"NL"
+1	"2016"
+206	
+Valor	"8.35"
+dimCodes	
+0	"NL"
+1	"2016Q4"
+207	
+Valor	"10.00"
+dimCodes	
+0	"NL"
+1	"2016Q3"
+208	
+Valor	"8.36"
+dimCodes	
+0	"NL"
+1	"2016Q2"
+209	
+Valor	"9.17"
+dimCodes	
+0	"NL"
+1	"2016Q1"
+210	
+Valor	"9.56"
+dimCodes	
+0	"NL"
+1	"2015"
+211	
+Valor	"8.78"
+dimCodes	
+0	"NL"
+1	"2015Q4"
+212	
+Valor	"10.01"
+dimCodes	
+0	"NL"
+1	"2015Q3"
+213	
+Valor	"8.88"
+dimCodes	
+0	"NL"
+1	"2015Q2"
+214	
+Valor	"10.52"
+dimCodes	
+0	"NL"
+1	"2015Q1"
+215	
+Valor	"10.38"
+dimCodes	
+0	"NL"
+1	"2014"
+216	
+Valor	"9.21"
+dimCodes	
+0	"NL"
+1	"2014Q4"
+217	
+Valor	"11.44"
+dimCodes	
+0	"NL"
+1	"2014Q3"
+218	
+Valor	"9.64"
+dimCodes	
+0	"NL"
+1	"2014Q2"
+219	
+Valor	"11.03"
+dimCodes	
+0	"NL"
+1	"2014Q1"
+220	
+Valor	"9.46"
+dimCodes	
+0	"NL"
+1	"2013"
+221	
+Valor	"9.24"
+dimCodes	
+0	"NL"
+1	"2013Q4"
+222	
+Valor	"10.29"
+dimCodes	
+0	"NL"
+1	"2013Q3"
+223	
+Valor	"8.18"
+dimCodes	
+0	"NL"
+1	"2013Q2"
+224	
+Valor	"9.82"
+dimCodes	
+0	"NL"
+1	"2013Q1"
+225	
+Valor	"10.27"
+dimCodes	
+0	"NL"
+1	"2012"
+226	
+Valor	"9.48"
+dimCodes	
+0	"NL"
+1	"2012Q4"
+227	
+Valor	"10.50"
+dimCodes	
+0	"NL"
+1	"2012Q3"
+228	
+Valor	"9.51"
+dimCodes	
+0	"NL"
+1	"2012Q2"
+229	
+Valor	"11.32"
+dimCodes	
+0	"NL"
+1	"2012Q1"
+230	
+Valor	"9.97"
+dimCodes	
+0	"NL"
+1	"2011"
+231	
+Valor	"9.44"
+dimCodes	
+0	"NL"
+1	"2011Q4"
+232	
+Valor	"10.65"
+dimCodes	
+0	"NL"
+1	"2011Q3"
+233	
+Valor	"9.19"
+dimCodes	
+0	"NL"
+1	"2011Q2"
+234	
+Valor	"10.46"
+dimCodes	
+0	"NL"
+1	"2011Q1"
+235	
+Valor	"10.09"
+dimCodes	
+0	"NL"
+1	"2010"
+236	
+Valor	"9.33"
+dimCodes	
+0	"NL"
+1	"2010Q4"
+237	
+Valor	"11.20"
+dimCodes	
+0	"NL"
+1	"2010Q3"
+238	
+Valor	"9.65"
+dimCodes	
+0	"NL"
+1	"2010Q2"
+239	
+Valor	"10.12"
+dimCodes	
+0	"NL"
+1	"2010Q1"
+240	
+Valor	"8.92"
+dimCodes	
+0	"IE"
+1	"2017"
+241	
+Valor	"8.70"
+dimCodes	
+0	"IE"
+1	"2017Q4"
+242	
+Valor	"8.99"
+dimCodes	
+0	"IE"
+1	"2017Q3"
+243	
+Valor	"8.48"
+dimCodes	
+0	"IE"
+1	"2017Q2"
+244	
+Valor	"9.60"
+dimCodes	
+0	"IE"
+1	"2017Q1"
+245	
+Valor	"8.98"
+dimCodes	
+0	"IE"
+1	"2016"
+246	
+Valor	"8.66"
+dimCodes	
+0	"IE"
+1	"2016Q4"
+247	
+Valor	"9.56"
+dimCodes	
+0	"IE"
+1	"2016Q3"
+248	
+Valor	"8.79"
+dimCodes	
+0	"IE"
+1	"2016Q2"
+249	
+Valor	"8.83"
+dimCodes	
+0	"IE"
+1	"2016Q1"
+250	
+Valor	"9.05"
+dimCodes	
+0	"IE"
+1	"2015"
+251	
+Valor	"9.07"
+dimCodes	
+0	"IE"
+1	"2015Q4"
+252	
+Valor	"9.34"
+dimCodes	
+0	"IE"
+1	"2015Q3"
+253	
+Valor	"8.30"
+dimCodes	
+0	"IE"
+1	"2015Q2"
+254	
+Valor	"9.64"
+dimCodes	
+0	"IE"
+1	"2015Q1"
+255	
+Valor	"9.41"
+dimCodes	
+0	"IE"
+1	"2014"
+256	
+Valor	"9.08"
+dimCodes	
+0	"IE"
+1	"2014Q4"
+257	
+Valor	"9.09"
+dimCodes	
+0	"IE"
+1	"2014Q3"
+258	
+Valor	"9.29"
+dimCodes	
+0	"IE"
+1	"2014Q2"
+259	
+Valor	"10.35"
+dimCodes	
+0	"IE"
+1	"2014Q1"
+260	
+Valor	"9.38"
+dimCodes	
+0	"IE"
+1	"2013"
+261	
+Valor	"8.84"
+dimCodes	
+0	"IE"
+1	"2013Q4"
+262	
+Valor	"9.84"
+dimCodes	
+0	"IE"
+1	"2013Q3"
+263	
+Valor	"8.74"
+dimCodes	
+0	"IE"
+1	"2013Q2"
+264	
+Valor	"10.07"
+dimCodes	
+0	"IE"
+1	"2013Q1"
+265	
+Valor	"9.34"
+dimCodes	
+0	"IE"
+1	"2012"
+266	
+Valor	"9.69"
+dimCodes	
+0	"IE"
+1	"2012Q4"
+267	
+Valor	"9.52"
+dimCodes	
+0	"IE"
+1	"2012Q3"
+268	
+Valor	"9.35"
+dimCodes	
+0	"IE"
+1	"2012Q2"
+269	
+Valor	"8.70"
+dimCodes	
+0	"IE"
+1	"2012Q1"
+270	
+Valor	"8.54"
+dimCodes	
+0	"IE"
+1	"2011"
+271	
+Valor	"7.92"
+dimCodes	
+0	"IE"
+1	"2011Q4"
+272	
+Valor	"9.06"
+dimCodes	
+0	"IE"
+1	"2011Q3"
+273	
+Valor	"8.23"
+dimCodes	
+0	"IE"
+1	"2011Q2"
+274	
+Valor	"8.83"
+dimCodes	
+0	"IE"
+1	"2011Q1"
+275	
+Valor	"9.10"
+dimCodes	
+0	"IE"
+1	"2010"
+276	
+Valor	"8.92"
+dimCodes	
+0	"IE"
+1	"2010Q4"
+277	
+Valor	"10.14"
+dimCodes	
+0	"IE"
+1	"2010Q3"
+278	
+Valor	"8.23"
+dimCodes	
+0	"IE"
+1	"2010Q2"
+279	
+Valor	"8.90"
+dimCodes	
+0	"IE"
+1	"2010Q1"
+280	
+Valor	"9.48"
+dimCodes	
+0	"IT"
+1	"2017"
+281	
+Valor	"8.78"
+dimCodes	
+0	"IT"
+1	"2017Q4"
+282	
+Valor	"9.99"
+dimCodes	
+0	"IT"
+1	"2017Q3"
+283	
+Valor	"9.20"
+dimCodes	
+0	"IT"
+1	"2017Q2"
+284	
+Valor	"9.86"
+dimCodes	
+0	"IT"
+1	"2017Q1"
+285	
+Valor	"9.73"
+dimCodes	
+0	"IT"
+1	"2016"
+286	
+Valor	"9.15"
+dimCodes	
+0	"IT"
+1	"2016Q4"
+287	
+Valor	"10.27"
+dimCodes	
+0	"IT"
+1	"2016Q3"
+288	
+Valor	"9.13"
+dimCodes	
+0	"IT"
+1	"2016Q2"
+289	
+Valor	"10.30"
+dimCodes	
+0	"IT"
+1	"2016Q1"
+290	
+Valor	"10.41"
+dimCodes	
+0	"IT"
+1	"2015"
+291	
+Valor	"9.71"
+dimCodes	
+0	"IT"
+1	"2015Q4"
+292	
+Valor	"11.49"
+dimCodes	
+0	"IT"
+1	"2015Q3"
+293	
+Valor	"8.75"
+dimCodes	
+0	"IT"
+1	"2015Q2"
+294	
+Valor	"11.47"
+dimCodes	
+0	"IT"
+1	"2015Q1"
+295	
+Valor	"11.62"
+dimCodes	
+0	"IT"
+1	"2014"
+296	
+Valor	"13.41"
+dimCodes	
+0	"IT"
+1	"2014Q4"
+297	
+Valor	"11.03"
+dimCodes	
+0	"IT"
+1	"2014Q3"
+298	
+Valor	"9.72"
+dimCodes	
+0	"IT"
+1	"2014Q2"
+299	
+Valor	"12.17"
+dimCodes	
+0	"IT"
+1	"2014Q1"
+300	
+Valor	"10.49"
+dimCodes	
+0	"IT"
+1	"2013"
+301	
+Valor	"9.40"
+dimCodes	
+0	"IT"
+1	"2013Q4"
+302	
+Valor	"10.22"
+dimCodes	
+0	"IT"
+1	"2013Q3"
+303	
+Valor	"11.40"
+dimCodes	
+0	"IT"
+1	"2013Q2"
+304	
+Valor	"11.36"
+dimCodes	
+0	"IT"
+1	"2013Q1"
+305	
+Valor	"10.66"
+dimCodes	
+0	"IT"
+1	"2012"
+306	
+Valor	"9.29"
+dimCodes	
+0	"IT"
+1	"2012Q4"
+307	
+Valor	"11.53"
+dimCodes	
+0	"IT"
+1	"2012Q3"
+308	
+Valor	"10.76"
+dimCodes	
+0	"IT"
+1	"2012Q2"
+309	
+Valor	"10.56"
+dimCodes	
+0	"IT"
+1	"2012Q1"
+310	
+Valor	"9.92"
+dimCodes	
+0	"IT"
+1	"2011"
+311	
+Valor	"10.11"
+dimCodes	
+0	"IT"
+1	"2011Q4"
+312	
+Valor	"10.78"
+dimCodes	
+0	"IT"
+1	"2011Q3"
+313	
+Valor	"8.89"
+dimCodes	
+0	"IT"
+1	"2011Q2"
+314	
+Valor	"9.73"
+dimCodes	
+0	"IT"
+1	"2011Q1"
+315	
+Valor	"9.73"
+dimCodes	
+0	"IT"
+1	"2010"
+316	
+Valor	"9.67"
+dimCodes	
+0	"IT"
+1	"2010Q4"
+317	
+Valor	"10.20"
+dimCodes	
+0	"IT"
+1	"2010Q3"
+318	
+Valor	"8.81"
+dimCodes	
+0	"IT"
+1	"2010Q2"
+319	
+Valor	"9.87"
+dimCodes	
+0	"IT"
+1	"2010Q1"
+320	
+Valor	"9.98"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2017"
+321	
+Valor	"9.14"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2017Q4"
+322	
+Valor	"11.03"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2017Q3"
+323	
+Valor	"10.13"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2017Q2"
+324	
+Valor	"10.51"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2017Q1"
+325	
+Valor	"10.25"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2016"
+326	
+Valor	"9.25"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2016Q4"
+327	
+Valor	"9.87"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2016Q3"
+328	
+Valor	"9.71"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2016Q2"
+329	
+Valor	"11.29"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2016Q1"
+330	
+Valor	"10.37"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2015"
+331	
+Valor	"9.39"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2015Q4"
+332	
+Valor	"10.76"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2015Q3"
+333	
+Valor	"11.08"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2015Q2"
+334	
+Valor	"11.00"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2015Q1"
+335	
+Valor	"9.77"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2014"
+336	
+Valor	"9.08"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2014Q4"
+337	
+Valor	"10.64"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2014Q3"
+338	
+Valor	"10.04"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2014Q2"
+339	
+Valor	"10.13"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2014Q1"
+340	
+Valor	"9.64"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2013"
+341	
+Valor	"8.82"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2013Q4"
+342	
+Valor	"10.15"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2013Q3"
+343	
+Valor	"10.67"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2013Q2"
+344	
+Valor	"10.13"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2013Q1"
+345	
+Valor	"9.57"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2012"
+346	
+Valor	"8.76"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2012Q4"
+347	
+Valor	"10.07"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2012Q3"
+348	
+Valor	"9.90"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2012Q2"
+349	
+Valor	"10.16"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2012Q1"
+350	
+Valor	"9.88"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2011"
+351	
+Valor	"9.25"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2011Q4"
+352	
+Valor	"9.60"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2011Q3"
+353	
+Valor	"11.05"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2011Q2"
+354	
+Valor	"10.17"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2011Q1"
+355	
+Valor	"9.99"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2010"
+356	
+Valor	"9.05"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2010Q4"
+357	
+Valor	"10.67"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2010Q3"
+358	
+Valor	"11.97"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2010Q2"
+359	
+Valor	"10.38"
+dimCodes	
+0	"DK_FI_NO_SE"
+1	"2010Q1"
+360	
+Valor	"8.59"
+dimCodes	
+0	"UK"
+1	"2017"
+361	
+Valor	"8.41"
+dimCodes	
+0	"UK"
+1	"2017Q4"
+362	
+Valor	"9.09"
+dimCodes	
+0	"UK"
+1	"2017Q3"
+363	
+Valor	"8.03"
+dimCodes	
+0	"UK"
+1	"2017Q2"
+364	
+Valor	"8.83"
+dimCodes	
+0	"UK"
+1	"2017Q1"
+365	
+Valor	"8.81"
+dimCodes	
+0	"UK"
+1	"2016"
+366	
+Valor	"8.29"
+dimCodes	
+0	"UK"
+1	"2016Q4"
+367	
+Valor	"9.41"
+dimCodes	
+0	"UK"
+1	"2016Q3"
+368	
+Valor	"8.34"
+dimCodes	
+0	"UK"
+1	"2016Q2"
+369	
+Valor	"9.21"
+dimCodes	
+0	"UK"
+1	"2016Q1"
+370	
+Valor	"8.93"
+dimCodes	
+0	"UK"
+1	"2015"
+371	
+Valor	"8.56"
+dimCodes	
+0	"UK"
+1	"2015Q4"
+372	
+Valor	"9.58"
+dimCodes	
+0	"UK"
+1	"2015Q3"
+373	
+Valor	"8.36"
+dimCodes	
+0	"UK"
+1	"2015Q2"
+374	
+Valor	"9.23"
+dimCodes	
+0	"UK"
+1	"2015Q1"
+375	
+Valor	"8.92"
+dimCodes	
+0	"UK"
+1	"2014"
+376	
+Valor	"8.27"
+dimCodes	
+0	"UK"
+1	"2014Q4"
+377	
+Valor	"9.50"
+dimCodes	
+0	"UK"
+1	"2014Q3"
+378	
+Valor	"8.50"
+dimCodes	
+0	"UK"
+1	"2014Q2"
+379	
+Valor	"9.40"
+dimCodes	
+0	"UK"
+1	"2014Q1"
+380	
+Valor	"9.06"
+dimCodes	
+0	"UK"
+1	"2013"
+381	
+Valor	"8.31"
+dimCodes	
+0	"UK"
+1	"2013Q4"
+382	
+Valor	"9.70"
+dimCodes	
+0	"UK"
+1	"2013Q3"
+383	
+Valor	"8.57"
+dimCodes	
+0	"UK"
+1	"2013Q2"
+384	
+Valor	"9.74"
+dimCodes	
+0	"UK"
+1	"2013Q1"
+385	
+Valor	"9.24"
+dimCodes	
+0	"UK"
+1	"2012"
+386	
+Valor	"8.81"
+dimCodes	
+0	"UK"
+1	"2012Q4"
+387	
+Valor	"10.23"
+dimCodes	
+0	"UK"
+1	"2012Q3"
+388	
+Valor	"8.58"
+dimCodes	
+0	"UK"
+1	"2012Q2"
+389	
+Valor	"9.31"
+dimCodes	
+0	"UK"
+1	"2012Q1"
+390	
+Valor	"8.87"
+dimCodes	
+0	"UK"
+1	"2011"
+391	
+Valor	"8.63"
+dimCodes	
+0	"UK"
+1	"2011Q4"
+392	
+Valor	"9.33"
+dimCodes	
+0	"UK"
+1	"2011Q3"
+393	
+Valor	"8.43"
+dimCodes	
+0	"UK"
+1	"2011Q2"
+394	
+Valor	"9.08"
+dimCodes	
+0	"UK"
+1	"2011Q1"
+395	
+Valor	"8.93"
+dimCodes	
+0	"UK"
+1	"2010"
+396	
+Valor	"8.36"
+dimCodes	
+0	"UK"
+1	"2010Q4"
+397	
+Valor	"9.70"
+dimCodes	
+0	"UK"
+1	"2010Q3"
+398	
+Valor	"8.73"
+dimCodes	
+0	"UK"
+1	"2010Q2"
+399	
+Valor	"8.94"
+dimCodes	
+0	"UK"
+1	"2010Q1"
+400	
+Valor	"9.40"
+dimCodes	
+0	"CH"
+1	"2017"
+401	
+Valor	"9.84"
+dimCodes	
+0	"CH"
+1	"2017Q4"
+402	
+Valor	"8.71"
+dimCodes	
+0	"CH"
+1	"2017Q3"
+403	
+Valor	"8.55"
+dimCodes	
+0	"CH"
+1	"2017Q2"
+404	
+Valor	"10.49"
+dimCodes	
+0	"CH"
+1	"2017Q1"
+405	
+Valor	"9.47"
+dimCodes	
+0	"CH"
+1	"2016"
+406	
+Valor	"9.08"
+dimCodes	
+0	"CH"
+1	"2016Q4"
+407	
+Valor	"9.61"
+dimCodes	
+0	"CH"
+1	"2016Q3"
+408	
+Valor	"9.95"
+dimCodes	
+0	"CH"
+1	"2016Q2"
+409	
+Valor	"9.39"
+dimCodes	
+0	"CH"
+1	"2016Q1"
+410	
+Valor	"9.55"
+dimCodes	
+0	"CH"
+1	"2015"
+411	
+Valor	"9.19"
+dimCodes	
+0	"CH"
+1	"2015Q4"
+412	
+Valor	"8.95"
+dimCodes	
+0	"CH"
+1	"2015Q3"
+413	
+Valor	"9.92"
+dimCodes	
+0	"CH"
+1	"2015Q2"
+414	
+Valor	"10.23"
+dimCodes	
+0	"CH"
+1	"2015Q1"
+415	
+Valor	"9.08"
+dimCodes	
+0	"CH"
+1	"2014"
+416	
+Valor	"9.31"
+dimCodes	
+0	"CH"
+1	"2014Q4"
+417	
+Valor	"8.59"
+dimCodes	
+0	"CH"
+1	"2014Q3"
+418	
+Valor	"8.61"
+dimCodes	
+0	"CH"
+1	"2014Q2"
+419	
+Valor	"9.79"
+dimCodes	
+0	"CH"
+1	"2014Q1"
+420	
+Valor	"8.72"
+dimCodes	
+0	"CH"
+1	"2013"
+421	
+Valor	"8.47"
+dimCodes	
+0	"CH"
+1	"2013Q4"
+422	
+Valor	"9.05"
+dimCodes	
+0	"CH"
+1	"2013Q3"
+423	
+Valor	"8.76"
+dimCodes	
+0	"CH"
+1	"2013Q2"
+424	
+Valor	"8.60"
+dimCodes	
+0	"CH"
+1	"2013Q1"
+425	
+Valor	"9.39"
+dimCodes	
+0	"CH"
+1	"2012"
+426	
+Valor	"9.60"
+dimCodes	
+0	"CH"
+1	"2012Q4"
+427	
+Valor	"9.32"
+dimCodes	
+0	"CH"
+1	"2012Q3"
+428	
+Valor	"9.57"
+dimCodes	
+0	"CH"
+1	"2012Q2"
+429	
+Valor	"9.03"
+dimCodes	
+0	"CH"
+1	"2012Q1"
+430	
+Valor	"9.55"
+dimCodes	
+0	"CH"
+1	"2011"
+431	
+Valor	"9.43"
+dimCodes	
+0	"CH"
+1	"2011Q4"
+432	
+Valor	"9.05"
+dimCodes	
+0	"CH"
+1	"2011Q3"
+433	
+Valor	"10.08"
+dimCodes	
+0	"CH"
+1	"2011Q2"
+434	
+Valor	"9.80"
+dimCodes	
+0	"CH"
+1	"2011Q1"
+435	
+Valor	"9.60"
+dimCodes	
+0	"CH"
+1	"2010"
+436	
+Valor	"9.47"
+dimCodes	
+0	"CH"
+1	"2010Q4"
+437	
+Valor	"9.77"
+dimCodes	
+0	"CH"
+1	"2010Q3"
+438	
+Valor	"8.44"
+dimCodes	
+0	"CH"
+1	"2010Q2"
+439	
+Valor	"10.71"
+dimCodes	
+0	"CH"
+1	"2010Q1"
+440	
+Valor	"10.06"
+dimCodes	
+0	"ZZ"
+1	"2017"
+441	
+Valor	"9.74"
+dimCodes	
+0	"ZZ"
+1	"2017Q4"
+442	
+Valor	"10.19"
+dimCodes	
+0	"ZZ"
+1	"2017Q3"
+443	
+Valor	"9.86"
+dimCodes	
+0	"ZZ"
+1	"2017Q2"
+444	
+Valor	"10.49"
+dimCodes	
+0	"ZZ"
+1	"2017Q1"
+445	
+Valor	"9.88"
+dimCodes	
+0	"ZZ"
+1	"2016"
+446	
+Valor	"9.31"
+dimCodes	
+0	"ZZ"
+1	"2016Q4"
+447	
+Valor	"10.24"
+dimCodes	
+0	"ZZ"
+1	"2016Q3"
+448	
+Valor	"9.54"
+dimCodes	
+0	"ZZ"
+1	"2016Q2"
+449	
+Valor	"10.41"
+dimCodes	
+0	"ZZ"
+1	"2016Q1"
+450	
+Valor	"10.48"
+dimCodes	
+0	"ZZ"
+1	"2015"
+451	
+Valor	"10.18"
+dimCodes	
+0	"ZZ"
+1	"2015Q4"
+452	
+Valor	"10.55"
+dimCodes	
+0	"ZZ"
+1	"2015Q3"
+453	
+Valor	"10.29"
+dimCodes	
+0	"ZZ"
+1	"2015Q2"
+454	
+Valor	"10.92"
+dimCodes	
+0	"ZZ"
+1	"2015Q1"
+455	
+Valor	"10.97"
+dimCodes	
+0	"ZZ"
+1	"2014"
+456	
+Valor	"10.98"
+dimCodes	
+0	"ZZ"
+1	"2014Q4"
+457	
+Valor	"10.73"
+dimCodes	
+0	"ZZ"
+1	"2014Q3"
+458	
+Valor	"10.52"
+dimCodes	
+0	"ZZ"
+1	"2014Q2"
+459	
+Valor	"11.76"
+dimCodes	
+0	"ZZ"
+1	"2014Q1"
+460	
+Valor	"10.86"
+dimCodes	
+0	"ZZ"
+1	"2013"
+461	
+Valor	"10.43"
+dimCodes	
+0	"ZZ"
+1	"2013Q4"
+462	
+Valor	"11.30"
+dimCodes	
+0	"ZZ"
+1	"2013Q3"
+463	
+Valor	"11.05"
+dimCodes	
+0	"ZZ"
+1	"2013Q2"
+464	
+Valor	"10.54"
+dimCodes	
+0	"ZZ"
+1	"2013Q1"
+465	
+Valor	"11.06"
+dimCodes	
+0	"ZZ"
+1	"2012"
+466	
+Valor	"9.92"
+dimCodes	
+0	"ZZ"
+1	"2012Q4"
+467	
+Valor	"11.08"
+dimCodes	
+0	"ZZ"
+1	"2012Q3"
+468	
+Valor	"12.36"
+dimCodes	
+0	"ZZ"
+1	"2012Q2"
+469	
+Valor	"10.83"
+dimCodes	
+0	"ZZ"
+1	"2012Q1"
+470	
+Valor	"10.55"
+dimCodes	
+0	"ZZ"
+1	"2011"
+471	
+Valor	"10.07"
+dimCodes	
+0	"ZZ"
+1	"2011Q4"
+472	
+Valor	"10.48"
+dimCodes	
+0	"ZZ"
+1	"2011Q3"
+473	
+Valor	"10.81"
+dimCodes	
+0	"ZZ"
+1	"2011Q2"
+474	
+Valor	"10.84"
+dimCodes	
+0	"ZZ"
+1	"2011Q1"
+475	
+Valor	"10.16"
+dimCodes	
+0	"ZZ"
+1	"2010"
+476	
+Valor	"9.41"
+dimCodes	
+0	"ZZ"
+1	"2010Q4"
+477	
+Valor	"10.87"
+dimCodes	
+0	"ZZ"
+1	"2010Q3"
+478	
+Valor	"9.67"
+dimCodes	
+0	"ZZ"
+1	"2010Q2"
+479	
+Valor	"10.47"
+dimCodes	
+0	"ZZ"
+1	"2010Q1"
