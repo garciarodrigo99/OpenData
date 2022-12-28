@@ -15,6 +15,7 @@ with open('file3.json') as jsonFile:
 #------------------------------------------------------------------------------
 selected_countries = ["Alemania","Bélgica","Francia","Holanda","Irlanda","Italia","Reino Unido","Suiza"]
 id_selected_countries = []
+listOfObjects = []
 #------------------------------------------------------------------------------
 file1["categories"][0]["labels"]
 for i in selected_countries:
@@ -24,6 +25,9 @@ sizeOfCountries = len(file1["categories"][0]["labels"])
 for i in range(sizeOfCountries):
     if file1["categories"][0]["labels"][i] in selected_countries:
         id_selected_countries.append(file1["categories"][0]["codes"][i])
+        auxObject = Country(file1["categories"][0]["labels"][i])
+        auxObject.id.append(file1["categories"][0]["codes"][i])
+        listOfObjects.append(auxObject)
 
 p = re.compile('^20[\d][\d]$')
 for i in file1["data"]:
@@ -44,7 +48,8 @@ for i in file2["data"]:
     if (p.match(i["dimCodes"][1])) and (i["dimCodes"][0] in id_selected_countries):
         print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])
 #------------------------------------------------------------------------------------------
-
+for i in listOfObjects:
+    print(i.name)
 
 #print(d["categories"][0]["labels"][1])
 
