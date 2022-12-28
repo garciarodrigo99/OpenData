@@ -1,5 +1,8 @@
 import json
 import re
+from country import Country
+
+c1 = Country("Alemania")
 
 file1 = None
 with open('file1.json') as jsonFile:
