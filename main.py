@@ -37,8 +37,15 @@ for i in range(sizeOfCountries):    # Recorro labels por su indice
         auxObject = Country(file1["categories"][0]["labels"][i])
         # Añado ese id al objeto
         auxObject.id.append(file1["categories"][0]["codes"][i])
+        auxObject.id.append(f'{i}')
+        print(auxObject.name, end=" ")
+        print(auxObject.sizeId(), end= " ")
         # Se inserta en el vector de objetos paises
         listOfObjects.append(auxObject)
+        print(len(listOfObjects))
+        for i in listOfObjects:
+            print(i.name, end=" ")
+            print(i.id)
 
 # Expresion regular para evitar cuatrimestres
 p = re.compile('^20[\d][\d]$')
@@ -48,9 +55,16 @@ for i in file1["data"]:
     if (p.match(i["dimCodes"][1])):
         found = False
         # ------- Pseudo funcion para buscar atributo de elemento -------------
-        for j in listOfObjects:
-            if i["dimCodes"][0] in j.id:
+        listofobjetsSize = len(listOfObjects)
+        #print("\n-----------------------Empieza for j-----------------------")
+        for j in range(listofobjetsSize):
+            #print(i["dimCodes"][0], end=" ")
+            #print(listOfObjects[j].name)
+            ##print("Numero de ids: ",end=" ")
+            ##print(listOfObjects.)
+            if listOfObjects[j].isId(i["dimCodes"][0]):
                 found = True
+                break
         # ---------------------------------------------------------------------
         if found == True:
             print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])

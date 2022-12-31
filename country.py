@@ -9,6 +9,15 @@ class Country:
     def __init__(self,name):
         self.name = name
 
+    def isId(self,id):
+        if id in self.id:
+            return True
+        else:
+            return False
+    
+    def sizeId(self):
+        return len(self.id)
+
     # def addId(self,id):
     #     self.id.append(id)
     
