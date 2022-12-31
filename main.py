@@ -4,35 +4,56 @@ from country import Country
 
 c1 = Country("Alemania")
 
+# Lectura fichero 1
 file1 = None
 with open('file1.json') as jsonFile:
     file1 = json.load(jsonFile)
 
+# Lectura fichero 2
 file2 = None
 with open('file3.json') as jsonFile:
     file2 = json.load(jsonFile)
 
 #------------------------------------------------------------------------------
+# Declaración paises que queremos incluir
 selected_countries = ["Alemania","Bélgica","Francia","Holanda","Irlanda","Italia","Reino Unido","Suiza"]
 id_selected_countries = []
 listOfObjects = []
 #------------------------------------------------------------------------------
+
+# Comprobar que todos los paises que hemos seleccionado estan en el fichero 1
 file1["categories"][0]["labels"]
 for i in selected_countries:
     assert i in file1["categories"][0]["labels"]
 
-sizeOfCountries = len(file1["categories"][0]["labels"])
-for i in range(sizeOfCountries):
+sizeOfCountries = len(file1["categories"][0]["labels"]) # Obtener size
+
+for i in range(sizeOfCountries):    # Recorro labels por su indice
+    # Si el pais esta seleccionado:
     if file1["categories"][0]["labels"][i] in selected_countries:
+        # Propuesta de eliminacion
         id_selected_countries.append(file1["categories"][0]["codes"][i])
+        # Creo el objeto pais con ese nombre
         auxObject = Country(file1["categories"][0]["labels"][i])
+        # Añado ese id al objeto
         auxObject.id.append(file1["categories"][0]["codes"][i])
+        # Se inserta en el vector de objetos paises
         listOfObjects.append(auxObject)
 
+# Expresion regular para evitar cuatrimestres
 p = re.compile('^20[\d][\d]$')
+
 for i in file1["data"]:
-    if (p.match(i["dimCodes"][1])) and (i["dimCodes"][0] in id_selected_countries):
-        print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])
+    #if (p.match(i["dimCodes"][1])) and (i["dimCodes"][0] in id_selected_countries):
+    if (p.match(i["dimCodes"][1])):
+        found = False
+        # ------- Pseudo funcion para buscar atributo de elemento -------------
+        for j in listOfObjects:
+            if i["dimCodes"][0] in j.id:
+                found = True
+        # ---------------------------------------------------------------------
+        if found == True:
+            print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])
 #------------------------------------------------------------------------------------------
 file2["categories"][0]["labels"]
 for i in selected_countries:
@@ -43,13 +64,15 @@ for i in range(sizeOfCountries):
     if file2["categories"][0]["labels"][i] in selected_countries:
         id_selected_countries.append(file2["categories"][0]["codes"][i])
 
-p = re.compile('^20[\d][\d]$')
 for i in file2["data"]:
-    if (p.match(i["dimCodes"][1])) and (i["dimCodes"][0] in id_selected_countries):
-        print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])
+    #if (p.match(i["dimCodes"][1])) and (i["dimCodes"][0] in id_selected_countries):
+    if (p.match(i["dimCodes"][1])):
+        for j in listOfObjects:
+            if i["dimCodes"][0] in j.id:
+                print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])
 #------------------------------------------------------------------------------------------
-for i in listOfObjects:
-    print(i.name)
+# for i in listOfObjects:
+#     print(i.name)
 
 #print(d["categories"][0]["labels"][1])
 
