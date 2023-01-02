@@ -21,8 +21,8 @@ class Country:
 
     def __repr__ (self) -> str:
         rep = f'{self.name} {self.id}\n'
+        rep += f'\t{self.year}\n'
         rep += f'\t{self.numberOfDaysOfTourists}\n'
-        rep += f'\t{self.year}\n\n'
 
         return rep
     

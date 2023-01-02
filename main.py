@@ -2,6 +2,11 @@ import json
 import re
 from country import Country
 
+# Comprobar que todos los paises que hemos seleccionado estan en el fichero X
+def assertCountries(fileName,countries):
+    for i in countries:
+        assert i in fileName["categories"][0]["labels"]
+
 def insertDay(fileName, listOfCountries):
     # Expresion regular para evitar cuatrimestres
     p = re.compile('^20[\d][\d]$')
@@ -30,10 +35,8 @@ selected_countries = ["Alemania","Bélgica","Francia","Holanda","Irlanda","Itali
 listOfCountries = []
 #------------------------------------------------------------------------------
 
-# Comprobar que todos los paises que hemos seleccionado estan en el fichero 1
-file1["categories"][0]["labels"]
-for i in selected_countries:
-    assert i in file1["categories"][0]["labels"]
+# Comprobar que todos los paises que hemos seleccionado estan en el fichero X
+assertCountries(file1,selected_countries)
 
 for index, name in enumerate(file1['categories'][0]['labels']):
     # Si el pais esta seleccionado:
@@ -43,14 +46,11 @@ for index, name in enumerate(file1['categories'][0]['labels']):
     # Se inserta en el vector de objetos paises
     listOfCountries.append(auxObject)
 
-# Insertar media dias y año
+# Insertar media dias y año fichero 1
 insertDay(file1,listOfCountries)
     
 #------------------------------------------------------------------------------------------
-# Comprobar que todos los paises que hemos seleccionado estan en el fichero 1
-file2["categories"][0]["labels"]
-for i in selected_countries:
-    assert i in file2["categories"][0]["labels"]
+assertCountries(file2,selected_countries)
 
 for index, name in enumerate(file2['categories'][0]['labels']):
     # Si el pais esta seleccionado:
@@ -60,11 +60,11 @@ for index, name in enumerate(file2['categories'][0]['labels']):
         country.id.append(file2["categories"][0]["codes"][index])
         break
 
+# Insertar media dias y año fichero 2
 insertDay(file2,listOfCountries)
 
 for i in listOfCountries:
     print(i)
-#------------------------------------------------------------------------------------------
 
 # datos :
 # nombre Alemania
