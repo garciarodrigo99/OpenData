@@ -1,1 +1,2043 @@
-{"uuid":"47da3fc7-4c0a-44d0-885d-c55b9ca2854d","title":"Estancia media según países de residencia. Canarias y periodos.","uriPx":"urn:uuid:f529996d-167c-453a-aa06-17752b6a1203","stub":["Países de residencia"],"heading":["Periodos"],"categories":[{"variable":"Países de residencia","codes":["0","DEU276","BEL056","ESP724","FRA250","NLD528","IRL372","ITA380","DNK208_FIN246_NOR578_SWE752","GBR826","CHE756","ZZZ900"],"labels":["TOTAL","Alemania","Bélgica","España","Francia","Holanda","Irlanda","Italia","Países Nórdicos","Reino Unido","Suiza","Otros países"]},{"variable":"Periodos","codes":["2022Q3","2022Q2","2022Q1","2021","2021Q4","2021Q3","2021Q2","2021Q1","2020","2020Q4","2020Q3","2020Q2","2020Q1","2019","2019Q4","2019Q3","2019Q2","2019Q1","2018","2018Q4","2018Q3","2018Q2","2018Q1"],"labels":["2022 Tercer trimestre","2022 Segundo trimestre","2022 Primer trimestre","2021","2021 Cuarto trimestre","2021 Tercer trimestre","2021 Segundo trimestre","2021 Primer trimestre","2020","2020 Cuarto trimestre","2020 Tercer trimestre","2020 Segundo trimestre","2020 Primer trimestre","2019","2019 Cuarto trimestre","2019 Tercer trimestre","2019 Segundo trimestre","2019 Primer trimestre","2018","2018 Cuarto trimestre","2018 Tercer trimestre","2018 Segundo trimestre","2018 Primer trimestre"]}],"temporals":["Periodos"],"spatials":["Países de residencia"],"source":"Instituto Canario de Estadística (ISTAC).","surveyCode":"C00028A","surveyTitle":"Encuesta sobre el Gasto Turístico","publishers":["Instituto Canario de Estadística (ISTAC)"],"data":[{"Valor":"9.43","dimCodes":["0","2022Q3"]},{"Valor":"8.91","dimCodes":["0","2022Q2"]},{"Valor":"9.71","dimCodes":["0","2022Q1"]},{"Valor":"9.54","dimCodes":["0","2021"]},{"Valor":"8.85","dimCodes":["0","2021Q4"]},{"Valor":"9.32","dimCodes":["0","2021Q3"]},{"Valor":"11.22","dimCodes":["0","2021Q2"]},{"Valor":"13.27","dimCodes":["0","2021Q1"]},{"Valor":"10.14","dimCodes":["0","2020"]},{"Valor":"9.94","dimCodes":["0","2020Q4"]},{"Valor":"10.15","dimCodes":["0","2020Q3"]},{"Valor":"..","dimCodes":["0","2020Q2"]},{"Valor":"10.19","dimCodes":["0","2020Q1"]},{"Valor":"9.13","dimCodes":["0","2019"]},{"Valor":"8.98","dimCodes":["0","2019Q4"]},{"Valor":"9.46","dimCodes":["0","2019Q3"]},{"Valor":"8.75","dimCodes":["0","2019Q2"]},{"Valor":"9.32","dimCodes":["0","2019Q1"]},{"Valor":"9.34","dimCodes":["0","2018"]},{"Valor":"8.78","dimCodes":["0","2018Q4"]},{"Valor":"9.59","dimCodes":["0","2018Q3"]},{"Valor":"8.93","dimCodes":["0","2018Q2"]},{"Valor":"10.03","dimCodes":["0","2018Q1"]},{"Valor":"10.52","dimCodes":["DEU276","2022Q3"]},{"Valor":"11.48","dimCodes":["DEU276","2022Q2"]},{"Valor":"11.86","dimCodes":["DEU276","2022Q1"]},{"Valor":"11.30","dimCodes":["DEU276","2021"]},{"Valor":"10.29","dimCodes":["DEU276","2021Q4"]},{"Valor":"10.22","dimCodes":["DEU276","2021Q3"]},{"Valor":"14.85","dimCodes":["DEU276","2021Q2"]},{"Valor":"16.68","dimCodes":["DEU276","2021Q1"]},{"Valor":"11.67","dimCodes":["DEU276","2020"]},{"Valor":"11.00","dimCodes":["DEU276","2020Q4"]},{"Valor":"11.10","dimCodes":["DEU276","2020Q3"]},{"Valor":"..","dimCodes":["DEU276","2020Q2"]},{"Valor":"11.96","dimCodes":["DEU276","2020Q1"]},{"Valor":"10.72","dimCodes":["DEU276","2019"]},{"Valor":"10.42","dimCodes":["DEU276","2019Q4"]},{"Valor":"10.39","dimCodes":["DEU276","2019Q3"]},{"Valor":"10.74","dimCodes":["DEU276","2019Q2"]},{"Valor":"11.22","dimCodes":["DEU276","2019Q1"]},{"Valor":"10.70","dimCodes":["DEU276","2018"]},{"Valor":"10.00","dimCodes":["DEU276","2018Q4"]},{"Valor":"10.41","dimCodes":["DEU276","2018Q3"]},{"Valor":"10.26","dimCodes":["DEU276","2018Q2"]},{"Valor":"12.05","dimCodes":["DEU276","2018Q1"]},{"Valor":"9.60","dimCodes":["BEL056","2022Q3"]},{"Valor":"9.02","dimCodes":["BEL056","2022Q2"]},{"Valor":"10.85","dimCodes":["BEL056","2022Q1"]},{"Valor":"10.38","dimCodes":["BEL056","2021"]},{"Valor":"8.63","dimCodes":["BEL056","2021Q4"]},{"Valor":"9.83","dimCodes":["BEL056","2021Q3"]},{"Valor":"16.18","dimCodes":["BEL056","2021Q2"]},{"Valor":"17.11","dimCodes":["BEL056","2021Q1"]},{"Valor":"11.38","dimCodes":["BEL056","2020"]},{"Valor":"10.97","dimCodes":["BEL056","2020Q4"]},{"Valor":"9.69","dimCodes":["BEL056","2020Q3"]},{"Valor":"..","dimCodes":["BEL056","2020Q2"]},{"Valor":"12.57","dimCodes":["BEL056","2020Q1"]},{"Valor":"10.26","dimCodes":["BEL056","2019"]},{"Valor":"9.98","dimCodes":["BEL056","2019Q4"]},{"Valor":"9.70","dimCodes":["BEL056","2019Q3"]},{"Valor":"10.45","dimCodes":["BEL056","2019Q2"]},{"Valor":"10.99","dimCodes":["BEL056","2019Q1"]},{"Valor":"10.13","dimCodes":["BEL056","2018"]},{"Valor":"9.66","dimCodes":["BEL056","2018Q4"]},{"Valor":"9.74","dimCodes":["BEL056","2018Q3"]},{"Valor":"10.10","dimCodes":["BEL056","2018Q2"]},{"Valor":"11.11","dimCodes":["BEL056","2018Q1"]},{"Valor":"8.13","dimCodes":["ESP724","2022Q3"]},{"Valor":"6.06","dimCodes":["ESP724","2022Q2"]},{"Valor":"6.92","dimCodes":["ESP724","2022Q1"]},{"Valor":"7.57","dimCodes":["ESP724","2021"]},{"Valor":"6.51","dimCodes":["ESP724","2021Q4"]},{"Valor":"8.23","dimCodes":["ESP724","2021Q3"]},{"Valor":"7.04","dimCodes":["ESP724","2021Q2"]},{"Valor":"8.86","dimCodes":["ESP724","2021Q1"]},{"Valor":"7.73","dimCodes":["ESP724","2020"]},{"Valor":"7.53","dimCodes":["ESP724","2020Q4"]},{"Valor":"8.41","dimCodes":["ESP724","2020Q3"]},{"Valor":"..","dimCodes":["ESP724","2020Q2"]},{"Valor":"7.06","dimCodes":["ESP724","2020Q1"]},{"Valor":"6.99","dimCodes":["ESP724","2019"]},{"Valor":"6.47","dimCodes":["ESP724","2019Q4"]},{"Valor":"8.27","dimCodes":["ESP724","2019Q3"]},{"Valor":"6.66","dimCodes":["ESP724","2019Q2"]},{"Valor":"5.99","dimCodes":["ESP724","2019Q1"]},{"Valor":"7.39","dimCodes":["ESP724","2018"]},{"Valor":"6.89","dimCodes":["ESP724","2018Q4"]},{"Valor":"8.64","dimCodes":["ESP724","2018Q3"]},{"Valor":"6.54","dimCodes":["ESP724","2018Q2"]},{"Valor":"6.99","dimCodes":["ESP724","2018Q1"]},{"Valor":"9.87","dimCodes":["FRA250","2022Q3"]},{"Valor":"8.12","dimCodes":["FRA250","2022Q2"]},{"Valor":"9.15","dimCodes":["FRA250","2022Q1"]},{"Valor":"9.11","dimCodes":["FRA250","2021"]},{"Valor":"7.86","dimCodes":["FRA250","2021Q4"]},{"Valor":"9.77","dimCodes":["FRA250","2021Q3"]},{"Valor":"9.88","dimCodes":["FRA250","2021Q2"]},{"Valor":"10.44","dimCodes":["FRA250","2021Q1"]},{"Valor":"9.41","dimCodes":["FRA250","2020"]},{"Valor":"8.88","dimCodes":["FRA250","2020Q4"]},{"Valor":"12.74","dimCodes":["FRA250","2020Q3"]},{"Valor":"..","dimCodes":["FRA250","2020Q2"]},{"Valor":"8.68","dimCodes":["FRA250","2020Q1"]},{"Valor":"8.53","dimCodes":["FRA250","2019"]},{"Valor":"8.04","dimCodes":["FRA250","2019Q4"]},{"Valor":"9.22","dimCodes":["FRA250","2019Q3"]},{"Valor":"8.15","dimCodes":["FRA250","2019Q2"]},{"Valor":"8.70","dimCodes":["FRA250","2019Q1"]},{"Valor":"9.16","dimCodes":["FRA250","2018"]},{"Valor":"8.36","dimCodes":["FRA250","2018Q4"]},{"Valor":"9.87","dimCodes":["FRA250","2018Q3"]},{"Valor":"8.77","dimCodes":["FRA250","2018Q2"]},{"Valor":"9.51","dimCodes":["FRA250","2018Q1"]},{"Valor":"9.40","dimCodes":["NLD528","2022Q3"]},{"Valor":"9.30","dimCodes":["NLD528","2022Q2"]},{"Valor":"9.45","dimCodes":["NLD528","2022Q1"]},{"Valor":"8.97","dimCodes":["NLD528","2021"]},{"Valor":"8.49","dimCodes":["NLD528","2021Q4"]},{"Valor":"9.08","dimCodes":["NLD528","2021Q3"]},{"Valor":"10.43","dimCodes":["NLD528","2021Q2"]},{"Valor":"16.16","dimCodes":["NLD528","2021Q1"]},{"Valor":"8.99","dimCodes":["NLD528","2020"]},{"Valor":"10.20","dimCodes":["NLD528","2020Q4"]},{"Valor":"9.74","dimCodes":["NLD528","2020Q3"]},{"Valor":"..","dimCodes":["NLD528","2020Q2"]},{"Valor":"8.67","dimCodes":["NLD528","2020Q1"]},{"Valor":"9.31","dimCodes":["NLD528","2019"]},{"Valor":"8.61","dimCodes":["NLD528","2019Q4"]},{"Valor":"10.27","dimCodes":["NLD528","2019Q3"]},{"Valor":"9.63","dimCodes":["NLD528","2019Q2"]},{"Valor":"8.88","dimCodes":["NLD528","2019Q1"]},{"Valor":"8.91","dimCodes":["NLD528","2018"]},{"Valor":"8.22","dimCodes":["NLD528","2018Q4"]},{"Valor":"9.08","dimCodes":["NLD528","2018Q3"]},{"Valor":"9.12","dimCodes":["NLD528","2018Q2"]},{"Valor":"9.19","dimCodes":["NLD528","2018Q1"]},{"Valor":"9.98","dimCodes":["IRL372","2022Q3"]},{"Valor":"8.73","dimCodes":["IRL372","2022Q2"]},{"Valor":"8.46","dimCodes":["IRL372","2022Q1"]},{"Valor":"9.44","dimCodes":["IRL372","2021"]},{"Valor":"8.59","dimCodes":["IRL372","2021Q4"]},{"Valor":"8.91","dimCodes":["IRL372","2021Q3"]},{"Valor":"29.36","dimCodes":["IRL372","2021Q2"]},{"Valor":"16.25","dimCodes":["IRL372","2021Q1"]},{"Valor":"9.96","dimCodes":["IRL372","2020"]},{"Valor":"12.18","dimCodes":["IRL372","2020Q4"]},{"Valor":"12.20","dimCodes":["IRL372","2020Q3"]},{"Valor":"..","dimCodes":["IRL372","2020Q2"]},{"Valor":"9.20","dimCodes":["IRL372","2020Q1"]},{"Valor":"9.01","dimCodes":["IRL372","2019"]},{"Valor":"9.14","dimCodes":["IRL372","2019Q4"]},{"Valor":"9.65","dimCodes":["IRL372","2019Q3"]},{"Valor":"8.55","dimCodes":["IRL372","2019Q2"]},{"Valor":"8.59","dimCodes":["IRL372","2019Q1"]},{"Valor":"8.37","dimCodes":["IRL372","2018"]},{"Valor":"8.03","dimCodes":["IRL372","2018Q4"]},{"Valor":"8.76","dimCodes":["IRL372","2018Q3"]},{"Valor":"8.55","dimCodes":["IRL372","2018Q2"]},{"Valor":"8.07","dimCodes":["IRL372","2018Q1"]},{"Valor":"11.75","dimCodes":["ITA380","2022Q3"]},{"Valor":"11.57","dimCodes":["ITA380","2022Q2"]},{"Valor":"10.86","dimCodes":["ITA380","2022Q1"]},{"Valor":"11.23","dimCodes":["ITA380","2021"]},{"Valor":"10.11","dimCodes":["ITA380","2021Q4"]},{"Valor":"11.10","dimCodes":["ITA380","2021Q3"]},{"Valor":"12.73","dimCodes":["ITA380","2021Q2"]},{"Valor":"15.75","dimCodes":["ITA380","2021Q1"]},{"Valor":"12.98","dimCodes":["ITA380","2020"]},{"Valor":"13.05","dimCodes":["ITA380","2020Q4"]},{"Valor":"11.83","dimCodes":["ITA380","2020Q3"]},{"Valor":"..","dimCodes":["ITA380","2020Q2"]},{"Valor":"13.46","dimCodes":["ITA380","2020Q1"]},{"Valor":"9.84","dimCodes":["ITA380","2019"]},{"Valor":"8.79","dimCodes":["ITA380","2019Q4"]},{"Valor":"10.90","dimCodes":["ITA380","2019Q3"]},{"Valor":"8.62","dimCodes":["ITA380","2019Q2"]},{"Valor":"10.68","dimCodes":["ITA380","2019Q1"]},{"Valor":"10.18","dimCodes":["ITA380","2018"]},{"Valor":"9.13","dimCodes":["ITA380","2018Q4"]},{"Valor":"11.49","dimCodes":["ITA380","2018Q3"]},{"Valor":"8.97","dimCodes":["ITA380","2018Q2"]},{"Valor":"10.94","dimCodes":["ITA380","2018Q1"]},{"Valor":"10.37","dimCodes":["DNK208_FIN246_NOR578_SWE752","2022Q3"]},{"Valor":"10.71","dimCodes":["DNK208_FIN246_NOR578_SWE752","2022Q2"]},{"Valor":"10.51","dimCodes":["DNK208_FIN246_NOR578_SWE752","2022Q1"]},{"Valor":"10.36","dimCodes":["DNK208_FIN246_NOR578_SWE752","2021"]},{"Valor":"9.72","dimCodes":["DNK208_FIN246_NOR578_SWE752","2021Q4"]},{"Valor":"9.70","dimCodes":["DNK208_FIN246_NOR578_SWE752","2021Q3"]},{"Valor":"18.45","dimCodes":["DNK208_FIN246_NOR578_SWE752","2021Q2"]},{"Valor":"18.38","dimCodes":["DNK208_FIN246_NOR578_SWE752","2021Q1"]},{"Valor":"10.97","dimCodes":["DNK208_FIN246_NOR578_SWE752","2020"]},{"Valor":"10.99","dimCodes":["DNK208_FIN246_NOR578_SWE752","2020Q4"]},{"Valor":"15.76","dimCodes":["DNK208_FIN246_NOR578_SWE752","2020Q3"]},{"Valor":"..","dimCodes":["DNK208_FIN246_NOR578_SWE752","2020Q2"]},{"Valor":"10.93","dimCodes":["DNK208_FIN246_NOR578_SWE752","2020Q1"]},{"Valor":"9.80","dimCodes":["DNK208_FIN246_NOR578_SWE752","2019"]},{"Valor":"9.67","dimCodes":["DNK208_FIN246_NOR578_SWE752","2019Q4"]},{"Valor":"9.75","dimCodes":["DNK208_FIN246_NOR578_SWE752","2019Q3"]},{"Valor":"9.58","dimCodes":["DNK208_FIN246_NOR578_SWE752","2019Q2"]},{"Valor":"9.97","dimCodes":["DNK208_FIN246_NOR578_SWE752","2019Q1"]},{"Valor":"10.21","dimCodes":["DNK208_FIN246_NOR578_SWE752","2018"]},{"Valor":"9.20","dimCodes":["DNK208_FIN246_NOR578_SWE752","2018Q4"]},{"Valor":"10.20","dimCodes":["DNK208_FIN246_NOR578_SWE752","2018Q3"]},{"Valor":"9.94","dimCodes":["DNK208_FIN246_NOR578_SWE752","2018Q2"]},{"Valor":"11.05","dimCodes":["DNK208_FIN246_NOR578_SWE752","2018Q1"]},{"Valor":"9.13","dimCodes":["GBR826","2022Q3"]},{"Valor":"8.30","dimCodes":["GBR826","2022Q2"]},{"Valor":"8.74","dimCodes":["GBR826","2022Q1"]},{"Valor":"9.00","dimCodes":["GBR826","2021"]},{"Valor":"8.40","dimCodes":["GBR826","2021Q4"]},{"Valor":"9.40","dimCodes":["GBR826","2021Q3"]},{"Valor":"20.45","dimCodes":["GBR826","2021Q2"]},{"Valor":"28.98","dimCodes":["GBR826","2021Q1"]},{"Valor":"9.64","dimCodes":["GBR826","2020"]},{"Valor":"10.28","dimCodes":["GBR826","2020Q4"]},{"Valor":"12.42","dimCodes":["GBR826","2020Q3"]},{"Valor":"..","dimCodes":["GBR826","2020Q2"]},{"Valor":"9.15","dimCodes":["GBR826","2020Q1"]},{"Valor":"8.52","dimCodes":["GBR826","2019"]},{"Valor":"8.28","dimCodes":["GBR826","2019Q4"]},{"Valor":"9.19","dimCodes":["GBR826","2019Q3"]},{"Valor":"8.24","dimCodes":["GBR826","2019Q2"]},{"Valor":"8.35","dimCodes":["GBR826","2019Q1"]},{"Valor":"8.64","dimCodes":["GBR826","2018"]},{"Valor":"8.08","dimCodes":["GBR826","2018Q4"]},{"Valor":"9.21","dimCodes":["GBR826","2018Q3"]},{"Valor":"8.53","dimCodes":["GBR826","2018Q2"]},{"Valor":"8.81","dimCodes":["GBR826","2018Q1"]},{"Valor":"9.90","dimCodes":["CHE756","2022Q3"]},{"Valor":"8.75","dimCodes":["CHE756","2022Q2"]},{"Valor":"10.85","dimCodes":["CHE756","2022Q1"]},{"Valor":"9.90","dimCodes":["CHE756","2021"]},{"Valor":"9.18","dimCodes":["CHE756","2021Q4"]},{"Valor":"9.80","dimCodes":["CHE756","2021Q3"]},{"Valor":"10.50","dimCodes":["CHE756","2021Q2"]},{"Valor":"13.96","dimCodes":["CHE756","2021Q1"]},{"Valor":"10.91","dimCodes":["CHE756","2020"]},{"Valor":"10.95","dimCodes":["CHE756","2020Q4"]},{"Valor":"9.82","dimCodes":["CHE756","2020Q3"]},{"Valor":"..","dimCodes":["CHE756","2020Q2"]},{"Valor":"11.20","dimCodes":["CHE756","2020Q1"]},{"Valor":"10.02","dimCodes":["CHE756","2019"]},{"Valor":"9.91","dimCodes":["CHE756","2019Q4"]},{"Valor":"9.40","dimCodes":["CHE756","2019Q3"]},{"Valor":"10.38","dimCodes":["CHE756","2019Q2"]},{"Valor":"10.35","dimCodes":["CHE756","2019Q1"]},{"Valor":"9.07","dimCodes":["CHE756","2018"]},{"Valor":"8.62","dimCodes":["CHE756","2018Q4"]},{"Valor":"9.38","dimCodes":["CHE756","2018Q3"]},{"Valor":"8.88","dimCodes":["CHE756","2018Q2"]},{"Valor":"9.56","dimCodes":["CHE756","2018Q1"]},{"Valor":"9.51","dimCodes":["ZZZ900","2022Q3"]},{"Valor":"9.67","dimCodes":["ZZZ900","2022Q2"]},{"Valor":"11.10","dimCodes":["ZZZ900","2022Q1"]},{"Valor":"10.32","dimCodes":["ZZZ900","2021"]},{"Valor":"9.45","dimCodes":["ZZZ900","2021Q4"]},{"Valor":"9.68","dimCodes":["ZZZ900","2021Q3"]},{"Valor":"11.72","dimCodes":["ZZZ900","2021Q2"]},{"Valor":"13.21","dimCodes":["ZZZ900","2021Q1"]},{"Valor":"11.50","dimCodes":["ZZZ900","2020"]},{"Valor":"11.19","dimCodes":["ZZZ900","2020Q4"]},{"Valor":"10.40","dimCodes":["ZZZ900","2020Q3"]},{"Valor":"..","dimCodes":["ZZZ900","2020Q2"]},{"Valor":"11.90","dimCodes":["ZZZ900","2020Q1"]},{"Valor":"10.29","dimCodes":["ZZZ900","2019"]},{"Valor":"10.43","dimCodes":["ZZZ900","2019Q4"]},{"Valor":"10.34","dimCodes":["ZZZ900","2019Q3"]},{"Valor":"9.31","dimCodes":["ZZZ900","2019Q2"]},{"Valor":"10.92","dimCodes":["ZZZ900","2019Q1"]},{"Valor":"10.68","dimCodes":["ZZZ900","2018"]},{"Valor":"10.33","dimCodes":["ZZZ900","2018Q4"]},{"Valor":"10.50","dimCodes":["ZZZ900","2018Q3"]},{"Valor":"10.56","dimCodes":["ZZZ900","2018Q2"]},{"Valor":"11.34","dimCodes":["ZZZ900","2018Q1"]}]}
+{
+    "uuid": "47da3fc7-4c0a-44d0-885d-c55b9ca2854d",
+    "title": "Estancia media seg\u00fan pa\u00edses de residencia. Canarias y periodos.",
+    "uriPx": "urn:uuid:f529996d-167c-453a-aa06-17752b6a1203",
+    "stub": [
+        "Pa\u00edses de residencia"
+    ],
+    "heading": [
+        "Periodos"
+    ],
+    "categories": [
+        {
+            "variable": "Pa\u00edses de residencia",
+            "codes": [
+                "0",
+                "DEU276",
+                "BEL056",
+                "ESP724",
+                "FRA250",
+                "NLD528",
+                "IRL372",
+                "ITA380",
+                "DNK208_FIN246_NOR578_SWE752",
+                "GBR826",
+                "CHE756",
+                "ZZZ900"
+            ],
+            "labels": [
+                "TOTAL",
+                "Alemania",
+                "B\u00e9lgica",
+                "Espa\u00f1a",
+                "Francia",
+                "Holanda",
+                "Irlanda",
+                "Italia",
+                "Pa\u00edses N\u00f3rdicos",
+                "Reino Unido",
+                "Suiza",
+                "Otros pa\u00edses"
+            ]
+        },
+        {
+            "variable": "Periodos",
+            "codes": [
+                "2022Q3",
+                "2022Q2",
+                "2022Q1",
+                "2021",
+                "2021Q4",
+                "2021Q3",
+                "2021Q2",
+                "2021Q1",
+                "2020",
+                "2020Q4",
+                "2020Q3",
+                "2020Q2",
+                "2020Q1",
+                "2019",
+                "2019Q4",
+                "2019Q3",
+                "2019Q2",
+                "2019Q1",
+                "2018",
+                "2018Q4",
+                "2018Q3",
+                "2018Q2",
+                "2018Q1"
+            ],
+            "labels": [
+                "2022 Tercer trimestre",
+                "2022 Segundo trimestre",
+                "2022 Primer trimestre",
+                "2021",
+                "2021 Cuarto trimestre",
+                "2021 Tercer trimestre",
+                "2021 Segundo trimestre",
+                "2021 Primer trimestre",
+                "2020",
+                "2020 Cuarto trimestre",
+                "2020 Tercer trimestre",
+                "2020 Segundo trimestre",
+                "2020 Primer trimestre",
+                "2019",
+                "2019 Cuarto trimestre",
+                "2019 Tercer trimestre",
+                "2019 Segundo trimestre",
+                "2019 Primer trimestre",
+                "2018",
+                "2018 Cuarto trimestre",
+                "2018 Tercer trimestre",
+                "2018 Segundo trimestre",
+                "2018 Primer trimestre"
+            ]
+        }
+    ],
+    "temporals": [
+        "Periodos"
+    ],
+    "spatials": [
+        "Pa\u00edses de residencia"
+    ],
+    "source": "Instituto Canario de Estad\u00edstica (ISTAC).",
+    "surveyCode": "C00028A",
+    "surveyTitle": "Encuesta sobre el Gasto Tur\u00edstico",
+    "publishers": [
+        "Instituto Canario de Estad\u00edstica (ISTAC)"
+    ],
+    "data": [
+        {
+            "Valor": "9.43",
+            "dimCodes": [
+                "0",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "8.91",
+            "dimCodes": [
+                "0",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "9.71",
+            "dimCodes": [
+                "0",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "9.54",
+            "dimCodes": [
+                "0",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "8.85",
+            "dimCodes": [
+                "0",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "9.32",
+            "dimCodes": [
+                "0",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "11.22",
+            "dimCodes": [
+                "0",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "13.27",
+            "dimCodes": [
+                "0",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "10.14",
+            "dimCodes": [
+                "0",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "9.94",
+            "dimCodes": [
+                "0",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "10.15",
+            "dimCodes": [
+                "0",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "0",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "10.19",
+            "dimCodes": [
+                "0",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "9.13",
+            "dimCodes": [
+                "0",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "8.98",
+            "dimCodes": [
+                "0",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "9.46",
+            "dimCodes": [
+                "0",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "8.75",
+            "dimCodes": [
+                "0",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "9.32",
+            "dimCodes": [
+                "0",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "9.34",
+            "dimCodes": [
+                "0",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "8.78",
+            "dimCodes": [
+                "0",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "9.59",
+            "dimCodes": [
+                "0",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "8.93",
+            "dimCodes": [
+                "0",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "10.03",
+            "dimCodes": [
+                "0",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "10.52",
+            "dimCodes": [
+                "DEU276",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "11.48",
+            "dimCodes": [
+                "DEU276",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "11.86",
+            "dimCodes": [
+                "DEU276",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "11.30",
+            "dimCodes": [
+                "DEU276",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "10.29",
+            "dimCodes": [
+                "DEU276",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "10.22",
+            "dimCodes": [
+                "DEU276",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "14.85",
+            "dimCodes": [
+                "DEU276",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "16.68",
+            "dimCodes": [
+                "DEU276",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "11.67",
+            "dimCodes": [
+                "DEU276",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "11.00",
+            "dimCodes": [
+                "DEU276",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "11.10",
+            "dimCodes": [
+                "DEU276",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "DEU276",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "11.96",
+            "dimCodes": [
+                "DEU276",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "10.72",
+            "dimCodes": [
+                "DEU276",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "10.42",
+            "dimCodes": [
+                "DEU276",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "10.39",
+            "dimCodes": [
+                "DEU276",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "10.74",
+            "dimCodes": [
+                "DEU276",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "11.22",
+            "dimCodes": [
+                "DEU276",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "10.70",
+            "dimCodes": [
+                "DEU276",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "10.00",
+            "dimCodes": [
+                "DEU276",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "10.41",
+            "dimCodes": [
+                "DEU276",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "10.26",
+            "dimCodes": [
+                "DEU276",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "12.05",
+            "dimCodes": [
+                "DEU276",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "9.60",
+            "dimCodes": [
+                "BEL056",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "9.02",
+            "dimCodes": [
+                "BEL056",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "10.85",
+            "dimCodes": [
+                "BEL056",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "10.38",
+            "dimCodes": [
+                "BEL056",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "8.63",
+            "dimCodes": [
+                "BEL056",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "9.83",
+            "dimCodes": [
+                "BEL056",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "16.18",
+            "dimCodes": [
+                "BEL056",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "17.11",
+            "dimCodes": [
+                "BEL056",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "11.38",
+            "dimCodes": [
+                "BEL056",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "10.97",
+            "dimCodes": [
+                "BEL056",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "9.69",
+            "dimCodes": [
+                "BEL056",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "BEL056",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "12.57",
+            "dimCodes": [
+                "BEL056",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "10.26",
+            "dimCodes": [
+                "BEL056",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "9.98",
+            "dimCodes": [
+                "BEL056",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "9.70",
+            "dimCodes": [
+                "BEL056",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "10.45",
+            "dimCodes": [
+                "BEL056",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "10.99",
+            "dimCodes": [
+                "BEL056",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "10.13",
+            "dimCodes": [
+                "BEL056",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "9.66",
+            "dimCodes": [
+                "BEL056",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "9.74",
+            "dimCodes": [
+                "BEL056",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "10.10",
+            "dimCodes": [
+                "BEL056",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "11.11",
+            "dimCodes": [
+                "BEL056",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "8.13",
+            "dimCodes": [
+                "ESP724",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "6.06",
+            "dimCodes": [
+                "ESP724",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "6.92",
+            "dimCodes": [
+                "ESP724",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "7.57",
+            "dimCodes": [
+                "ESP724",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "6.51",
+            "dimCodes": [
+                "ESP724",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "8.23",
+            "dimCodes": [
+                "ESP724",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "7.04",
+            "dimCodes": [
+                "ESP724",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "8.86",
+            "dimCodes": [
+                "ESP724",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "7.73",
+            "dimCodes": [
+                "ESP724",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "7.53",
+            "dimCodes": [
+                "ESP724",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "8.41",
+            "dimCodes": [
+                "ESP724",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "ESP724",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "7.06",
+            "dimCodes": [
+                "ESP724",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "6.99",
+            "dimCodes": [
+                "ESP724",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "6.47",
+            "dimCodes": [
+                "ESP724",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "8.27",
+            "dimCodes": [
+                "ESP724",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "6.66",
+            "dimCodes": [
+                "ESP724",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "5.99",
+            "dimCodes": [
+                "ESP724",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "7.39",
+            "dimCodes": [
+                "ESP724",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "6.89",
+            "dimCodes": [
+                "ESP724",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "8.64",
+            "dimCodes": [
+                "ESP724",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "6.54",
+            "dimCodes": [
+                "ESP724",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "6.99",
+            "dimCodes": [
+                "ESP724",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "9.87",
+            "dimCodes": [
+                "FRA250",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "8.12",
+            "dimCodes": [
+                "FRA250",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "9.15",
+            "dimCodes": [
+                "FRA250",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "9.11",
+            "dimCodes": [
+                "FRA250",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "7.86",
+            "dimCodes": [
+                "FRA250",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "9.77",
+            "dimCodes": [
+                "FRA250",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "9.88",
+            "dimCodes": [
+                "FRA250",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "10.44",
+            "dimCodes": [
+                "FRA250",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "9.41",
+            "dimCodes": [
+                "FRA250",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "8.88",
+            "dimCodes": [
+                "FRA250",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "12.74",
+            "dimCodes": [
+                "FRA250",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "FRA250",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "8.68",
+            "dimCodes": [
+                "FRA250",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "8.53",
+            "dimCodes": [
+                "FRA250",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "8.04",
+            "dimCodes": [
+                "FRA250",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "9.22",
+            "dimCodes": [
+                "FRA250",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "8.15",
+            "dimCodes": [
+                "FRA250",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "8.70",
+            "dimCodes": [
+                "FRA250",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "9.16",
+            "dimCodes": [
+                "FRA250",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "8.36",
+            "dimCodes": [
+                "FRA250",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "9.87",
+            "dimCodes": [
+                "FRA250",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "8.77",
+            "dimCodes": [
+                "FRA250",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "9.51",
+            "dimCodes": [
+                "FRA250",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "9.40",
+            "dimCodes": [
+                "NLD528",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "9.30",
+            "dimCodes": [
+                "NLD528",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "9.45",
+            "dimCodes": [
+                "NLD528",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "8.97",
+            "dimCodes": [
+                "NLD528",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "8.49",
+            "dimCodes": [
+                "NLD528",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "9.08",
+            "dimCodes": [
+                "NLD528",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "10.43",
+            "dimCodes": [
+                "NLD528",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "16.16",
+            "dimCodes": [
+                "NLD528",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "8.99",
+            "dimCodes": [
+                "NLD528",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "10.20",
+            "dimCodes": [
+                "NLD528",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "9.74",
+            "dimCodes": [
+                "NLD528",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "NLD528",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "8.67",
+            "dimCodes": [
+                "NLD528",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "9.31",
+            "dimCodes": [
+                "NLD528",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "8.61",
+            "dimCodes": [
+                "NLD528",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "10.27",
+            "dimCodes": [
+                "NLD528",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "9.63",
+            "dimCodes": [
+                "NLD528",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "8.88",
+            "dimCodes": [
+                "NLD528",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "8.91",
+            "dimCodes": [
+                "NLD528",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "8.22",
+            "dimCodes": [
+                "NLD528",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "9.08",
+            "dimCodes": [
+                "NLD528",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "9.12",
+            "dimCodes": [
+                "NLD528",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "9.19",
+            "dimCodes": [
+                "NLD528",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "9.98",
+            "dimCodes": [
+                "IRL372",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "8.73",
+            "dimCodes": [
+                "IRL372",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "8.46",
+            "dimCodes": [
+                "IRL372",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "9.44",
+            "dimCodes": [
+                "IRL372",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "8.59",
+            "dimCodes": [
+                "IRL372",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "8.91",
+            "dimCodes": [
+                "IRL372",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "29.36",
+            "dimCodes": [
+                "IRL372",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "16.25",
+            "dimCodes": [
+                "IRL372",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "9.96",
+            "dimCodes": [
+                "IRL372",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "12.18",
+            "dimCodes": [
+                "IRL372",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "12.20",
+            "dimCodes": [
+                "IRL372",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "IRL372",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "9.20",
+            "dimCodes": [
+                "IRL372",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "9.01",
+            "dimCodes": [
+                "IRL372",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "9.14",
+            "dimCodes": [
+                "IRL372",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "9.65",
+            "dimCodes": [
+                "IRL372",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "8.55",
+            "dimCodes": [
+                "IRL372",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "8.59",
+            "dimCodes": [
+                "IRL372",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "8.37",
+            "dimCodes": [
+                "IRL372",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "8.03",
+            "dimCodes": [
+                "IRL372",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "8.76",
+            "dimCodes": [
+                "IRL372",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "8.55",
+            "dimCodes": [
+                "IRL372",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "8.07",
+            "dimCodes": [
+                "IRL372",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "11.75",
+            "dimCodes": [
+                "ITA380",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "11.57",
+            "dimCodes": [
+                "ITA380",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "10.86",
+            "dimCodes": [
+                "ITA380",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "11.23",
+            "dimCodes": [
+                "ITA380",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "10.11",
+            "dimCodes": [
+                "ITA380",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "11.10",
+            "dimCodes": [
+                "ITA380",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "12.73",
+            "dimCodes": [
+                "ITA380",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "15.75",
+            "dimCodes": [
+                "ITA380",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "12.98",
+            "dimCodes": [
+                "ITA380",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "13.05",
+            "dimCodes": [
+                "ITA380",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "11.83",
+            "dimCodes": [
+                "ITA380",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "ITA380",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "13.46",
+            "dimCodes": [
+                "ITA380",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "9.84",
+            "dimCodes": [
+                "ITA380",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "8.79",
+            "dimCodes": [
+                "ITA380",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "10.90",
+            "dimCodes": [
+                "ITA380",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "8.62",
+            "dimCodes": [
+                "ITA380",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "10.68",
+            "dimCodes": [
+                "ITA380",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "10.18",
+            "dimCodes": [
+                "ITA380",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "9.13",
+            "dimCodes": [
+                "ITA380",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "11.49",
+            "dimCodes": [
+                "ITA380",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "8.97",
+            "dimCodes": [
+                "ITA380",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "10.94",
+            "dimCodes": [
+                "ITA380",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "10.37",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "10.71",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "10.51",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "10.36",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "9.72",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "9.70",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "18.45",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "18.38",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "10.97",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "10.99",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "15.76",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "10.93",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "9.80",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "9.67",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "9.75",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "9.58",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "9.97",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "10.21",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "9.20",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "10.20",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "9.94",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "11.05",
+            "dimCodes": [
+                "DNK208_FIN246_NOR578_SWE752",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "9.13",
+            "dimCodes": [
+                "GBR826",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "8.30",
+            "dimCodes": [
+                "GBR826",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "8.74",
+            "dimCodes": [
+                "GBR826",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "9.00",
+            "dimCodes": [
+                "GBR826",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "8.40",
+            "dimCodes": [
+                "GBR826",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "9.40",
+            "dimCodes": [
+                "GBR826",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "20.45",
+            "dimCodes": [
+                "GBR826",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "28.98",
+            "dimCodes": [
+                "GBR826",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "9.64",
+            "dimCodes": [
+                "GBR826",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "10.28",
+            "dimCodes": [
+                "GBR826",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "12.42",
+            "dimCodes": [
+                "GBR826",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "GBR826",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "9.15",
+            "dimCodes": [
+                "GBR826",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "8.52",
+            "dimCodes": [
+                "GBR826",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "8.28",
+            "dimCodes": [
+                "GBR826",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "9.19",
+            "dimCodes": [
+                "GBR826",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "8.24",
+            "dimCodes": [
+                "GBR826",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "8.35",
+            "dimCodes": [
+                "GBR826",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "8.64",
+            "dimCodes": [
+                "GBR826",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "8.08",
+            "dimCodes": [
+                "GBR826",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "9.21",
+            "dimCodes": [
+                "GBR826",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "8.53",
+            "dimCodes": [
+                "GBR826",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "8.81",
+            "dimCodes": [
+                "GBR826",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "9.90",
+            "dimCodes": [
+                "CHE756",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "8.75",
+            "dimCodes": [
+                "CHE756",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "10.85",
+            "dimCodes": [
+                "CHE756",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "9.90",
+            "dimCodes": [
+                "CHE756",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "9.18",
+            "dimCodes": [
+                "CHE756",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "9.80",
+            "dimCodes": [
+                "CHE756",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "10.50",
+            "dimCodes": [
+                "CHE756",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "13.96",
+            "dimCodes": [
+                "CHE756",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "10.91",
+            "dimCodes": [
+                "CHE756",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "10.95",
+            "dimCodes": [
+                "CHE756",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "9.82",
+            "dimCodes": [
+                "CHE756",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "CHE756",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "11.20",
+            "dimCodes": [
+                "CHE756",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "10.02",
+            "dimCodes": [
+                "CHE756",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "9.91",
+            "dimCodes": [
+                "CHE756",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "9.40",
+            "dimCodes": [
+                "CHE756",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "10.38",
+            "dimCodes": [
+                "CHE756",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "10.35",
+            "dimCodes": [
+                "CHE756",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "9.07",
+            "dimCodes": [
+                "CHE756",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "8.62",
+            "dimCodes": [
+                "CHE756",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "9.38",
+            "dimCodes": [
+                "CHE756",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "8.88",
+            "dimCodes": [
+                "CHE756",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "9.56",
+            "dimCodes": [
+                "CHE756",
+                "2018Q1"
+            ]
+        },
+        {
+            "Valor": "9.51",
+            "dimCodes": [
+                "ZZZ900",
+                "2022Q3"
+            ]
+        },
+        {
+            "Valor": "9.67",
+            "dimCodes": [
+                "ZZZ900",
+                "2022Q2"
+            ]
+        },
+        {
+            "Valor": "11.10",
+            "dimCodes": [
+                "ZZZ900",
+                "2022Q1"
+            ]
+        },
+        {
+            "Valor": "10.32",
+            "dimCodes": [
+                "ZZZ900",
+                "2021"
+            ]
+        },
+        {
+            "Valor": "9.45",
+            "dimCodes": [
+                "ZZZ900",
+                "2021Q4"
+            ]
+        },
+        {
+            "Valor": "9.68",
+            "dimCodes": [
+                "ZZZ900",
+                "2021Q3"
+            ]
+        },
+        {
+            "Valor": "11.72",
+            "dimCodes": [
+                "ZZZ900",
+                "2021Q2"
+            ]
+        },
+        {
+            "Valor": "13.21",
+            "dimCodes": [
+                "ZZZ900",
+                "2021Q1"
+            ]
+        },
+        {
+            "Valor": "11.50",
+            "dimCodes": [
+                "ZZZ900",
+                "2020"
+            ]
+        },
+        {
+            "Valor": "11.19",
+            "dimCodes": [
+                "ZZZ900",
+                "2020Q4"
+            ]
+        },
+        {
+            "Valor": "10.40",
+            "dimCodes": [
+                "ZZZ900",
+                "2020Q3"
+            ]
+        },
+        {
+            "Valor": "..",
+            "dimCodes": [
+                "ZZZ900",
+                "2020Q2"
+            ]
+        },
+        {
+            "Valor": "11.90",
+            "dimCodes": [
+                "ZZZ900",
+                "2020Q1"
+            ]
+        },
+        {
+            "Valor": "10.29",
+            "dimCodes": [
+                "ZZZ900",
+                "2019"
+            ]
+        },
+        {
+            "Valor": "10.43",
+            "dimCodes": [
+                "ZZZ900",
+                "2019Q4"
+            ]
+        },
+        {
+            "Valor": "10.34",
+            "dimCodes": [
+                "ZZZ900",
+                "2019Q3"
+            ]
+        },
+        {
+            "Valor": "9.31",
+            "dimCodes": [
+                "ZZZ900",
+                "2019Q2"
+            ]
+        },
+        {
+            "Valor": "10.92",
+            "dimCodes": [
+                "ZZZ900",
+                "2019Q1"
+            ]
+        },
+        {
+            "Valor": "10.68",
+            "dimCodes": [
+                "ZZZ900",
+                "2018"
+            ]
+        },
+        {
+            "Valor": "10.33",
+            "dimCodes": [
+                "ZZZ900",
+                "2018Q4"
+            ]
+        },
+        {
+            "Valor": "10.50",
+            "dimCodes": [
+                "ZZZ900",
+                "2018Q3"
+            ]
+        },
+        {
+            "Valor": "10.56",
+            "dimCodes": [
+                "ZZZ900",
+                "2018Q2"
+            ]
+        },
+        {
+            "Valor": "11.34",
+            "dimCodes": [
+                "ZZZ900",
+                "2018Q1"
+            ]
+        }
+    ]
+}

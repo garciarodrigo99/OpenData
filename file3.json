@@ -1,1 +1,3508 @@
-{"uuid":"e7b9259b-9775-4b0b-8719-db4e17230381","title":"Estancia media según países de residencia. Canarias y periodos.","uriPx":"urn:uuid:842c0b4f-4583-4e50-b074-97b777a46b20","stub":["Países de residencia"],"heading":["Periodos"],"categories":[{"variable":"Países de residencia","codes":["T","DE","BE","ES","FR","NL","IE","IT","DK_FI_NO_SE","UK","CH","ZZ"],"labels":["TOTAL PAÍSES","Alemania","Bélgica","España","Francia","Holanda","Irlanda","Italia","Países Nórdicos","Reino Unido","Suiza","Otros países"]},{"variable":"Periodos","codes":["2017","2017Q4","2017Q3","2017Q2","2017Q1","2016","2016Q4","2016Q3","2016Q2","2016Q1","2015","2015Q4","2015Q3","2015Q2","2015Q1","2014","2014Q4","2014Q3","2014Q2","2014Q1","2013","2013Q4","2013Q3","2013Q2","2013Q1","2012","2012Q4","2012Q3","2012Q2","2012Q1","2011","2011Q4","2011Q3","2011Q2","2011Q1","2010","2010Q4","2010Q3","2010Q2","2010Q1"],"labels":["2017","2017 Cuarto trimestre","2017 Tercer trimestre","2017 Segundo trimestre","2017 Primer trimestre","2016","2016 Cuarto trimestre","2016 Tercer trimestre","2016 Segundo trimestre","2016 Primer trimestre","2015","2015 Cuarto trimestre","2015 Tercer trimestre","2015 Segundo trimestre","2015 Primer trimestre","2014","2014 Cuarto trimestre","2014 Tercer trimestre","2014 Segundo trimestre","2014 Primer trimestre","2013","2013 Cuarto trimestre","2013 Tercer trimestre","2013 Segundo trimestre","2013 Primer trimestre","2012","2012 Cuarto trimestre","2012 Tercer trimestre","2012 Segundo trimestre","2012 Primer trimestre","2011","2011 Cuarto trimestre","2011 Tercer trimestre","2011 Segundo trimestre","2011 Primer trimestre","2010","2010 Cuarto trimestre","2010 Tercer trimestre","2010 Segundo trimestre","2010 Primer trimestre"]}],"temporals":["Periodos"],"spatials":["Países de residencia"],"notes":["(p) Dato provisional"],"source":"Instituto Canario de Estadística (ISTAC).","surveyCode":"C00028A","surveyTitle":"Encuesta sobre el Gasto Turístico","publishers":["Instituto Canario de Estadística (ISTAC)"],"data":[{"Valor":"9.17","dimCodes":["T","2017"]},{"Valor":"8.91","dimCodes":["T","2017Q4"]},{"Valor":"9.46","dimCodes":["T","2017Q3"]},{"Valor":"8.68","dimCodes":["T","2017Q2"]},{"Valor":"9.61","dimCodes":["T","2017Q1"]},{"Valor":"9.36","dimCodes":["T","2016"]},{"Valor":"8.78","dimCodes":["T","2016Q4"]},{"Valor":"9.71","dimCodes":["T","2016Q3"]},{"Valor":"8.88","dimCodes":["T","2016Q2"]},{"Valor":"10.04","dimCodes":["T","2016Q1"]},{"Valor":"9.55","dimCodes":["T","2015"]},{"Valor":"9.19","dimCodes":["T","2015Q4"]},{"Valor":"9.77","dimCodes":["T","2015Q3"]},{"Valor":"8.88","dimCodes":["T","2015Q2"]},{"Valor":"10.28","dimCodes":["T","2015Q1"]},{"Valor":"9.57","dimCodes":["T","2014"]},{"Valor":"9.18","dimCodes":["T","2014Q4"]},{"Valor":"9.74","dimCodes":["T","2014Q3"]},{"Valor":"9.02","dimCodes":["T","2014Q2"]},{"Valor":"10.25","dimCodes":["T","2014Q1"]},{"Valor":"9.56","dimCodes":["T","2013"]},{"Valor":"8.92","dimCodes":["T","2013Q4"]},{"Valor":"9.86","dimCodes":["T","2013Q3"]},{"Valor":"9.39","dimCodes":["T","2013Q2"]},{"Valor":"10.10","dimCodes":["T","2013Q1"]},{"Valor":"9.62","dimCodes":["T","2012"]},{"Valor":"9.13","dimCodes":["T","2012Q4"]},{"Valor":"10.10","dimCodes":["T","2012Q3"]},{"Valor":"9.16","dimCodes":["T","2012Q2"]},{"Valor":"10.02","dimCodes":["T","2012Q1"]},{"Valor":"9.50","dimCodes":["T","2011"]},{"Valor":"9.13","dimCodes":["T","2011Q4"]},{"Valor":"9.59","dimCodes":["T","2011Q3"]},{"Valor":"9.27","dimCodes":["T","2011Q2"]},{"Valor":"9.99","dimCodes":["T","2011Q1"]},{"Valor":"9.41","dimCodes":["T","2010"]},{"Valor":"8.88","dimCodes":["T","2010Q4"]},{"Valor":"9.82","dimCodes":["T","2010Q3"]},{"Valor":"9.19","dimCodes":["T","2010Q2"]},{"Valor":"9.76","dimCodes":["T","2010Q1"]},{"Valor":"10.45","dimCodes":["DE","2017"]},{"Valor":"10.09","dimCodes":["DE","2017Q4"]},{"Valor":"10.32","dimCodes":["DE","2017Q3"]},{"Valor":"10.51","dimCodes":["DE","2017Q2"]},{"Valor":"10.92","dimCodes":["DE","2017Q1"]},{"Valor":"10.67","dimCodes":["DE","2016"]},{"Valor":"9.79","dimCodes":["DE","2016Q4"]},{"Valor":"10.50","dimCodes":["DE","2016Q3"]},{"Valor":"10.92","dimCodes":["DE","2016Q2"]},{"Valor":"11.53","dimCodes":["DE","2016Q1"]},{"Valor":"10.89","dimCodes":["DE","2015"]},{"Valor":"10.55","dimCodes":["DE","2015Q4"]},{"Valor":"10.49","dimCodes":["DE","2015Q3"]},{"Valor":"10.38","dimCodes":["DE","2015Q2"]},{"Valor":"11.89","dimCodes":["DE","2015Q1"]},{"Valor":"10.82","dimCodes":["DE","2014"]},{"Valor":"10.32","dimCodes":["DE","2014Q4"]},{"Valor":"10.43","dimCodes":["DE","2014Q3"]},{"Valor":"10.18","dimCodes":["DE","2014Q2"]},{"Valor":"12.10","dimCodes":["DE","2014Q1"]},{"Valor":"10.91","dimCodes":["DE","2013"]},{"Valor":"9.90","dimCodes":["DE","2013Q4"]},{"Valor":"10.58","dimCodes":["DE","2013Q3"]},{"Valor":"11.85","dimCodes":["DE","2013Q2"]},{"Valor":"11.67","dimCodes":["DE","2013Q1"]},{"Valor":"10.99","dimCodes":["DE","2012"]},{"Valor":"10.45","dimCodes":["DE","2012Q4"]},{"Valor":"10.95","dimCodes":["DE","2012Q3"]},{"Valor":"10.45","dimCodes":["DE","2012Q2"]},{"Valor":"11.89","dimCodes":["DE","2012Q1"]},{"Valor":"11.13","dimCodes":["DE","2011"]},{"Valor":"10.23","dimCodes":["DE","2011Q4"]},{"Valor":"10.52","dimCodes":["DE","2011Q3"]},{"Valor":"11.47","dimCodes":["DE","2011Q2"]},{"Valor":"12.27","dimCodes":["DE","2011Q1"]},{"Valor":"11.16","dimCodes":["DE","2010"]},{"Valor":"10.49","dimCodes":["DE","2010Q4"]},{"Valor":"10.94","dimCodes":["DE","2010Q3"]},{"Valor":"11.47","dimCodes":["DE","2010Q2"]},{"Valor":"11.80","dimCodes":["DE","2010Q1"]},{"Valor":"9.61","dimCodes":["BE","2017"]},{"Valor":"9.00","dimCodes":["BE","2017Q4"]},{"Valor":"9.74","dimCodes":["BE","2017Q3"]},{"Valor":"8.83","dimCodes":["BE","2017Q2"]},{"Valor":"10.83","dimCodes":["BE","2017Q1"]},{"Valor":"10.00","dimCodes":["BE","2016"]},{"Valor":"9.42","dimCodes":["BE","2016Q4"]},{"Valor":"10.32","dimCodes":["BE","2016Q3"]},{"Valor":"9.43","dimCodes":["BE","2016Q2"]},{"Valor":"10.86","dimCodes":["BE","2016Q1"]},{"Valor":"10.31","dimCodes":["BE","2015"]},{"Valor":"8.83","dimCodes":["BE","2015Q4"]},{"Valor":"11.12","dimCodes":["BE","2015Q3"]},{"Valor":"9.99","dimCodes":["BE","2015Q2"]},{"Valor":"11.45","dimCodes":["BE","2015Q1"]},{"Valor":"9.70","dimCodes":["BE","2014"]},{"Valor":"9.74","dimCodes":["BE","2014Q4"]},{"Valor":"9.92","dimCodes":["BE","2014Q3"]},{"Valor":"9.44","dimCodes":["BE","2014Q2"]},{"Valor":"9.67","dimCodes":["BE","2014Q1"]},{"Valor":"10.25","dimCodes":["BE","2013"]},{"Valor":"10.24","dimCodes":["BE","2013Q4"]},{"Valor":"9.94","dimCodes":["BE","2013Q3"]},{"Valor":"9.27","dimCodes":["BE","2013Q2"]},{"Valor":"11.29","dimCodes":["BE","2013Q1"]},{"Valor":"9.86","dimCodes":["BE","2012"]},{"Valor":"10.14","dimCodes":["BE","2012Q4"]},{"Valor":"10.26","dimCodes":["BE","2012Q3"]},{"Valor":"8.62","dimCodes":["BE","2012Q2"]},{"Valor":"10.20","dimCodes":["BE","2012Q1"]},{"Valor":"10.09","dimCodes":["BE","2011"]},{"Valor":"11.04","dimCodes":["BE","2011Q4"]},{"Valor":"9.86","dimCodes":["BE","2011Q3"]},{"Valor":"9.96","dimCodes":["BE","2011Q2"]},{"Valor":"9.50","dimCodes":["BE","2011Q1"]},{"Valor":"9.26","dimCodes":["BE","2010"]},{"Valor":"9.62","dimCodes":["BE","2010Q4"]},{"Valor":"9.89","dimCodes":["BE","2010Q3"]},{"Valor":"7.55","dimCodes":["BE","2010Q2"]},{"Valor":"9.70","dimCodes":["BE","2010Q1"]},{"Valor":"7.17","dimCodes":["ES","2017"]},{"Valor":"6.52","dimCodes":["ES","2017Q4"]},{"Valor":"8.47","dimCodes":["ES","2017Q3"]},{"Valor":"6.43","dimCodes":["ES","2017Q2"]},{"Valor":"6.69","dimCodes":["ES","2017Q1"]},{"Valor":"7.48","dimCodes":["ES","2016"]},{"Valor":"6.93","dimCodes":["ES","2016Q4"]},{"Valor":"8.86","dimCodes":["ES","2016Q3"]},{"Valor":"6.49","dimCodes":["ES","2016Q2"]},{"Valor":"6.97","dimCodes":["ES","2016Q1"]},{"Valor":"7.41","dimCodes":["ES","2015"]},{"Valor":"7.09","dimCodes":["ES","2015Q4"]},{"Valor":"8.48","dimCodes":["ES","2015Q3"]},{"Valor":"6.31","dimCodes":["ES","2015Q2"]},{"Valor":"7.16","dimCodes":["ES","2015Q1"]},{"Valor":"7.49","dimCodes":["ES","2014"]},{"Valor":"7.13","dimCodes":["ES","2014Q4"]},{"Valor":"8.37","dimCodes":["ES","2014Q3"]},{"Valor":"7.03","dimCodes":["ES","2014Q2"]},{"Valor":"6.86","dimCodes":["ES","2014Q1"]},{"Valor":"7.43","dimCodes":["ES","2013"]},{"Valor":"6.87","dimCodes":["ES","2013Q4"]},{"Valor":"8.20","dimCodes":["ES","2013Q3"]},{"Valor":"7.06","dimCodes":["ES","2013Q2"]},{"Valor":"7.18","dimCodes":["ES","2013Q1"]},{"Valor":"7.30","dimCodes":["ES","2012"]},{"Valor":"6.65","dimCodes":["ES","2012Q4"]},{"Valor":"8.40","dimCodes":["ES","2012Q3"]},{"Valor":"6.78","dimCodes":["ES","2012Q2"]},{"Valor":"6.67","dimCodes":["ES","2012Q1"]},{"Valor":"7.41","dimCodes":["ES","2011"]},{"Valor":"7.13","dimCodes":["ES","2011Q4"]},{"Valor":"8.20","dimCodes":["ES","2011Q3"]},{"Valor":"6.71","dimCodes":["ES","2011Q2"]},{"Valor":"7.20","dimCodes":["ES","2011Q1"]},{"Valor":"7.13","dimCodes":["ES","2010"]},{"Valor":"6.44","dimCodes":["ES","2010Q4"]},{"Valor":"8.22","dimCodes":["ES","2010Q3"]},{"Valor":"6.80","dimCodes":["ES","2010Q2"]},{"Valor":"6.50","dimCodes":["ES","2010Q1"]},{"Valor":"8.60","dimCodes":["FR","2017"]},{"Valor":"7.92","dimCodes":["FR","2017Q4"]},{"Valor":"9.67","dimCodes":["FR","2017Q3"]},{"Valor":"8.04","dimCodes":["FR","2017Q2"]},{"Valor":"8.59","dimCodes":["FR","2017Q1"]},{"Valor":"8.86","dimCodes":["FR","2016"]},{"Valor":"7.98","dimCodes":["FR","2016Q4"]},{"Valor":"9.82","dimCodes":["FR","2016Q3"]},{"Valor":"8.16","dimCodes":["FR","2016Q2"]},{"Valor":"9.28","dimCodes":["FR","2016Q1"]},{"Valor":"8.87","dimCodes":["FR","2015"]},{"Valor":"9.06","dimCodes":["FR","2015Q4"]},{"Valor":"9.62","dimCodes":["FR","2015Q3"]},{"Valor":"8.48","dimCodes":["FR","2015Q2"]},{"Valor":"8.26","dimCodes":["FR","2015Q1"]},{"Valor":"8.94","dimCodes":["FR","2014"]},{"Valor":"8.57","dimCodes":["FR","2014Q4"]},{"Valor":"9.76","dimCodes":["FR","2014Q3"]},{"Valor":"8.42","dimCodes":["FR","2014Q2"]},{"Valor":"8.90","dimCodes":["FR","2014Q1"]},{"Valor":"10.13","dimCodes":["FR","2013"]},{"Valor":"9.85","dimCodes":["FR","2013Q4"]},{"Valor":"11.78","dimCodes":["FR","2013Q3"]},{"Valor":"9.08","dimCodes":["FR","2013Q2"]},{"Valor":"9.57","dimCodes":["FR","2013Q1"]},{"Valor":"9.31","dimCodes":["FR","2012"]},{"Valor":"9.27","dimCodes":["FR","2012Q4"]},{"Valor":"10.23","dimCodes":["FR","2012Q3"]},{"Valor":"8.98","dimCodes":["FR","2012Q2"]},{"Valor":"8.65","dimCodes":["FR","2012Q1"]},{"Valor":"9.60","dimCodes":["FR","2011"]},{"Valor":"8.55","dimCodes":["FR","2011Q4"]},{"Valor":"11.30","dimCodes":["FR","2011Q3"]},{"Valor":"9.30","dimCodes":["FR","2011Q2"]},{"Valor":"9.04","dimCodes":["FR","2011Q1"]},{"Valor":"9.48","dimCodes":["FR","2010"]},{"Valor":"8.67","dimCodes":["FR","2010Q4"]},{"Valor":"9.50","dimCodes":["FR","2010Q3"]},{"Valor":"9.96","dimCodes":["FR","2010Q2"]},{"Valor":"9.68","dimCodes":["FR","2010Q1"]},{"Valor":"9.14","dimCodes":["NL","2017"]},{"Valor":"9.19","dimCodes":["NL","2017Q4"]},{"Valor":"9.67","dimCodes":["NL","2017Q3"]},{"Valor":"8.76","dimCodes":["NL","2017Q2"]},{"Valor":"8.85","dimCodes":["NL","2017Q1"]},{"Valor":"9.01","dimCodes":["NL","2016"]},{"Valor":"8.35","dimCodes":["NL","2016Q4"]},{"Valor":"10.00","dimCodes":["NL","2016Q3"]},{"Valor":"8.36","dimCodes":["NL","2016Q2"]},{"Valor":"9.17","dimCodes":["NL","2016Q1"]},{"Valor":"9.56","dimCodes":["NL","2015"]},{"Valor":"8.78","dimCodes":["NL","2015Q4"]},{"Valor":"10.01","dimCodes":["NL","2015Q3"]},{"Valor":"8.88","dimCodes":["NL","2015Q2"]},{"Valor":"10.52","dimCodes":["NL","2015Q1"]},{"Valor":"10.38","dimCodes":["NL","2014"]},{"Valor":"9.21","dimCodes":["NL","2014Q4"]},{"Valor":"11.44","dimCodes":["NL","2014Q3"]},{"Valor":"9.64","dimCodes":["NL","2014Q2"]},{"Valor":"11.03","dimCodes":["NL","2014Q1"]},{"Valor":"9.46","dimCodes":["NL","2013"]},{"Valor":"9.24","dimCodes":["NL","2013Q4"]},{"Valor":"10.29","dimCodes":["NL","2013Q3"]},{"Valor":"8.18","dimCodes":["NL","2013Q2"]},{"Valor":"9.82","dimCodes":["NL","2013Q1"]},{"Valor":"10.27","dimCodes":["NL","2012"]},{"Valor":"9.48","dimCodes":["NL","2012Q4"]},{"Valor":"10.50","dimCodes":["NL","2012Q3"]},{"Valor":"9.51","dimCodes":["NL","2012Q2"]},{"Valor":"11.32","dimCodes":["NL","2012Q1"]},{"Valor":"9.97","dimCodes":["NL","2011"]},{"Valor":"9.44","dimCodes":["NL","2011Q4"]},{"Valor":"10.65","dimCodes":["NL","2011Q3"]},{"Valor":"9.19","dimCodes":["NL","2011Q2"]},{"Valor":"10.46","dimCodes":["NL","2011Q1"]},{"Valor":"10.09","dimCodes":["NL","2010"]},{"Valor":"9.33","dimCodes":["NL","2010Q4"]},{"Valor":"11.20","dimCodes":["NL","2010Q3"]},{"Valor":"9.65","dimCodes":["NL","2010Q2"]},{"Valor":"10.12","dimCodes":["NL","2010Q1"]},{"Valor":"8.92","dimCodes":["IE","2017"]},{"Valor":"8.70","dimCodes":["IE","2017Q4"]},{"Valor":"8.99","dimCodes":["IE","2017Q3"]},{"Valor":"8.48","dimCodes":["IE","2017Q2"]},{"Valor":"9.60","dimCodes":["IE","2017Q1"]},{"Valor":"8.98","dimCodes":["IE","2016"]},{"Valor":"8.66","dimCodes":["IE","2016Q4"]},{"Valor":"9.56","dimCodes":["IE","2016Q3"]},{"Valor":"8.79","dimCodes":["IE","2016Q2"]},{"Valor":"8.83","dimCodes":["IE","2016Q1"]},{"Valor":"9.05","dimCodes":["IE","2015"]},{"Valor":"9.07","dimCodes":["IE","2015Q4"]},{"Valor":"9.34","dimCodes":["IE","2015Q3"]},{"Valor":"8.30","dimCodes":["IE","2015Q2"]},{"Valor":"9.64","dimCodes":["IE","2015Q1"]},{"Valor":"9.41","dimCodes":["IE","2014"]},{"Valor":"9.08","dimCodes":["IE","2014Q4"]},{"Valor":"9.09","dimCodes":["IE","2014Q3"]},{"Valor":"9.29","dimCodes":["IE","2014Q2"]},{"Valor":"10.35","dimCodes":["IE","2014Q1"]},{"Valor":"9.38","dimCodes":["IE","2013"]},{"Valor":"8.84","dimCodes":["IE","2013Q4"]},{"Valor":"9.84","dimCodes":["IE","2013Q3"]},{"Valor":"8.74","dimCodes":["IE","2013Q2"]},{"Valor":"10.07","dimCodes":["IE","2013Q1"]},{"Valor":"9.34","dimCodes":["IE","2012"]},{"Valor":"9.69","dimCodes":["IE","2012Q4"]},{"Valor":"9.52","dimCodes":["IE","2012Q3"]},{"Valor":"9.35","dimCodes":["IE","2012Q2"]},{"Valor":"8.70","dimCodes":["IE","2012Q1"]},{"Valor":"8.54","dimCodes":["IE","2011"]},{"Valor":"7.92","dimCodes":["IE","2011Q4"]},{"Valor":"9.06","dimCodes":["IE","2011Q3"]},{"Valor":"8.23","dimCodes":["IE","2011Q2"]},{"Valor":"8.83","dimCodes":["IE","2011Q1"]},{"Valor":"9.10","dimCodes":["IE","2010"]},{"Valor":"8.92","dimCodes":["IE","2010Q4"]},{"Valor":"10.14","dimCodes":["IE","2010Q3"]},{"Valor":"8.23","dimCodes":["IE","2010Q2"]},{"Valor":"8.90","dimCodes":["IE","2010Q1"]},{"Valor":"9.48","dimCodes":["IT","2017"]},{"Valor":"8.78","dimCodes":["IT","2017Q4"]},{"Valor":"9.99","dimCodes":["IT","2017Q3"]},{"Valor":"9.20","dimCodes":["IT","2017Q2"]},{"Valor":"9.86","dimCodes":["IT","2017Q1"]},{"Valor":"9.73","dimCodes":["IT","2016"]},{"Valor":"9.15","dimCodes":["IT","2016Q4"]},{"Valor":"10.27","dimCodes":["IT","2016Q3"]},{"Valor":"9.13","dimCodes":["IT","2016Q2"]},{"Valor":"10.30","dimCodes":["IT","2016Q1"]},{"Valor":"10.41","dimCodes":["IT","2015"]},{"Valor":"9.71","dimCodes":["IT","2015Q4"]},{"Valor":"11.49","dimCodes":["IT","2015Q3"]},{"Valor":"8.75","dimCodes":["IT","2015Q2"]},{"Valor":"11.47","dimCodes":["IT","2015Q1"]},{"Valor":"11.62","dimCodes":["IT","2014"]},{"Valor":"13.41","dimCodes":["IT","2014Q4"]},{"Valor":"11.03","dimCodes":["IT","2014Q3"]},{"Valor":"9.72","dimCodes":["IT","2014Q2"]},{"Valor":"12.17","dimCodes":["IT","2014Q1"]},{"Valor":"10.49","dimCodes":["IT","2013"]},{"Valor":"9.40","dimCodes":["IT","2013Q4"]},{"Valor":"10.22","dimCodes":["IT","2013Q3"]},{"Valor":"11.40","dimCodes":["IT","2013Q2"]},{"Valor":"11.36","dimCodes":["IT","2013Q1"]},{"Valor":"10.66","dimCodes":["IT","2012"]},{"Valor":"9.29","dimCodes":["IT","2012Q4"]},{"Valor":"11.53","dimCodes":["IT","2012Q3"]},{"Valor":"10.76","dimCodes":["IT","2012Q2"]},{"Valor":"10.56","dimCodes":["IT","2012Q1"]},{"Valor":"9.92","dimCodes":["IT","2011"]},{"Valor":"10.11","dimCodes":["IT","2011Q4"]},{"Valor":"10.78","dimCodes":["IT","2011Q3"]},{"Valor":"8.89","dimCodes":["IT","2011Q2"]},{"Valor":"9.73","dimCodes":["IT","2011Q1"]},{"Valor":"9.73","dimCodes":["IT","2010"]},{"Valor":"9.67","dimCodes":["IT","2010Q4"]},{"Valor":"10.20","dimCodes":["IT","2010Q3"]},{"Valor":"8.81","dimCodes":["IT","2010Q2"]},{"Valor":"9.87","dimCodes":["IT","2010Q1"]},{"Valor":"9.98","dimCodes":["DK_FI_NO_SE","2017"]},{"Valor":"9.14","dimCodes":["DK_FI_NO_SE","2017Q4"]},{"Valor":"11.03","dimCodes":["DK_FI_NO_SE","2017Q3"]},{"Valor":"10.13","dimCodes":["DK_FI_NO_SE","2017Q2"]},{"Valor":"10.51","dimCodes":["DK_FI_NO_SE","2017Q1"]},{"Valor":"10.25","dimCodes":["DK_FI_NO_SE","2016"]},{"Valor":"9.25","dimCodes":["DK_FI_NO_SE","2016Q4"]},{"Valor":"9.87","dimCodes":["DK_FI_NO_SE","2016Q3"]},{"Valor":"9.71","dimCodes":["DK_FI_NO_SE","2016Q2"]},{"Valor":"11.29","dimCodes":["DK_FI_NO_SE","2016Q1"]},{"Valor":"10.37","dimCodes":["DK_FI_NO_SE","2015"]},{"Valor":"9.39","dimCodes":["DK_FI_NO_SE","2015Q4"]},{"Valor":"10.76","dimCodes":["DK_FI_NO_SE","2015Q3"]},{"Valor":"11.08","dimCodes":["DK_FI_NO_SE","2015Q2"]},{"Valor":"11.00","dimCodes":["DK_FI_NO_SE","2015Q1"]},{"Valor":"9.77","dimCodes":["DK_FI_NO_SE","2014"]},{"Valor":"9.08","dimCodes":["DK_FI_NO_SE","2014Q4"]},{"Valor":"10.64","dimCodes":["DK_FI_NO_SE","2014Q3"]},{"Valor":"10.04","dimCodes":["DK_FI_NO_SE","2014Q2"]},{"Valor":"10.13","dimCodes":["DK_FI_NO_SE","2014Q1"]},{"Valor":"9.64","dimCodes":["DK_FI_NO_SE","2013"]},{"Valor":"8.82","dimCodes":["DK_FI_NO_SE","2013Q4"]},{"Valor":"10.15","dimCodes":["DK_FI_NO_SE","2013Q3"]},{"Valor":"10.67","dimCodes":["DK_FI_NO_SE","2013Q2"]},{"Valor":"10.13","dimCodes":["DK_FI_NO_SE","2013Q1"]},{"Valor":"9.57","dimCodes":["DK_FI_NO_SE","2012"]},{"Valor":"8.76","dimCodes":["DK_FI_NO_SE","2012Q4"]},{"Valor":"10.07","dimCodes":["DK_FI_NO_SE","2012Q3"]},{"Valor":"9.90","dimCodes":["DK_FI_NO_SE","2012Q2"]},{"Valor":"10.16","dimCodes":["DK_FI_NO_SE","2012Q1"]},{"Valor":"9.88","dimCodes":["DK_FI_NO_SE","2011"]},{"Valor":"9.25","dimCodes":["DK_FI_NO_SE","2011Q4"]},{"Valor":"9.60","dimCodes":["DK_FI_NO_SE","2011Q3"]},{"Valor":"11.05","dimCodes":["DK_FI_NO_SE","2011Q2"]},{"Valor":"10.17","dimCodes":["DK_FI_NO_SE","2011Q1"]},{"Valor":"9.99","dimCodes":["DK_FI_NO_SE","2010"]},{"Valor":"9.05","dimCodes":["DK_FI_NO_SE","2010Q4"]},{"Valor":"10.67","dimCodes":["DK_FI_NO_SE","2010Q3"]},{"Valor":"11.97","dimCodes":["DK_FI_NO_SE","2010Q2"]},{"Valor":"10.38","dimCodes":["DK_FI_NO_SE","2010Q1"]},{"Valor":"8.59","dimCodes":["UK","2017"]},{"Valor":"8.41","dimCodes":["UK","2017Q4"]},{"Valor":"9.09","dimCodes":["UK","2017Q3"]},{"Valor":"8.03","dimCodes":["UK","2017Q2"]},{"Valor":"8.83","dimCodes":["UK","2017Q1"]},{"Valor":"8.81","dimCodes":["UK","2016"]},{"Valor":"8.29","dimCodes":["UK","2016Q4"]},{"Valor":"9.41","dimCodes":["UK","2016Q3"]},{"Valor":"8.34","dimCodes":["UK","2016Q2"]},{"Valor":"9.21","dimCodes":["UK","2016Q1"]},{"Valor":"8.93","dimCodes":["UK","2015"]},{"Valor":"8.56","dimCodes":["UK","2015Q4"]},{"Valor":"9.58","dimCodes":["UK","2015Q3"]},{"Valor":"8.36","dimCodes":["UK","2015Q2"]},{"Valor":"9.23","dimCodes":["UK","2015Q1"]},{"Valor":"8.92","dimCodes":["UK","2014"]},{"Valor":"8.27","dimCodes":["UK","2014Q4"]},{"Valor":"9.50","dimCodes":["UK","2014Q3"]},{"Valor":"8.50","dimCodes":["UK","2014Q2"]},{"Valor":"9.40","dimCodes":["UK","2014Q1"]},{"Valor":"9.06","dimCodes":["UK","2013"]},{"Valor":"8.31","dimCodes":["UK","2013Q4"]},{"Valor":"9.70","dimCodes":["UK","2013Q3"]},{"Valor":"8.57","dimCodes":["UK","2013Q2"]},{"Valor":"9.74","dimCodes":["UK","2013Q1"]},{"Valor":"9.24","dimCodes":["UK","2012"]},{"Valor":"8.81","dimCodes":["UK","2012Q4"]},{"Valor":"10.23","dimCodes":["UK","2012Q3"]},{"Valor":"8.58","dimCodes":["UK","2012Q2"]},{"Valor":"9.31","dimCodes":["UK","2012Q1"]},{"Valor":"8.87","dimCodes":["UK","2011"]},{"Valor":"8.63","dimCodes":["UK","2011Q4"]},{"Valor":"9.33","dimCodes":["UK","2011Q3"]},{"Valor":"8.43","dimCodes":["UK","2011Q2"]},{"Valor":"9.08","dimCodes":["UK","2011Q1"]},{"Valor":"8.93","dimCodes":["UK","2010"]},{"Valor":"8.36","dimCodes":["UK","2010Q4"]},{"Valor":"9.70","dimCodes":["UK","2010Q3"]},{"Valor":"8.73","dimCodes":["UK","2010Q2"]},{"Valor":"8.94","dimCodes":["UK","2010Q1"]},{"Valor":"9.40","dimCodes":["CH","2017"]},{"Valor":"9.84","dimCodes":["CH","2017Q4"]},{"Valor":"8.71","dimCodes":["CH","2017Q3"]},{"Valor":"8.55","dimCodes":["CH","2017Q2"]},{"Valor":"10.49","dimCodes":["CH","2017Q1"]},{"Valor":"9.47","dimCodes":["CH","2016"]},{"Valor":"9.08","dimCodes":["CH","2016Q4"]},{"Valor":"9.61","dimCodes":["CH","2016Q3"]},{"Valor":"9.95","dimCodes":["CH","2016Q2"]},{"Valor":"9.39","dimCodes":["CH","2016Q1"]},{"Valor":"9.55","dimCodes":["CH","2015"]},{"Valor":"9.19","dimCodes":["CH","2015Q4"]},{"Valor":"8.95","dimCodes":["CH","2015Q3"]},{"Valor":"9.92","dimCodes":["CH","2015Q2"]},{"Valor":"10.23","dimCodes":["CH","2015Q1"]},{"Valor":"9.08","dimCodes":["CH","2014"]},{"Valor":"9.31","dimCodes":["CH","2014Q4"]},{"Valor":"8.59","dimCodes":["CH","2014Q3"]},{"Valor":"8.61","dimCodes":["CH","2014Q2"]},{"Valor":"9.79","dimCodes":["CH","2014Q1"]},{"Valor":"8.72","dimCodes":["CH","2013"]},{"Valor":"8.47","dimCodes":["CH","2013Q4"]},{"Valor":"9.05","dimCodes":["CH","2013Q3"]},{"Valor":"8.76","dimCodes":["CH","2013Q2"]},{"Valor":"8.60","dimCodes":["CH","2013Q1"]},{"Valor":"9.39","dimCodes":["CH","2012"]},{"Valor":"9.60","dimCodes":["CH","2012Q4"]},{"Valor":"9.32","dimCodes":["CH","2012Q3"]},{"Valor":"9.57","dimCodes":["CH","2012Q2"]},{"Valor":"9.03","dimCodes":["CH","2012Q1"]},{"Valor":"9.55","dimCodes":["CH","2011"]},{"Valor":"9.43","dimCodes":["CH","2011Q4"]},{"Valor":"9.05","dimCodes":["CH","2011Q3"]},{"Valor":"10.08","dimCodes":["CH","2011Q2"]},{"Valor":"9.80","dimCodes":["CH","2011Q1"]},{"Valor":"9.60","dimCodes":["CH","2010"]},{"Valor":"9.47","dimCodes":["CH","2010Q4"]},{"Valor":"9.77","dimCodes":["CH","2010Q3"]},{"Valor":"8.44","dimCodes":["CH","2010Q2"]},{"Valor":"10.71","dimCodes":["CH","2010Q1"]},{"Valor":"10.06","dimCodes":["ZZ","2017"]},{"Valor":"9.74","dimCodes":["ZZ","2017Q4"]},{"Valor":"10.19","dimCodes":["ZZ","2017Q3"]},{"Valor":"9.86","dimCodes":["ZZ","2017Q2"]},{"Valor":"10.49","dimCodes":["ZZ","2017Q1"]},{"Valor":"9.88","dimCodes":["ZZ","2016"]},{"Valor":"9.31","dimCodes":["ZZ","2016Q4"]},{"Valor":"10.24","dimCodes":["ZZ","2016Q3"]},{"Valor":"9.54","dimCodes":["ZZ","2016Q2"]},{"Valor":"10.41","dimCodes":["ZZ","2016Q1"]},{"Valor":"10.48","dimCodes":["ZZ","2015"]},{"Valor":"10.18","dimCodes":["ZZ","2015Q4"]},{"Valor":"10.55","dimCodes":["ZZ","2015Q3"]},{"Valor":"10.29","dimCodes":["ZZ","2015Q2"]},{"Valor":"10.92","dimCodes":["ZZ","2015Q1"]},{"Valor":"10.97","dimCodes":["ZZ","2014"]},{"Valor":"10.98","dimCodes":["ZZ","2014Q4"]},{"Valor":"10.73","dimCodes":["ZZ","2014Q3"]},{"Valor":"10.52","dimCodes":["ZZ","2014Q2"]},{"Valor":"11.76","dimCodes":["ZZ","2014Q1"]},{"Valor":"10.86","dimCodes":["ZZ","2013"]},{"Valor":"10.43","dimCodes":["ZZ","2013Q4"]},{"Valor":"11.30","dimCodes":["ZZ","2013Q3"]},{"Valor":"11.05","dimCodes":["ZZ","2013Q2"]},{"Valor":"10.54","dimCodes":["ZZ","2013Q1"]},{"Valor":"11.06","dimCodes":["ZZ","2012"]},{"Valor":"9.92","dimCodes":["ZZ","2012Q4"]},{"Valor":"11.08","dimCodes":["ZZ","2012Q3"]},{"Valor":"12.36","dimCodes":["ZZ","2012Q2"]},{"Valor":"10.83","dimCodes":["ZZ","2012Q1"]},{"Valor":"10.55","dimCodes":["ZZ","2011"]},{"Valor":"10.07","dimCodes":["ZZ","2011Q4"]},{"Valor":"10.48","dimCodes":["ZZ","2011Q3"]},{"Valor":"10.81","dimCodes":["ZZ","2011Q2"]},{"Valor":"10.84","dimCodes":["ZZ","2011Q1"]},{"Valor":"10.16","dimCodes":["ZZ","2010"]},{"Valor":"9.41","dimCodes":["ZZ","2010Q4"]},{"Valor":"10.87","dimCodes":["ZZ","2010Q3"]},{"Valor":"9.67","dimCodes":["ZZ","2010Q2"]},{"Valor":"10.47","dimCodes":["ZZ","2010Q1"]}]}
+{
+    "uuid": "e7b9259b-9775-4b0b-8719-db4e17230381",
+    "title": "Estancia media seg\u00fan pa\u00edses de residencia. Canarias y periodos.",
+    "uriPx": "urn:uuid:842c0b4f-4583-4e50-b074-97b777a46b20",
+    "stub": [
+        "Pa\u00edses de residencia"
+    ],
+    "heading": [
+        "Periodos"
+    ],
+    "categories": [
+        {
+            "variable": "Pa\u00edses de residencia",
+            "codes": [
+                "T",
+                "DE",
+                "BE",
+                "ES",
+                "FR",
+                "NL",
+                "IE",
+                "IT",
+                "DK_FI_NO_SE",
+                "UK",
+                "CH",
+                "ZZ"
+            ],
+            "labels": [
+                "TOTAL PA\u00cdSES",
+                "Alemania",
+                "B\u00e9lgica",
+                "Espa\u00f1a",
+                "Francia",
+                "Holanda",
+                "Irlanda",
+                "Italia",
+                "Pa\u00edses N\u00f3rdicos",
+                "Reino Unido",
+                "Suiza",
+                "Otros pa\u00edses"
+            ]
+        },
+        {
+            "variable": "Periodos",
+            "codes": [
+                "2017",
+                "2017Q4",
+                "2017Q3",
+                "2017Q2",
+                "2017Q1",
+                "2016",
+                "2016Q4",
+                "2016Q3",
+                "2016Q2",
+                "2016Q1",
+                "2015",
+                "2015Q4",
+                "2015Q3",
+                "2015Q2",
+                "2015Q1",
+                "2014",
+                "2014Q4",
+                "2014Q3",
+                "2014Q2",
+                "2014Q1",
+                "2013",
+                "2013Q4",
+                "2013Q3",
+                "2013Q2",
+                "2013Q1",
+                "2012",
+                "2012Q4",
+                "2012Q3",
+                "2012Q2",
+                "2012Q1",
+                "2011",
+                "2011Q4",
+                "2011Q3",
+                "2011Q2",
+                "2011Q1",
+                "2010",
+                "2010Q4",
+                "2010Q3",
+                "2010Q2",
+                "2010Q1"
+            ],
+            "labels": [
+                "2017",
+                "2017 Cuarto trimestre",
+                "2017 Tercer trimestre",
+                "2017 Segundo trimestre",
+                "2017 Primer trimestre",
+                "2016",
+                "2016 Cuarto trimestre",
+                "2016 Tercer trimestre",
+                "2016 Segundo trimestre",
+                "2016 Primer trimestre",
+                "2015",
+                "2015 Cuarto trimestre",
+                "2015 Tercer trimestre",
+                "2015 Segundo trimestre",
+                "2015 Primer trimestre",
+                "2014",
+                "2014 Cuarto trimestre",
+                "2014 Tercer trimestre",
+                "2014 Segundo trimestre",
+                "2014 Primer trimestre",
+                "2013",
+                "2013 Cuarto trimestre",
+                "2013 Tercer trimestre",
+                "2013 Segundo trimestre",
+                "2013 Primer trimestre",
+                "2012",
+                "2012 Cuarto trimestre",
+                "2012 Tercer trimestre",
+                "2012 Segundo trimestre",
+                "2012 Primer trimestre",
+                "2011",
+                "2011 Cuarto trimestre",
+                "2011 Tercer trimestre",
+                "2011 Segundo trimestre",
+                "2011 Primer trimestre",
+                "2010",
+                "2010 Cuarto trimestre",
+                "2010 Tercer trimestre",
+                "2010 Segundo trimestre",
+                "2010 Primer trimestre"
+            ]
+        }
+    ],
+    "temporals": [
+        "Periodos"
+    ],
+    "spatials": [
+        "Pa\u00edses de residencia"
+    ],
+    "notes": [
+        "(p) Dato provisional"
+    ],
+    "source": "Instituto Canario de Estad\u00edstica (ISTAC).",
+    "surveyCode": "C00028A",
+    "surveyTitle": "Encuesta sobre el Gasto Tur\u00edstico",
+    "publishers": [
+        "Instituto Canario de Estad\u00edstica (ISTAC)"
+    ],
+    "data": [
+        {
+            "Valor": "9.17",
+            "dimCodes": [
+                "T",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "8.91",
+            "dimCodes": [
+                "T",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "9.46",
+            "dimCodes": [
+                "T",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "8.68",
+            "dimCodes": [
+                "T",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "9.61",
+            "dimCodes": [
+                "T",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "9.36",
+            "dimCodes": [
+                "T",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "8.78",
+            "dimCodes": [
+                "T",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "9.71",
+            "dimCodes": [
+                "T",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "8.88",
+            "dimCodes": [
+                "T",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "10.04",
+            "dimCodes": [
+                "T",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "9.55",
+            "dimCodes": [
+                "T",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "9.19",
+            "dimCodes": [
+                "T",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "9.77",
+            "dimCodes": [
+                "T",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "8.88",
+            "dimCodes": [
+                "T",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "10.28",
+            "dimCodes": [
+                "T",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "9.57",
+            "dimCodes": [
+                "T",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "9.18",
+            "dimCodes": [
+                "T",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "9.74",
+            "dimCodes": [
+                "T",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "9.02",
+            "dimCodes": [
+                "T",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "10.25",
+            "dimCodes": [
+                "T",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "9.56",
+            "dimCodes": [
+                "T",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "8.92",
+            "dimCodes": [
+                "T",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "9.86",
+            "dimCodes": [
+                "T",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "9.39",
+            "dimCodes": [
+                "T",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "10.10",
+            "dimCodes": [
+                "T",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "9.62",
+            "dimCodes": [
+                "T",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "9.13",
+            "dimCodes": [
+                "T",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "10.10",
+            "dimCodes": [
+                "T",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "9.16",
+            "dimCodes": [
+                "T",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "10.02",
+            "dimCodes": [
+                "T",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "9.50",
+            "dimCodes": [
+                "T",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "9.13",
+            "dimCodes": [
+                "T",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "9.59",
+            "dimCodes": [
+                "T",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "9.27",
+            "dimCodes": [
+                "T",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "9.99",
+            "dimCodes": [
+                "T",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "9.41",
+            "dimCodes": [
+                "T",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "8.88",
+            "dimCodes": [
+                "T",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "9.82",
+            "dimCodes": [
+                "T",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "9.19",
+            "dimCodes": [
+                "T",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "9.76",
+            "dimCodes": [
+                "T",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "10.45",
+            "dimCodes": [
+                "DE",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "10.09",
+            "dimCodes": [
+                "DE",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "10.32",
+            "dimCodes": [
+                "DE",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "10.51",
+            "dimCodes": [
+                "DE",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "10.92",
+            "dimCodes": [
+                "DE",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "10.67",
+            "dimCodes": [
+                "DE",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "9.79",
+            "dimCodes": [
+                "DE",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "10.50",
+            "dimCodes": [
+                "DE",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "10.92",
+            "dimCodes": [
+                "DE",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "11.53",
+            "dimCodes": [
+                "DE",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "10.89",
+            "dimCodes": [
+                "DE",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "10.55",
+            "dimCodes": [
+                "DE",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "10.49",
+            "dimCodes": [
+                "DE",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "10.38",
+            "dimCodes": [
+                "DE",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "11.89",
+            "dimCodes": [
+                "DE",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "10.82",
+            "dimCodes": [
+                "DE",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "10.32",
+            "dimCodes": [
+                "DE",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "10.43",
+            "dimCodes": [
+                "DE",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "10.18",
+            "dimCodes": [
+                "DE",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "12.10",
+            "dimCodes": [
+                "DE",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "10.91",
+            "dimCodes": [
+                "DE",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "9.90",
+            "dimCodes": [
+                "DE",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "10.58",
+            "dimCodes": [
+                "DE",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "11.85",
+            "dimCodes": [
+                "DE",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "11.67",
+            "dimCodes": [
+                "DE",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "10.99",
+            "dimCodes": [
+                "DE",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "10.45",
+            "dimCodes": [
+                "DE",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "10.95",
+            "dimCodes": [
+                "DE",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "10.45",
+            "dimCodes": [
+                "DE",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "11.89",
+            "dimCodes": [
+                "DE",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "11.13",
+            "dimCodes": [
+                "DE",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "10.23",
+            "dimCodes": [
+                "DE",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "10.52",
+            "dimCodes": [
+                "DE",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "11.47",
+            "dimCodes": [
+                "DE",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "12.27",
+            "dimCodes": [
+                "DE",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "11.16",
+            "dimCodes": [
+                "DE",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "10.49",
+            "dimCodes": [
+                "DE",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "10.94",
+            "dimCodes": [
+                "DE",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "11.47",
+            "dimCodes": [
+                "DE",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "11.80",
+            "dimCodes": [
+                "DE",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "9.61",
+            "dimCodes": [
+                "BE",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "9.00",
+            "dimCodes": [
+                "BE",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "9.74",
+            "dimCodes": [
+                "BE",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "8.83",
+            "dimCodes": [
+                "BE",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "10.83",
+            "dimCodes": [
+                "BE",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "10.00",
+            "dimCodes": [
+                "BE",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "9.42",
+            "dimCodes": [
+                "BE",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "10.32",
+            "dimCodes": [
+                "BE",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "9.43",
+            "dimCodes": [
+                "BE",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "10.86",
+            "dimCodes": [
+                "BE",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "10.31",
+            "dimCodes": [
+                "BE",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "8.83",
+            "dimCodes": [
+                "BE",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "11.12",
+            "dimCodes": [
+                "BE",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "9.99",
+            "dimCodes": [
+                "BE",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "11.45",
+            "dimCodes": [
+                "BE",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "9.70",
+            "dimCodes": [
+                "BE",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "9.74",
+            "dimCodes": [
+                "BE",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "9.92",
+            "dimCodes": [
+                "BE",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "9.44",
+            "dimCodes": [
+                "BE",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "9.67",
+            "dimCodes": [
+                "BE",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "10.25",
+            "dimCodes": [
+                "BE",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "10.24",
+            "dimCodes": [
+                "BE",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "9.94",
+            "dimCodes": [
+                "BE",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "9.27",
+            "dimCodes": [
+                "BE",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "11.29",
+            "dimCodes": [
+                "BE",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "9.86",
+            "dimCodes": [
+                "BE",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "10.14",
+            "dimCodes": [
+                "BE",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "10.26",
+            "dimCodes": [
+                "BE",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "8.62",
+            "dimCodes": [
+                "BE",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "10.20",
+            "dimCodes": [
+                "BE",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "10.09",
+            "dimCodes": [
+                "BE",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "11.04",
+            "dimCodes": [
+                "BE",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "9.86",
+            "dimCodes": [
+                "BE",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "9.96",
+            "dimCodes": [
+                "BE",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "9.50",
+            "dimCodes": [
+                "BE",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "9.26",
+            "dimCodes": [
+                "BE",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "9.62",
+            "dimCodes": [
+                "BE",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "9.89",
+            "dimCodes": [
+                "BE",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "7.55",
+            "dimCodes": [
+                "BE",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "9.70",
+            "dimCodes": [
+                "BE",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "7.17",
+            "dimCodes": [
+                "ES",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "6.52",
+            "dimCodes": [
+                "ES",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "8.47",
+            "dimCodes": [
+                "ES",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "6.43",
+            "dimCodes": [
+                "ES",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "6.69",
+            "dimCodes": [
+                "ES",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "7.48",
+            "dimCodes": [
+                "ES",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "6.93",
+            "dimCodes": [
+                "ES",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "8.86",
+            "dimCodes": [
+                "ES",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "6.49",
+            "dimCodes": [
+                "ES",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "6.97",
+            "dimCodes": [
+                "ES",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "7.41",
+            "dimCodes": [
+                "ES",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "7.09",
+            "dimCodes": [
+                "ES",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "8.48",
+            "dimCodes": [
+                "ES",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "6.31",
+            "dimCodes": [
+                "ES",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "7.16",
+            "dimCodes": [
+                "ES",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "7.49",
+            "dimCodes": [
+                "ES",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "7.13",
+            "dimCodes": [
+                "ES",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "8.37",
+            "dimCodes": [
+                "ES",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "7.03",
+            "dimCodes": [
+                "ES",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "6.86",
+            "dimCodes": [
+                "ES",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "7.43",
+            "dimCodes": [
+                "ES",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "6.87",
+            "dimCodes": [
+                "ES",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "8.20",
+            "dimCodes": [
+                "ES",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "7.06",
+            "dimCodes": [
+                "ES",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "7.18",
+            "dimCodes": [
+                "ES",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "7.30",
+            "dimCodes": [
+                "ES",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "6.65",
+            "dimCodes": [
+                "ES",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "8.40",
+            "dimCodes": [
+                "ES",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "6.78",
+            "dimCodes": [
+                "ES",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "6.67",
+            "dimCodes": [
+                "ES",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "7.41",
+            "dimCodes": [
+                "ES",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "7.13",
+            "dimCodes": [
+                "ES",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "8.20",
+            "dimCodes": [
+                "ES",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "6.71",
+            "dimCodes": [
+                "ES",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "7.20",
+            "dimCodes": [
+                "ES",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "7.13",
+            "dimCodes": [
+                "ES",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "6.44",
+            "dimCodes": [
+                "ES",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "8.22",
+            "dimCodes": [
+                "ES",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "6.80",
+            "dimCodes": [
+                "ES",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "6.50",
+            "dimCodes": [
+                "ES",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "8.60",
+            "dimCodes": [
+                "FR",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "7.92",
+            "dimCodes": [
+                "FR",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "9.67",
+            "dimCodes": [
+                "FR",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "8.04",
+            "dimCodes": [
+                "FR",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "8.59",
+            "dimCodes": [
+                "FR",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "8.86",
+            "dimCodes": [
+                "FR",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "7.98",
+            "dimCodes": [
+                "FR",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "9.82",
+            "dimCodes": [
+                "FR",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "8.16",
+            "dimCodes": [
+                "FR",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "9.28",
+            "dimCodes": [
+                "FR",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "8.87",
+            "dimCodes": [
+                "FR",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "9.06",
+            "dimCodes": [
+                "FR",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "9.62",
+            "dimCodes": [
+                "FR",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "8.48",
+            "dimCodes": [
+                "FR",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "8.26",
+            "dimCodes": [
+                "FR",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "8.94",
+            "dimCodes": [
+                "FR",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "8.57",
+            "dimCodes": [
+                "FR",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "9.76",
+            "dimCodes": [
+                "FR",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "8.42",
+            "dimCodes": [
+                "FR",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "8.90",
+            "dimCodes": [
+                "FR",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "10.13",
+            "dimCodes": [
+                "FR",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "9.85",
+            "dimCodes": [
+                "FR",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "11.78",
+            "dimCodes": [
+                "FR",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "9.08",
+            "dimCodes": [
+                "FR",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "9.57",
+            "dimCodes": [
+                "FR",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "9.31",
+            "dimCodes": [
+                "FR",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "9.27",
+            "dimCodes": [
+                "FR",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "10.23",
+            "dimCodes": [
+                "FR",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "8.98",
+            "dimCodes": [
+                "FR",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "8.65",
+            "dimCodes": [
+                "FR",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "9.60",
+            "dimCodes": [
+                "FR",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "8.55",
+            "dimCodes": [
+                "FR",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "11.30",
+            "dimCodes": [
+                "FR",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "9.30",
+            "dimCodes": [
+                "FR",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "9.04",
+            "dimCodes": [
+                "FR",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "9.48",
+            "dimCodes": [
+                "FR",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "8.67",
+            "dimCodes": [
+                "FR",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "9.50",
+            "dimCodes": [
+                "FR",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "9.96",
+            "dimCodes": [
+                "FR",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "9.68",
+            "dimCodes": [
+                "FR",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "9.14",
+            "dimCodes": [
+                "NL",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "9.19",
+            "dimCodes": [
+                "NL",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "9.67",
+            "dimCodes": [
+                "NL",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "8.76",
+            "dimCodes": [
+                "NL",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "8.85",
+            "dimCodes": [
+                "NL",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "9.01",
+            "dimCodes": [
+                "NL",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "8.35",
+            "dimCodes": [
+                "NL",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "10.00",
+            "dimCodes": [
+                "NL",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "8.36",
+            "dimCodes": [
+                "NL",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "9.17",
+            "dimCodes": [
+                "NL",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "9.56",
+            "dimCodes": [
+                "NL",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "8.78",
+            "dimCodes": [
+                "NL",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "10.01",
+            "dimCodes": [
+                "NL",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "8.88",
+            "dimCodes": [
+                "NL",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "10.52",
+            "dimCodes": [
+                "NL",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "10.38",
+            "dimCodes": [
+                "NL",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "9.21",
+            "dimCodes": [
+                "NL",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "11.44",
+            "dimCodes": [
+                "NL",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "9.64",
+            "dimCodes": [
+                "NL",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "11.03",
+            "dimCodes": [
+                "NL",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "9.46",
+            "dimCodes": [
+                "NL",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "9.24",
+            "dimCodes": [
+                "NL",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "10.29",
+            "dimCodes": [
+                "NL",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "8.18",
+            "dimCodes": [
+                "NL",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "9.82",
+            "dimCodes": [
+                "NL",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "10.27",
+            "dimCodes": [
+                "NL",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "9.48",
+            "dimCodes": [
+                "NL",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "10.50",
+            "dimCodes": [
+                "NL",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "9.51",
+            "dimCodes": [
+                "NL",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "11.32",
+            "dimCodes": [
+                "NL",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "9.97",
+            "dimCodes": [
+                "NL",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "9.44",
+            "dimCodes": [
+                "NL",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "10.65",
+            "dimCodes": [
+                "NL",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "9.19",
+            "dimCodes": [
+                "NL",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "10.46",
+            "dimCodes": [
+                "NL",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "10.09",
+            "dimCodes": [
+                "NL",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "9.33",
+            "dimCodes": [
+                "NL",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "11.20",
+            "dimCodes": [
+                "NL",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "9.65",
+            "dimCodes": [
+                "NL",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "10.12",
+            "dimCodes": [
+                "NL",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "8.92",
+            "dimCodes": [
+                "IE",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "8.70",
+            "dimCodes": [
+                "IE",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "8.99",
+            "dimCodes": [
+                "IE",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "8.48",
+            "dimCodes": [
+                "IE",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "9.60",
+            "dimCodes": [
+                "IE",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "8.98",
+            "dimCodes": [
+                "IE",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "8.66",
+            "dimCodes": [
+                "IE",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "9.56",
+            "dimCodes": [
+                "IE",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "8.79",
+            "dimCodes": [
+                "IE",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "8.83",
+            "dimCodes": [
+                "IE",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "9.05",
+            "dimCodes": [
+                "IE",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "9.07",
+            "dimCodes": [
+                "IE",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "9.34",
+            "dimCodes": [
+                "IE",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "8.30",
+            "dimCodes": [
+                "IE",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "9.64",
+            "dimCodes": [
+                "IE",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "9.41",
+            "dimCodes": [
+                "IE",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "9.08",
+            "dimCodes": [
+                "IE",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "9.09",
+            "dimCodes": [
+                "IE",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "9.29",
+            "dimCodes": [
+                "IE",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "10.35",
+            "dimCodes": [
+                "IE",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "9.38",
+            "dimCodes": [
+                "IE",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "8.84",
+            "dimCodes": [
+                "IE",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "9.84",
+            "dimCodes": [
+                "IE",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "8.74",
+            "dimCodes": [
+                "IE",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "10.07",
+            "dimCodes": [
+                "IE",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "9.34",
+            "dimCodes": [
+                "IE",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "9.69",
+            "dimCodes": [
+                "IE",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "9.52",
+            "dimCodes": [
+                "IE",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "9.35",
+            "dimCodes": [
+                "IE",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "8.70",
+            "dimCodes": [
+                "IE",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "8.54",
+            "dimCodes": [
+                "IE",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "7.92",
+            "dimCodes": [
+                "IE",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "9.06",
+            "dimCodes": [
+                "IE",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "8.23",
+            "dimCodes": [
+                "IE",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "8.83",
+            "dimCodes": [
+                "IE",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "9.10",
+            "dimCodes": [
+                "IE",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "8.92",
+            "dimCodes": [
+                "IE",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "10.14",
+            "dimCodes": [
+                "IE",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "8.23",
+            "dimCodes": [
+                "IE",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "8.90",
+            "dimCodes": [
+                "IE",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "9.48",
+            "dimCodes": [
+                "IT",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "8.78",
+            "dimCodes": [
+                "IT",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "9.99",
+            "dimCodes": [
+                "IT",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "9.20",
+            "dimCodes": [
+                "IT",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "9.86",
+            "dimCodes": [
+                "IT",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "9.73",
+            "dimCodes": [
+                "IT",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "9.15",
+            "dimCodes": [
+                "IT",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "10.27",
+            "dimCodes": [
+                "IT",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "9.13",
+            "dimCodes": [
+                "IT",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "10.30",
+            "dimCodes": [
+                "IT",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "10.41",
+            "dimCodes": [
+                "IT",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "9.71",
+            "dimCodes": [
+                "IT",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "11.49",
+            "dimCodes": [
+                "IT",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "8.75",
+            "dimCodes": [
+                "IT",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "11.47",
+            "dimCodes": [
+                "IT",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "11.62",
+            "dimCodes": [
+                "IT",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "13.41",
+            "dimCodes": [
+                "IT",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "11.03",
+            "dimCodes": [
+                "IT",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "9.72",
+            "dimCodes": [
+                "IT",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "12.17",
+            "dimCodes": [
+                "IT",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "10.49",
+            "dimCodes": [
+                "IT",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "9.40",
+            "dimCodes": [
+                "IT",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "10.22",
+            "dimCodes": [
+                "IT",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "11.40",
+            "dimCodes": [
+                "IT",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "11.36",
+            "dimCodes": [
+                "IT",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "10.66",
+            "dimCodes": [
+                "IT",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "9.29",
+            "dimCodes": [
+                "IT",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "11.53",
+            "dimCodes": [
+                "IT",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "10.76",
+            "dimCodes": [
+                "IT",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "10.56",
+            "dimCodes": [
+                "IT",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "9.92",
+            "dimCodes": [
+                "IT",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "10.11",
+            "dimCodes": [
+                "IT",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "10.78",
+            "dimCodes": [
+                "IT",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "8.89",
+            "dimCodes": [
+                "IT",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "9.73",
+            "dimCodes": [
+                "IT",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "9.73",
+            "dimCodes": [
+                "IT",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "9.67",
+            "dimCodes": [
+                "IT",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "10.20",
+            "dimCodes": [
+                "IT",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "8.81",
+            "dimCodes": [
+                "IT",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "9.87",
+            "dimCodes": [
+                "IT",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "9.98",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "9.14",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "11.03",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "10.13",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "10.51",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "10.25",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "9.25",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "9.87",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "9.71",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "11.29",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "10.37",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "9.39",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "10.76",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "11.08",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "11.00",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "9.77",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "9.08",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "10.64",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "10.04",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "10.13",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "9.64",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "8.82",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "10.15",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "10.67",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "10.13",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "9.57",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "8.76",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "10.07",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "9.90",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "10.16",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "9.88",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "9.25",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "9.60",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "11.05",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "10.17",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "9.99",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "9.05",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "10.67",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "11.97",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "10.38",
+            "dimCodes": [
+                "DK_FI_NO_SE",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "8.59",
+            "dimCodes": [
+                "UK",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "8.41",
+            "dimCodes": [
+                "UK",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "9.09",
+            "dimCodes": [
+                "UK",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "8.03",
+            "dimCodes": [
+                "UK",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "8.83",
+            "dimCodes": [
+                "UK",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "8.81",
+            "dimCodes": [
+                "UK",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "8.29",
+            "dimCodes": [
+                "UK",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "9.41",
+            "dimCodes": [
+                "UK",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "8.34",
+            "dimCodes": [
+                "UK",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "9.21",
+            "dimCodes": [
+                "UK",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "8.93",
+            "dimCodes": [
+                "UK",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "8.56",
+            "dimCodes": [
+                "UK",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "9.58",
+            "dimCodes": [
+                "UK",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "8.36",
+            "dimCodes": [
+                "UK",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "9.23",
+            "dimCodes": [
+                "UK",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "8.92",
+            "dimCodes": [
+                "UK",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "8.27",
+            "dimCodes": [
+                "UK",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "9.50",
+            "dimCodes": [
+                "UK",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "8.50",
+            "dimCodes": [
+                "UK",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "9.40",
+            "dimCodes": [
+                "UK",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "9.06",
+            "dimCodes": [
+                "UK",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "8.31",
+            "dimCodes": [
+                "UK",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "9.70",
+            "dimCodes": [
+                "UK",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "8.57",
+            "dimCodes": [
+                "UK",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "9.74",
+            "dimCodes": [
+                "UK",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "9.24",
+            "dimCodes": [
+                "UK",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "8.81",
+            "dimCodes": [
+                "UK",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "10.23",
+            "dimCodes": [
+                "UK",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "8.58",
+            "dimCodes": [
+                "UK",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "9.31",
+            "dimCodes": [
+                "UK",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "8.87",
+            "dimCodes": [
+                "UK",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "8.63",
+            "dimCodes": [
+                "UK",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "9.33",
+            "dimCodes": [
+                "UK",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "8.43",
+            "dimCodes": [
+                "UK",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "9.08",
+            "dimCodes": [
+                "UK",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "8.93",
+            "dimCodes": [
+                "UK",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "8.36",
+            "dimCodes": [
+                "UK",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "9.70",
+            "dimCodes": [
+                "UK",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "8.73",
+            "dimCodes": [
+                "UK",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "8.94",
+            "dimCodes": [
+                "UK",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "9.40",
+            "dimCodes": [
+                "CH",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "9.84",
+            "dimCodes": [
+                "CH",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "8.71",
+            "dimCodes": [
+                "CH",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "8.55",
+            "dimCodes": [
+                "CH",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "10.49",
+            "dimCodes": [
+                "CH",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "9.47",
+            "dimCodes": [
+                "CH",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "9.08",
+            "dimCodes": [
+                "CH",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "9.61",
+            "dimCodes": [
+                "CH",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "9.95",
+            "dimCodes": [
+                "CH",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "9.39",
+            "dimCodes": [
+                "CH",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "9.55",
+            "dimCodes": [
+                "CH",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "9.19",
+            "dimCodes": [
+                "CH",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "8.95",
+            "dimCodes": [
+                "CH",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "9.92",
+            "dimCodes": [
+                "CH",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "10.23",
+            "dimCodes": [
+                "CH",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "9.08",
+            "dimCodes": [
+                "CH",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "9.31",
+            "dimCodes": [
+                "CH",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "8.59",
+            "dimCodes": [
+                "CH",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "8.61",
+            "dimCodes": [
+                "CH",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "9.79",
+            "dimCodes": [
+                "CH",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "8.72",
+            "dimCodes": [
+                "CH",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "8.47",
+            "dimCodes": [
+                "CH",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "9.05",
+            "dimCodes": [
+                "CH",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "8.76",
+            "dimCodes": [
+                "CH",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "8.60",
+            "dimCodes": [
+                "CH",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "9.39",
+            "dimCodes": [
+                "CH",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "9.60",
+            "dimCodes": [
+                "CH",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "9.32",
+            "dimCodes": [
+                "CH",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "9.57",
+            "dimCodes": [
+                "CH",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "9.03",
+            "dimCodes": [
+                "CH",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "9.55",
+            "dimCodes": [
+                "CH",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "9.43",
+            "dimCodes": [
+                "CH",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "9.05",
+            "dimCodes": [
+                "CH",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "10.08",
+            "dimCodes": [
+                "CH",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "9.80",
+            "dimCodes": [
+                "CH",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "9.60",
+            "dimCodes": [
+                "CH",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "9.47",
+            "dimCodes": [
+                "CH",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "9.77",
+            "dimCodes": [
+                "CH",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "8.44",
+            "dimCodes": [
+                "CH",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "10.71",
+            "dimCodes": [
+                "CH",
+                "2010Q1"
+            ]
+        },
+        {
+            "Valor": "10.06",
+            "dimCodes": [
+                "ZZ",
+                "2017"
+            ]
+        },
+        {
+            "Valor": "9.74",
+            "dimCodes": [
+                "ZZ",
+                "2017Q4"
+            ]
+        },
+        {
+            "Valor": "10.19",
+            "dimCodes": [
+                "ZZ",
+                "2017Q3"
+            ]
+        },
+        {
+            "Valor": "9.86",
+            "dimCodes": [
+                "ZZ",
+                "2017Q2"
+            ]
+        },
+        {
+            "Valor": "10.49",
+            "dimCodes": [
+                "ZZ",
+                "2017Q1"
+            ]
+        },
+        {
+            "Valor": "9.88",
+            "dimCodes": [
+                "ZZ",
+                "2016"
+            ]
+        },
+        {
+            "Valor": "9.31",
+            "dimCodes": [
+                "ZZ",
+                "2016Q4"
+            ]
+        },
+        {
+            "Valor": "10.24",
+            "dimCodes": [
+                "ZZ",
+                "2016Q3"
+            ]
+        },
+        {
+            "Valor": "9.54",
+            "dimCodes": [
+                "ZZ",
+                "2016Q2"
+            ]
+        },
+        {
+            "Valor": "10.41",
+            "dimCodes": [
+                "ZZ",
+                "2016Q1"
+            ]
+        },
+        {
+            "Valor": "10.48",
+            "dimCodes": [
+                "ZZ",
+                "2015"
+            ]
+        },
+        {
+            "Valor": "10.18",
+            "dimCodes": [
+                "ZZ",
+                "2015Q4"
+            ]
+        },
+        {
+            "Valor": "10.55",
+            "dimCodes": [
+                "ZZ",
+                "2015Q3"
+            ]
+        },
+        {
+            "Valor": "10.29",
+            "dimCodes": [
+                "ZZ",
+                "2015Q2"
+            ]
+        },
+        {
+            "Valor": "10.92",
+            "dimCodes": [
+                "ZZ",
+                "2015Q1"
+            ]
+        },
+        {
+            "Valor": "10.97",
+            "dimCodes": [
+                "ZZ",
+                "2014"
+            ]
+        },
+        {
+            "Valor": "10.98",
+            "dimCodes": [
+                "ZZ",
+                "2014Q4"
+            ]
+        },
+        {
+            "Valor": "10.73",
+            "dimCodes": [
+                "ZZ",
+                "2014Q3"
+            ]
+        },
+        {
+            "Valor": "10.52",
+            "dimCodes": [
+                "ZZ",
+                "2014Q2"
+            ]
+        },
+        {
+            "Valor": "11.76",
+            "dimCodes": [
+                "ZZ",
+                "2014Q1"
+            ]
+        },
+        {
+            "Valor": "10.86",
+            "dimCodes": [
+                "ZZ",
+                "2013"
+            ]
+        },
+        {
+            "Valor": "10.43",
+            "dimCodes": [
+                "ZZ",
+                "2013Q4"
+            ]
+        },
+        {
+            "Valor": "11.30",
+            "dimCodes": [
+                "ZZ",
+                "2013Q3"
+            ]
+        },
+        {
+            "Valor": "11.05",
+            "dimCodes": [
+                "ZZ",
+                "2013Q2"
+            ]
+        },
+        {
+            "Valor": "10.54",
+            "dimCodes": [
+                "ZZ",
+                "2013Q1"
+            ]
+        },
+        {
+            "Valor": "11.06",
+            "dimCodes": [
+                "ZZ",
+                "2012"
+            ]
+        },
+        {
+            "Valor": "9.92",
+            "dimCodes": [
+                "ZZ",
+                "2012Q4"
+            ]
+        },
+        {
+            "Valor": "11.08",
+            "dimCodes": [
+                "ZZ",
+                "2012Q3"
+            ]
+        },
+        {
+            "Valor": "12.36",
+            "dimCodes": [
+                "ZZ",
+                "2012Q2"
+            ]
+        },
+        {
+            "Valor": "10.83",
+            "dimCodes": [
+                "ZZ",
+                "2012Q1"
+            ]
+        },
+        {
+            "Valor": "10.55",
+            "dimCodes": [
+                "ZZ",
+                "2011"
+            ]
+        },
+        {
+            "Valor": "10.07",
+            "dimCodes": [
+                "ZZ",
+                "2011Q4"
+            ]
+        },
+        {
+            "Valor": "10.48",
+            "dimCodes": [
+                "ZZ",
+                "2011Q3"
+            ]
+        },
+        {
+            "Valor": "10.81",
+            "dimCodes": [
+                "ZZ",
+                "2011Q2"
+            ]
+        },
+        {
+            "Valor": "10.84",
+            "dimCodes": [
+                "ZZ",
+                "2011Q1"
+            ]
+        },
+        {
+            "Valor": "10.16",
+            "dimCodes": [
+                "ZZ",
+                "2010"
+            ]
+        },
+        {
+            "Valor": "9.41",
+            "dimCodes": [
+                "ZZ",
+                "2010Q4"
+            ]
+        },
+        {
+            "Valor": "10.87",
+            "dimCodes": [
+                "ZZ",
+                "2010Q3"
+            ]
+        },
+        {
+            "Valor": "9.67",
+            "dimCodes": [
+                "ZZ",
+                "2010Q2"
+            ]
+        },
+        {
+            "Valor": "10.47",
+            "dimCodes": [
+                "ZZ",
+                "2010Q1"
+            ]
+        }
+    ]
+}

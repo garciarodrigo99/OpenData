@@ -1,23 +1,17 @@
 class Country:
 
-    def __init__(self,name):
+    def __init__(self,name,id):
         self.name = name
-        self.id = []
+        self.id = [id]
         self.year = []
         self.numberOfDaysOfTourists = []
         self.numberOfInmigrants = []
 
     def isId(self,id):
-        if id in self.id:
-            return True
-        else:
-            return False
+        return id in self.id
 
     def isYear(self,year):
-        if year in self.year:
-            return True
-        else:
-            return False
+        return year in self.year
 
     def yearIndex(self,year):
         assert(self.isYear(year))
@@ -25,7 +19,12 @@ class Country:
             if year == self.year[i]:
                 return i
 
+    def __repr__ (self) -> str:
+        rep = f'{self.name} {self.id}\n'
+        rep += f'\t{self.numberOfDaysOfTourists}\n'
+        rep += f'\t{self.year}\n\n'
 
+        return rep
     
     # def addYear(self,year):
     #     self.year.append(year)
