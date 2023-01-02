@@ -40,39 +40,26 @@ for i in range(sizeOfCountries):    # Recorro labels por su indice
         # Se inserta en el vector de objetos paises
         listOfObjects.append(auxObject)
 
-# Comprobar nombre e id
-for i in listOfObjects:
-    print(i.name, end=" ")
-    print(i.id)
-
 # Expresion regular para evitar cuatrimestres
 p = re.compile('^20[\d][\d]$')
 
 for i in file1["data"]:
-    #if (p.match(i["dimCodes"][1])) and (i["dimCodes"][0] in id_selected_countries):
     if (p.match(i["dimCodes"][1])):
         found = False
         # ------- Pseudo funcion para buscar atributo de elemento -------------
         listofobjetsSize = len(listOfObjects)
-        #print("\n-----------------------Empieza for j-----------------------")
         for j in range(listofobjetsSize):
             if listOfObjects[j].isId(i["dimCodes"][0]):
                 listOfObjects[j].numberOfDaysOfTourists.append(i["Valor"])
                 listOfObjects[j].year.append(i["dimCodes"][1])
                 found = True
                 break
-        # ---------------------------------------------------------------------
-        if found == True:
-            print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])
 
-print("----------------------------------------------------------------------")
 for i in listOfObjects:
-    print(i.name)
-    assert(len(i.numberOfDaysOfTourists) == len(i.year))
-    for j in range(len(i.year)):
-        print("\t",i.numberOfDaysOfTourists[j], i.year[j])
-    print(i.numberOfDaysOfTourists)
-    print(i.year)
+    print(i.name, end=" ")
+    print(i.id)
+    print("\t",i.numberOfDaysOfTourists)
+    print("\t",i.year)
     print()
 #------------------------------------------------------------------------------------------
 file2["categories"][0]["labels"]
