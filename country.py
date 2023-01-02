@@ -23,6 +23,7 @@ class Country:
         rep = f'{self.name} {self.id}\n'
         rep += f'\t{self.year}\n'
         rep += f'\t{self.numberOfDaysOfTourists}\n'
+        rep += f'\t{self.numberOfInmigrants}\n'
 
         return rep
     

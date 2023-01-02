@@ -63,14 +63,24 @@ for index, name in enumerate(file2['categories'][0]['labels']):
 # Insertar media dias y año fichero 2
 insertDay(file2,listOfCountries)
 
+# Numero medio de turistas 2021-2010 ok
+# -----------------------------------------------------------------------------
+
+# Lectura fichero 3
+file3 = None
+with open('file5.json') as jsonFile:
+    file3 = json.load(jsonFile)
+
+lowestYear = int(min(listOfCountries[0].year))
+biggestYear = int(max(listOfCountries[0].year))
+
+for i in file3["data"]:
+    for country in listOfCountries:
+        if not country.isId(i["dimCodes"][0]): continue
+        if (lowestYear <= int(i["dimCodes"][1]) <= biggestYear) and (i["dimCodes"][2] == "T"):
+            #print("Valor:", i["Valor"], "Pais:", i["dimCodes"][0], "Año:",  i["dimCodes"][1], "Sexo:", i["dimCodes"][2])
+            country.numberOfInmigrants.append(i["Valor"])
+            break
+
 for i in listOfCountries:
     print(i)
-
-# datos :
-# nombre Alemania
-# vector pair<año,n> estadistica (2018,9.34)
-
-# objeto main:
-# año
-# vector paises
-# datos par numero_medio_dias, inmigrantes
