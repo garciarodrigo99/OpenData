@@ -1,13 +1,17 @@
 class Country:
 
     name = None
-    id = []
+    #id = []
     year = []
     numberOfDaysOfTourists = []
     numberOfInmigrants = []
 
     def __init__(self,name):
         self.name = name
+        self.id = []
+        self.year = []
+        self.numberOfDaysOfTourists = []
+        self.numberOfInmigrants = []
 
     def isId(self,id):
         if id in self.id:
@@ -18,8 +22,8 @@ class Country:
     def sizeId(self):
         return len(self.id)
 
-    # def addId(self,id):
-    #     self.id.append(id)
+    def addId(self,id):
+        self.id.append(id)
     
     # def addYear(self,year):
     #     self.year.append(year)
