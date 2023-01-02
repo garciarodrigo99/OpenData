@@ -1,11 +1,5 @@
 class Country:
 
-    name = None
-    #id = []
-    year = []
-    numberOfDaysOfTourists = []
-    numberOfInmigrants = []
-
     def __init__(self,name):
         self.name = name
         self.id = []
@@ -18,12 +12,20 @@ class Country:
             return True
         else:
             return False
-    
-    def sizeId(self):
-        return len(self.id)
 
-    def addId(self,id):
-        self.id.append(id)
+    def isYear(self,year):
+        if year in self.year:
+            return True
+        else:
+            return False
+
+    def yearIndex(self,year):
+        assert(self.isYear(year))
+        for i in range(len(self.year)):
+            if year == self.year[i]:
+                return i
+
+
     
     # def addYear(self,year):
     #     self.year.append(year)

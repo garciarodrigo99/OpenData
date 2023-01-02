@@ -37,15 +37,13 @@ for i in range(sizeOfCountries):    # Recorro labels por su indice
         auxObject = Country(file1["categories"][0]["labels"][i])
         # Añado ese id al objeto
         auxObject.id.append(file1["categories"][0]["codes"][i])
-        auxObject.id.append(f'{i}')
-        print(auxObject.name, end=" ")
-        print(auxObject.sizeId(), end= " ")
         # Se inserta en el vector de objetos paises
         listOfObjects.append(auxObject)
-        print(len(listOfObjects))
-        for i in listOfObjects:
-            print(i.name, end=" ")
-            print(i.id)
+
+# Comprobar nombre e id
+for i in listOfObjects:
+    print(i.name, end=" ")
+    print(i.id)
 
 # Expresion regular para evitar cuatrimestres
 p = re.compile('^20[\d][\d]$')
@@ -58,16 +56,24 @@ for i in file1["data"]:
         listofobjetsSize = len(listOfObjects)
         #print("\n-----------------------Empieza for j-----------------------")
         for j in range(listofobjetsSize):
-            #print(i["dimCodes"][0], end=" ")
-            #print(listOfObjects[j].name)
-            ##print("Numero de ids: ",end=" ")
-            ##print(listOfObjects.)
             if listOfObjects[j].isId(i["dimCodes"][0]):
+                listOfObjects[j].numberOfDaysOfTourists.append(i["Valor"])
+                listOfObjects[j].year.append(i["dimCodes"][1])
                 found = True
                 break
         # ---------------------------------------------------------------------
         if found == True:
             print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])
+
+print("----------------------------------------------------------------------")
+for i in listOfObjects:
+    print(i.name)
+    assert(len(i.numberOfDaysOfTourists) == len(i.year))
+    for j in range(len(i.year)):
+        print("\t",i.numberOfDaysOfTourists[j], i.year[j])
+    print(i.numberOfDaysOfTourists)
+    print(i.year)
+    print()
 #------------------------------------------------------------------------------------------
 file2["categories"][0]["labels"]
 for i in selected_countries:
