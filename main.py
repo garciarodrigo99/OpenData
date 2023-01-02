@@ -2,6 +2,18 @@ import json
 import re
 from country import Country
 
+def insertDay(fileName, listOfCountries):
+    # Expresion regular para evitar cuatrimestres
+    p = re.compile('^20[\d][\d]$')
+    for i in fileName["data"]:
+        if (p.match(i["dimCodes"][1])):
+            # ------- Pseudo funcion para buscar atributo de elemento -------------
+            for country in listOfCountries:
+                if country.isId(i["dimCodes"][0]):
+                    country.numberOfDaysOfTourists.append(i["Valor"])
+                    country.year.append(i["dimCodes"][1])
+                    break
+
 # Lectura fichero 1
 file1 = None
 with open('file1.json') as jsonFile:
@@ -23,8 +35,6 @@ file1["categories"][0]["labels"]
 for i in selected_countries:
     assert i in file1["categories"][0]["labels"]
 
-sizeOfCountries = len(file1["categories"][0]["labels"]) # Obtener size
-
 for index, name in enumerate(file1['categories'][0]['labels']):
     # Si el pais esta seleccionado:
     if name not in selected_countries: continue
@@ -33,37 +43,28 @@ for index, name in enumerate(file1['categories'][0]['labels']):
     # Se inserta en el vector de objetos paises
     listOfCountries.append(auxObject)
 
-# Expresion regular para evitar cuatrimestres
-p = re.compile('^20[\d][\d]$')
-
-for i in file1["data"]:
-    if (p.match(i["dimCodes"][1])):
-        # ------- Pseudo funcion para buscar atributo de elemento -------------
-        for country in listOfCountries:
-            if country.isId(i["dimCodes"][0]):
-                country.numberOfDaysOfTourists.append(i["Valor"])
-                country.year.append(i["dimCodes"][1])
-                break
-
-for i in listOfCountries:
-    print(i)
+# Insertar media dias y año
+insertDay(file1,listOfCountries)
     
 #------------------------------------------------------------------------------------------
+# Comprobar que todos los paises que hemos seleccionado estan en el fichero 1
 file2["categories"][0]["labels"]
 for i in selected_countries:
     assert i in file2["categories"][0]["labels"]
 
-for i in file2["data"]:
-    #if (p.match(i["dimCodes"][1])) and (i["dimCodes"][0] in id_selected_countries):
-    if (p.match(i["dimCodes"][1])):
-        for j in listOfCountries:
-            if i["dimCodes"][0] in j.id:
-                print("País: "+i["dimCodes"][0]+"\tValor: "+i["Valor"]+"\tAño: "+i["dimCodes"][1])
-#------------------------------------------------------------------------------------------
-# for i in listOfObjects:
-#     print(i.name)
+for index, name in enumerate(file2['categories'][0]['labels']):
+    # Si el pais esta seleccionado:
+    if name not in selected_countries: continue
+    for country in listOfCountries:
+        if country.name != name: continue
+        country.id.append(file2["categories"][0]["codes"][index])
+        break
 
-#print(d["categories"][0]["labels"][1])
+insertDay(file2,listOfCountries)
+
+for i in listOfCountries:
+    print(i)
+#------------------------------------------------------------------------------------------
 
 # datos :
 # nombre Alemania
