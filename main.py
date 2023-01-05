@@ -2,6 +2,8 @@ import json
 import re
 from country import Country
 
+# https://stackoverflow.com/questions/12965203/how-to-get-json-from-webpage-into-python-script
+
 # Comprobar que todos los paises que hemos seleccionado estan en el fichero X
 def assertCountries(fileName,countries):
     for i in countries:
