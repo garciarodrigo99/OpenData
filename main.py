@@ -1,5 +1,6 @@
 import json
 import re
+import matplotlib.pyplot as plt
 from country import Country
 
 # https://stackoverflow.com/questions/12965203/how-to-get-json-from-webpage-into-python-script
@@ -17,8 +18,8 @@ def insertDay(fileName, listOfCountries):
             # ------- Pseudo funcion para buscar atributo de elemento -------------
             for country in listOfCountries:
                 if country.isId(i["dimCodes"][0]):
-                    country.numberOfDaysOfTourists.append(i["Valor"])
-                    country.year.append(i["dimCodes"][1])
+                    country.numberOfDaysOfTourists.append(float(i["Valor"]))
+                    country.year.append(int(i["dimCodes"][1]))
                     break
 
 # Lectura fichero 1
@@ -81,9 +82,34 @@ for i in file3["data"]:
         if not country.isId(i["dimCodes"][0]): continue
         if (lowestYear <= int(i["dimCodes"][1]) <= biggestYear) and (i["dimCodes"][2] == "T"):
             #print("Valor:", i["Valor"], "Pais:", i["dimCodes"][0], "Año:",  i["dimCodes"][1], "Sexo:", i["dimCodes"][2])
-            country.numberOfInmigrants.append(i["Valor"])
+            country.numberOfInmigrants.append(int(i["Valor"]))
             break
 
 for i in listOfCountries:
     print(i)
 
+x = listOfCountries[0].year
+
+for i in listOfCountries:
+  y = i.numberOfDaysOfTourists
+  plt.plot(x, y, label= i.name)
+
+
+plt.xlabel("Años")
+plt.ylabel("Media de días")
+plt.title("Turistas/días")
+# plt.axes().invert_xaxis()
+# plt.axes().invert_yaxis()
+plt.legend(bbox_to_anchor=(1.05,1))
+plt.show()
+
+for i in listOfCountries:
+  y = i.numberOfInmigrants
+  plt.plot(x, y, label= i.name)
+
+
+plt.xlabel("Años")
+plt.ylabel("Inmigrantes")
+plt.title("Inmigración anual")
+plt.legend(bbox_to_anchor=(1.05,1))
+plt.show()
